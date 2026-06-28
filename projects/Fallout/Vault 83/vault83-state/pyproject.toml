@@ -1,0 +1,53 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "vault83-state"
+version = "0.1.0"
+description = "MCP server for Project Vault 83 — Tier Protocol, Liaison sightline, the Admission Ledger, DEPTH, and the Choice"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "Caleb" }
+]
+license = { text = "MIT" }
+keywords = ["mcp", "roleplay", "narrative", "claude", "anthropic", "fallout", "vault83"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: End Users/Desktop",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+dependencies = [
+    "mcp>=1.0.0",
+]
+
+[project.optional-dependencies]
+# Supabase-backed extension tables (vault83_tier_transitions,
+# vault83_advancement_reviews, vault83_admission_ledger_views, vault83_depth_log,
+# vault83_anchor_attendance, vault83_endings) plus journal_entries (shared).
+# Without this install, the local-JSON tools work normally; the extension
+# tools error gracefully with a setup hint.
+supabase = [
+    "supabase>=2.0.0",
+]
+
+[project.scripts]
+vault83-state = "vault83_state.server:main"
+
+[project.urls]
+Documentation = "https://github.com/yourusername/vault83-state"
+Source = "https://github.com/yourusername/vault83-state"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/vault83_state"]
+
+[tool.hatch.build.targets.sdist]
+include = [
+    "src/",
+    "README.md",
+    "LICENSE",
+]

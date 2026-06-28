@@ -1,0 +1,118 @@
+{
+  "rag_object_type": "research_project",
+  "template_name": "RAG_PROJECT_EXPERIMENT_TEMPLATE",
+  "purpose": "Reusable RAG structure for non-character story objects: experiments, rituals, artifacts under study, research threads, active investigations, and procedural projects.",
+  "fields": {
+    "identity": {
+      "project_key": "<stable_key>",
+      "title": "<display_title>",
+      "object_category": "<experiment | ritual | research_thread | artifact_study | investigation>",
+      "status": "<active | paused | complete | abandoned>",
+      "one_line": "<short retrieval summary>"
+    },
+    "narrative_function": {
+      "why_it_matters": "<story relevance>",
+      "who_cares": [
+        "<character_key_or_name>"
+      ],
+      "stakes": [
+        "<scientific>",
+        "<magical>",
+        "<relationship>",
+        "<plot>"
+      ]
+    },
+    "canon_baseline": {
+      "known_canon": [
+        "<canon facts>"
+      ],
+      "source_notes": [
+        "<web/book/source notes>"
+      ],
+      "limits": [
+        "<what canon does not establish>"
+      ]
+    },
+    "in_world_hypothesis": {
+      "question": "<what is being tested>",
+      "logic": "<why the test makes sense>",
+      "normal_conditions": [
+        "<baseline conditions>"
+      ],
+      "changed_conditions": [
+        "<altered variables>"
+      ]
+    },
+    "participants": {
+      "leads": [
+        "<names>"
+      ],
+      "supervisors": [
+        "<names>"
+      ],
+      "helpers_or_witnesses": [
+        "<names>"
+      ]
+    },
+    "materials_and_setup": {
+      "location": "<where>",
+      "materials": [
+        "<materials>"
+      ],
+      "safety": [
+        "<safety rules>"
+      ],
+      "labels": [
+        "<labels used>"
+      ]
+    },
+    "experimental_arms": [
+      {
+        "arm_id": "<glass_1>",
+        "condition": "<condition>",
+        "started": "<date/time>",
+        "protocol": [
+          "<rules>"
+        ],
+        "observations": [
+          "<observed facts>"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "date_time": "<date/time>",
+        "event": "<setup/check/decision>",
+        "result": "<fact>"
+      }
+    ],
+    "active_protocol": {
+      "checking_rules": [
+        "<when/how to check>"
+      ],
+      "maintenance_rules": [
+        "<how to maintain>"
+      ],
+      "do_not_do": [
+        "<forbidden/confounding actions>"
+      ]
+    },
+    "open_questions": [
+      "<unanswered questions>"
+    ],
+    "continuity_guardrails": [
+      "<things narrator must not drift on>"
+    ],
+    "retrieval_keywords": [
+      "<search terms>"
+    ],
+    "provenance": {
+      "transcript_sources": [
+        "<file/scene references>"
+      ],
+      "web_sources": [
+        "<web references>"
+      ]
+    }
+  }
+}

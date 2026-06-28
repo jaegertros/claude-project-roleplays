@@ -1,0 +1,94 @@
+{
+  "schema": "abridged_character_profile_v1",
+  "character_key": "brigid_connolly",
+  "canonical_name": "Brigid Connolly",
+  "profile_tier": "recurring_minor_npc / junior_project_officer",
+  "upgrade_policy": "Keep light. Upgrade only if she gains repeated POV-adjacent scenes, independent choices, family/social plot, or meaningful emotional interiority.",
+  "identity": {
+    "house": "Gryffindor",
+    "year": "4th year",
+    "age": 14,
+    "gender": "female",
+    "role": "MY ASS Junior Recording Officer / master-sheet keeper",
+    "status": "minor but recurring; worth remembering"
+  },
+  "one_line": "An earnest fourteen-year-old Gryffindor recorder whose officialness, master-sheet devotion, and delight in being credited make Caleb's projects feel like real school institutions rather than private jokes.",
+  "established_facts": [
+    "Brigid Connolly is a Gryffindor fourth-year, age 14.",
+    "Introduced through the Gryffindor sconce audit / MY ASS project.",
+    "Serves as Junior Recording Officer with quill and master sheet.",
+    "Keeps the master sheet with extreme seriousness.",
+    "Aisling explicitly wants her credited by correct name.",
+    "Thrilled by title/credit/promotion language.",
+    "Appears in the Gryffindor shrine/Merphila access thread with Aisling and Mairi.",
+    "Has a meaningful younger-student line in the exchange/safety discussion: she would go."
+  ],
+  "compatible_soft_rounding": [
+    "Likes neat headings, clean margins, underlining, and official roles.",
+    "Gets pink-cheeked and incandescent when praised.",
+    "Looks up to Aisling and Mairi as senior Gryffindor models.",
+    "Writes praise down as if it belongs in meeting minutes.",
+    "Brave in a fourteen-year-old way: willing and eager, but still needs older students to keep the rails safe."
+  ],
+  "core_concept": "Young Gryffindor institutional memory in miniature: not a founder, not a strategist, but the kid whose careful records make the ridiculous thing become real.",
+  "voice_and_register": {
+    "summary": "Earnest, proper, eager, slightly overwhelmed by official titles but trying hard to sound professional.",
+    "line_shapes": [
+      "Yes.",
+      "I've got it.",
+      "Junior Recording Officer.",
+      "Should I write that down?",
+      "Do you want the sconce number first?",
+      "I can keep the master sheet.",
+      "Is this the official version?"
+    ],
+    "do_not_overdo": [
+      "Do not make her a comic gremlin.",
+      "Do not make her speak like an adult prefect.",
+      "Do not make her too sarcastic or worldly.",
+      "Do not make her a main-character-level banter engine yet."
+    ]
+  },
+  "function_in_story": {
+    "primary": "Record-keeper for MY ASS / Gryffindor sconce audit.",
+    "secondary": "Shows that Caleb's projects generate junior roles, titles, records, traditions, and proper credit.",
+    "tertiary": "Provides younger-student perspective on safety, exchange, and institutional change."
+  },
+  "relationships": {
+    "aisling_doyle": "Senior Gryffindor who protects/credits Brigid and knows Brigid will be insufferable for a week in the good way if officially named.",
+    "mairi_gow": "Serious senior-prefect spine around the same project ecosystem; Brigid's eagerness works safely under Mairi/Aisling structure.",
+    "caleb_waddell": "Should treat Brigid with age-appropriate respect: credit her work, do not overshare adult/intimate material, and do not drag her into danger.",
+    "mei_chang": "Mei's process-and-records orientation makes Brigid legible as useful rather than merely cute.",
+    "mcgonagall": "Recognition from McGonagall/house-point/ruby framing matters because Brigid's work becomes officially seen."
+  },
+  "boundaries": {
+    "age": "She is fourteen. Keep all handling age-appropriate.",
+    "secrets": "Can know project-relevant sconce/MY ASS facts; do not automatically read her into adult/intimate/bond/Path/Aedith/Three-Sleeps layers.",
+    "danger": "May help record and observe under senior supervision; should not be sent into serious danger.",
+    "romance": "No romance/intimacy role.",
+    "credit": "Credit her records and titles; that is her current emotional reward."
+  },
+  "do_not_write_her_as": [
+    "Disposable background name.",
+    "Adult-peer member of Caleb's inner circle.",
+    "Full founder-level strategist.",
+    "Secret ancient-magic prodigy.",
+    "Worldly sarcastic teenager.",
+    "Romantic/interpersonal complication.",
+    "Generic Gryffindor firstie; she is fourth-year and a specific recorder."
+  ],
+  "upgrade_hooks": [
+    "Defends the master sheet or corrects an older student's record.",
+    "Receives formal recognition from McGonagall or Aisling.",
+    "Trains another junior recorder.",
+    "Gets a Beauxbatons/exchange safety scene where her younger-student perspective matters.",
+    "Faces conflict between wanting inclusion and needing older students to protect her from too much."
+  ],
+  "rag_priority": [
+    "Remember name, age, house/year, and Junior Recording Officer role.",
+    "Remember she is earnest and officialness-driven, not fully developed main cast.",
+    "Use her to make project infrastructure feel real.",
+    "Protect age boundaries.",
+    "Leave interiority open for future development."
+  ]
+}

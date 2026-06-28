@@ -1,0 +1,1191 @@
+# MASTER — HEXFIELD
+
+Canonical reference for the Hexfield sport and the Hexfield-derived Quidditch training variant.
+
+**Current update status:** revised through Thursday 15 / Friday 16 Sept 1977 material.  
+**Supersedes:** older `MASTER — HEXFIELD` updated 10 Sept 1977 where rules or institutional status conflict.  
+**Do not merge with:** Quidditch itself. Hexfield is its own sport; the Quidditch variant is a role-locked training adaptation.
+
+---
+
+## 0. Continuity priorities
+
+When information conflicts, use this order:
+
+1. Latest transcript / tracker state.
+2. Rules as actually corrected during play.
+3. Teacher/staff verdicts after the Saturday open session.
+4. Hooch Thursday-drill agreement / Quidditch guide.
+5. Older 10 Sept master file.
+
+Important corrections:
+
+- **Respawn/base reset correction:** do **not** let a downed player reactivate directly on top of a flag/base fight.
+- **Base-sitting correction:** do **not** let players win by simply parking on or inside a base/flag point. Base defence is active positioning, not sitting on the pole.
+- **Quidditch variant correction:** Quidditch players keep their real Quidditch roles. Chasers stay Chasers, Beaters stay Beaters, Keepers stay Keepers, Seekers stay Seekers. “Reserve” is not a position.
+- **Official status correction:** Hexfield is staff-backed and moving toward official school sport/activity status, but **Dumbledore’s approval is still pending**.
+- **Funding correction:** Hooch is willing to write the Board/Governors for a Quidditch reflex-training programme; Henshaw can carry school-sport approval upward; Ministry recognition is a longer ambition, not the near-term win.
+
+---
+
+# 1. Invention
+
+**Date:** Sunday 4 September 1977, ~15:40.  
+**Place:** Hufflepuff sketchbook tea.
+
+## Inventors / cofounders
+
+- **Caleb Waddell** — proposed the structure.
+- **Imogen Vale** — designed the pitch geometry and drew the original floor-plan.
+
+## Name etymology
+
+- **Hex** = throwing hexes.
+- **Field** = pitch with two ends and a middle.
+- Sounds enough like **Quidditch** to be legible as a wizarding sport.
+
+## Cofounder agreement
+
+**Date:** Saturday 10 September 1977, ~08:43, Ravenclaw breakfast.
+
+- Caleb Waddell + Imogen Vale = cofounders.
+- Filing target: Christmas hols at the Wizarding Trades Registry, Diagon Alley.
+- Filing type: sport-or-game patent.
+- Cost: 15 Sickles + witness signature.
+- Witnesses: Mei Chang, ideally Cass Vance, Marcus Bletchley, Lin Wan if available.
+- Working registration name:
+
+> Mei Chang, Caleb Waddell, Imogen Vale — Hexfield, registered 1977.
+
+## Official school-sport status
+
+Current status:
+
+> **Pending Dumbledore / school approval.**
+
+Near-term institutional path:
+
+1. Henshaw acts as patron / responsible staff recommender.
+2. Hooch writes the Quidditch-use/funding case.
+3. Henshaw carries both papers upward.
+4. Dumbledore decides internal school sanction / official sport or club status.
+5. Board/Governors may be needed for funding, fixtures, or formal programme recognition.
+
+Possible official forms:
+
+- sanctioned school sport;
+- sanctioned school activity/club;
+- inter-House Hexfield structure;
+- Quidditch reflex-training programme;
+- funded experimental school sport;
+- later Ministry-recognized wizarding game.
+
+Near-term win:
+
+> School-official status + small funding purse.
+
+Longer ambition:
+
+> Ministry sport recognition by the games office, comparable to how Quidditch is formally sanctioned.
+
+---
+
+# 2. Venue
+
+## Room of Requirement
+
+- Location: 7th floor, Barnabas tapestry.
+- Opens on Hexfield imaging.
+- Brass plaque on the door from inaugural match:
+
+> HEXFIELD — Inaugural Match, 4 September 1977.
+
+## Pitch elements
+
+The Room renders:
+
+- inflatable-soft pitch surface;
+- long low wall down the right side;
+- two staggered columns at staggered angles in the middle;
+- raised platform at one end zone for vantage;
+- two flag-poles:
+  - GOLD wood at near end,
+  - PURPLE wood at far end;
+- scoreboard above the door:
+  - slate-black,
+  - chalked-in-gold,
+  - charmed by the Room.
+
+## Wall murals
+
+- Black Lake LEFT — squid surfacing in slow rhythm.
+- Forbidden Forest RIGHT — canopy moving.
+
+## Random in-play magical effects
+
+The Room may add rotating environmental effects per match.
+
+Known effects:
+
+- ankle-deep pond / patch of grass becoming ankle pond;
+- column rotates 45° mid-round;
+- cold draft from the Forest mural;
+- wildflower line in one match only — should not persist into later matches unless the Room recreates it.
+
+**Correction:** Do not carry a Room effect from one match into another unless explicitly preserved. The wildflowers ended with that match.
+
+## Open-session expansion
+
+Saturday 10 Sept request:
+
+- tiered seating wraparound;
+- press box at one end;
+- teachers’ box at the other end;
+- high ceiling and ventilation.
+
+Mei’s engineering note: 8 players fogged the windows Sunday; 60+ running/casting bodies required airflow.
+
+---
+
+# 3. Team formation
+
+## Normal Hexfield
+
+Teams are generated by a Christmas-cracker mechanic with even-fill:
+
+- first cracker random Gold/Purple;
+- once a team hits quota, remaining crackers auto-assign to balance;
+- the mechanism scales with attendance;
+- no fixed official team size.
+
+Inaugural match used 4v4 because 8 people showed up. That was not intended as the permanent team size.
+
+## Mascots / colours
+
+Initial inaugural pins used badger/hippogriff lapel pins.
+
+Later mascot/banner alignment:
+
+- **Gold = Mei’s leopard cat**
+- **Purple = Caleb’s pygmy owl / Athena**
+
+Important correction:
+
+> The later Room-rendered mascot banners lock Gold to leopard cat and Purple to pygmy owl. Do not revert to swapped versions.
+
+## Open-session scale
+
+Pre-door numbers on Saturday 10 Sept:
+
+| House | Count |
+|---|---:|
+| Gryffindor | 33 |
+| Hufflepuff | 30 |
+| Slytherin | 23 |
+| Ravenclaw | 28 |
+| **Total students** | **114** |
+
+Breakdown:
+
+- 45 will-play;
+- 59 watching;
+- 10 question-marks;
+- plus staff;
+- plus possible/actual house-elf guests/support.
+
+Working total room scale:
+
+> approximately 120 people.
+
+Later tracker shorthand sometimes says **~120 attended / ~46 players**. Treat that as the same scale, with one question-mark or late conversion accounting for the extra player.
+
+---
+
+# 4. Core object
+
+Each team has a flag at its own base.
+
+To score:
+
+> Bring the **other team’s flag** back to your **own scoring area/base route**.
+
+Do not over-literalize “base” as a place players can simply sit on forever. The field should force movement, recovery, and tactical play.
+
+---
+
+# 5. Legal spells
+
+Legal spells:
+
+- Stinging Hex
+- Rictusempra
+- Knockback
+- Trip Jinx
+
+Cass’s safety rule:
+
+> Nothing breaks skin.
+
+Illegal spell consequence:
+
+> Casting outside the legal list forfeits the round or triggers an immediate staff/Room stop, depending severity.
+
+---
+
+# 6. Hit / down mechanic
+
+Hit by any legal spell:
+
+1. Player goes down where they stood.
+2. No arguing / tanking / “almost down.”
+3. The Room lights the downed player with visible glow/halo in team colour.
+4. The Room scores the hit.
+5. Player is out until revived or reactivated by the self-runback path.
+
+Core philosophy:
+
+> Hexfield is not about tolerating spells. It is about playing the cascade of who is up and who is down.
+
+---
+
+# 7. Revive / respawn / runback rule
+
+## Current corrected rule
+
+There are two paths back into play.
+
+## Path A — teammate revive
+
+A teammate touches the downed player and maintains unbroken contact for **15 seconds**.
+
+During the 15 seconds:
+
+- reviver cannot move;
+- reviver cannot cast;
+- reviver is a sitting target;
+- if contact breaks, the revive fails or resets.
+
+After 15 seconds:
+
+- downed player reactivates on the spot;
+- glow releases;
+- both players are live.
+
+This replaced the original 30-second teammate revive because 30 seconds was too punishing in a hex zone.
+
+## Path B — self-runback
+
+After a **30-second downed countdown**, the player may rise glowing and self-runback.
+
+The older master said:
+
+> run/walk back to own base, touch base, glow releases, reactivate.
+
+That created a flaw: a player could reactivate **directly at base** during a flag fight, popping live on top of a capture lane.
+
+## Corrected self-runback / respawn-zone rule
+
+After the 30-second countdown:
+
+1. Player rises glowing.
+2. Player must run/walk back to their team’s **barriered respawn zone**, not the flag pole itself.
+3. The respawn zone is in the **back corner / rear lane** behind or offset from the base.
+4. On entering the respawn zone, glow clears.
+5. Player may re-enter play through the marked exit lane.
+
+Purpose:
+
+- long runback remains the real punishment;
+- prevents spawn-camping;
+- prevents instant reactivation directly on the flag;
+- prevents a dead player from popping live inside an active flag-hold fight;
+- keeps the base from becoming an exploit point.
+
+## Base-sitting / flag-camping rule
+
+Players may defend their base, but they may not win by **sitting on the base**.
+
+Base defence must be active:
+
+- hold a lane;
+- call threats;
+- screen a runner;
+- interrupt a flag-hold;
+- reposition inside the defensive shape.
+
+Not allowed:
+
+- physically parking on/in the flag capture point to make play impossible;
+- using body-blocking at the pole as the whole defensive strategy;
+- camping a respawn zone;
+- waiting on the respawn exit to re-hit a returning player;
+- using the corrected respawn zone as a safe sniper nest.
+
+Suggested Room enforcement:
+
+- if a defender remains inside the no-sit base circle too long without active engagement, the Room flashes a warning;
+- second warning = soft ejection/forced reset outside base circle;
+- repeated abuse = discipline penalty or round forfeit.
+
+Status:
+
+> The exact wording can still be polished, but the continuity correction is locked: no direct base reactivation, no base-sitting exploit.
+
+---
+
+# 8. Flag hold / capture
+
+Original rule:
+
+> 30 seconds at enemy base, unbroken, without being downed, to capture and run the flag back.
+
+Status:
+
+- still active unless later changed;
+- may be too long;
+- may be correct;
+- needs continued testing with larger teams and the corrected respawn-zone rule.
+
+Important: the flag hold is a tactical pressure window. It should create drama and a chance to interrupt, not become an endless base scrum.
+
+---
+
+# 9. Positions in normal Hexfield
+
+Normal Hexfield has **no fixed positions**.
+
+Terms like:
+
+- medic,
+- spotter,
+- defender,
+- sneaker,
+- flag-carrier,
+
+are descriptive of emergent play, not locked roles.
+
+Cass’s Sunday read — “Marcus loud-and-fast, Lin sneaker, Imogen medic, Mei on the flag” — described how that session ran. It did not establish a permanent position system.
+
+---
+
+# 10. Patronus openings
+
+Patronus openings are legal as psychological warfare / distraction.
+
+Origin:
+
+- Caleb’s Round 2 Pygmy-Owl Patronus opener.
+- Patronus circled the Purple end zone ~10 seconds.
+- Purple wands got pulled off-field long enough for Imogen to capture.
+- Cass called it the dirtiest opener she had ever seen in a duelling room.
+
+Current status:
+
+- legal;
+- in scope as psychological warfare;
+- must be limited so every opener is not a Patronus.
+
+Working limit options:
+
+- one Patronus opener per team per match;
+- one Patronus opener per player per session;
+- or Room tracks Patronus use as a special tactic with diminishing returns.
+
+Do not overuse until formally written.
+
+---
+
+# 11. Scoring
+
+The Room scores automatically.
+
+It tracks:
+
+- hits;
+- revives;
+- captures;
+- points;
+- likely individual player metrics where requested;
+- in the Quidditch variant, role-specific points.
+
+No human counter needed.
+
+Uneven teams are allowed when needed for closeness.
+
+---
+
+# 12. Inaugural match — Sunday 4 September 1977, 19:00–19:53
+
+8 players. 4v4. 3 matches. Approximately 50 minutes total.
+
+## Teams
+
+**Gold**
+
+- Caleb Waddell
+- Mei Chang
+- Lin Wan
+- Imogen Vale
+
+**Purple**
+
+- Cass Vance
+- Marcus Bletchley
+- Joanna Pugh
+- Edward Macmillan
+
+## Match 1
+
+Result: tied, no captures.
+
+Known details:
+
+- Round 1: 5 minutes, no captures; Gold hits 4, Purple hits 2.
+- Round 2: column rotation flickered mid-round; no captures.
+- Round 3: Purple wedge pinned Caleb on platform.
+- Cass touched Gold flag but Imogen downed her before the 30-second flag-hold window closed.
+- Final match stats: Gold hits 8, Purple hits 6; flag touches Purple 1, Gold 0.
+
+Notes:
+
+- Caleb’s callouts worked.
+- Platform callouts helped but also made Caleb vulnerable to being pinned.
+- Mei identified pseudo-defence/healing as working.
+- Cass laughed properly and called the Room’s weird effects good design.
+- Marcus said: “Hexfield works.”
+- Edward wanted food and bed.
+
+## Match 2
+
+Result: Gold won 1–0.
+
+Key tactic:
+
+- Caleb’s Pygmy-Owl Patronus opener circled Purple end zone for ~10 seconds.
+- Caleb sprinted up right side using Protego against three incoming hexes.
+- Imogen exploited the distraction, took Cass at her own flag, captured Purple flag, and ran it back.
+
+Reactions:
+
+- Cass: dirtiest opener she had ever seen in a duelling room.
+- Joanna: brilliant first capture.
+- Edward: Hexfield works.
+- Marcus: confirmed.
+- Mei: Patronus opener was the breakthrough.
+
+## Match 3
+
+Result: Gold won 2–0.
+
+Key tactic:
+
+- Mei made the winning capture.
+- Imogen provided long-distance Protego cover.
+- Mei moved from static defence into offence.
+
+## Post-match
+
+- Caleb gave good-hustle backhanded pat-on-hip to each player.
+- Joanna warned him not to make a habit of it.
+- Cass recognized the register.
+- Mei reciprocated publicly to Caleb in front of cohort.
+- The Room provided a gold-and-purple-striped Hexfield rules-and-match-record notebook on the table by the door.
+
+---
+
+# 13. Open session — Saturday 10 September 1977, 2:00 p.m.
+
+## Notice text
+
+Posted Friday morning in all four common rooms:
+
+> Hexfield: A wizarding sport, played in the Room of Requirement at the Barnabas tapestry, seventh floor. Inaugural pilot completed. Now opening to fourth-year-and-up participants for Saturday 10 September, 2pm. Spotters and watchers welcome from any year — younger students particularly encouraged to come and learn the rules. Professor Henshaw will be attending as observer. Sign-up sheet posted in each common room Friday morning.
+
+## Henshaw’s role
+
+Before the open session, Henshaw asked hard safety questions:
+
+- Who makes sure no one gets badly cast at?
+- Is anyone going to cast at first-years who cannot dodge?
+
+Outcome:
+
+- 4th-year-and-up cap locked for participants.
+- Younger students welcome as watchers/learners.
+- Henshaw attends at 2:00 as observer, not referee.
+- He will interfere only if something goes wrong.
+- He wants to see what Caleb/Imogen built before deciding staff involvement.
+
+## Known attendance scale
+
+- Gryffindor: 33.
+- Hufflepuff: 30.
+- Slytherin: 23.
+- Ravenclaw: 28.
+- Total students: 114.
+- Will-play: 45.
+- Watching: 59.
+- Question-marks: 10.
+- Total with staff/elves: about 120.
+
+## Staff present
+
+Teachers’ box:
+
+- Professor Henshaw
+- Professor Sprout
+- Professor Kettleburn
+- Professor Sage
+- Madam Hooch
+
+## Elf / kitchen presence
+
+Kitchen/house-elf support matters.
+
+Known support/attendance threads:
+
+- house-elves attended as guests/support;
+- kitchens contributed event food/service;
+- Hippy is involved in Hexfield service/recording context;
+- Tippy and Marble are recurring kitchen collaborators in the broader kitchen arc;
+- a kitchens pâte sucrée basket appears in open-session inventory/side-tray context.
+
+Continuity rule:
+
+> Do not reduce the elves to invisible catering. Hexfield’s public culture includes Caleb treating kitchen staff as guests and collaborators.
+
+## Player / sign-up notes
+
+Returning inaugural cohort:
+
+- Caleb Waddell
+- Mei Chang
+- Lin Wan
+- Cass Vance
+- Marcus Bletchley
+- Imogen Vale
+- Joanna Pugh
+- Edward Macmillan
+
+New/important names from sign-ups:
+
+- Davina Acker — Ravenclaw 7th prefect, will play.
+- Liri Penrose — Ravenclaw 7th, watcher first / possible sub-in; later becomes Hexfield-Quidditch co-captain.
+- Aisling Doyle — Gryffindor 7th prefect, will play.
+- Mairi Gow — Gryffindor 7th prefect, watching first match, may play.
+- Toby Greaves — Gryffindor 7th, Auror track, will play.
+- Marlene McKinnon — Gryffindor 6th, will play, rules questions.
+- Esme Holroyd — watcher.
+- plus many house-signup participants and watchers not individually locked here.
+
+## Open-session match scale
+
+Imogen / Room notes:
+
+- The Room scaled benches deeper than expected.
+- The Room built for ~120, not just ~80.
+- The announcer box had a long-throw speaker.
+- Mascot banners were readable from the back row.
+- Imogen’s design was elaborated by the Room, a major magical-architecture compliment.
+
+## Teacher comments / staff verdict
+
+### Henshaw
+
+Henshaw’s verdict:
+
+> “I’m not taking this off you. I’m putting the staff behind it — carefully, and on terms.”
+
+Terms:
+
+1. Hexfield stays student-run.
+2. Caleb + Imogen remain cofounders.
+3. No teacher designs it.
+4. A staff member is present at every open session as observer/liability cover, not referee.
+5. Henshaw takes the duty for now.
+6. Sprout volunteers backup coverage.
+
+Henshaw’s Defence read:
+
+> A game that teaches children to fight well is a good thing in a year when fighting well is becoming a survival trait.
+
+But he also sees the edge:
+
+> It is also something the wrong people would find interesting if they understood what it trains.
+
+### Sprout
+
+Sprout volunteers as backup adult observer if Henshaw cannot make a date.
+
+Meaning:
+
+> Staff-watched model is broader than DADA and has Hufflepuff/Head-of-House support.
+
+### Kettleburn
+
+Kettleburn makes an approving sound before Henshaw’s verdict.
+
+Meaning:
+
+> A risk-familiar professor does not read Hexfield as uncontrolled danger.
+
+### Sage
+
+Sage supplies the Alchemy/synthesis interpretation:
+
+- Hexfield reveals existing patterns under pressure.
+- It does not make Liri into something; it reveals what was already there.
+- “I came for the Alchemy. I’m staying for the etch.”
+
+### Hooch
+
+Hooch identifies Quidditch transfer value:
+
+> You do not need to fly to teach a flyer how to think fast.
+
+She later agrees to Thursday evening drills and Board petition support.
+
+## Safety record
+
+Hexfield has now been played under both private and public/staff-observed conditions.
+
+Confirmed safety support:
+
+- no serious injuries;
+- legal spell list;
+- Cass’s “nothing breaks skin” rule;
+- fourth-year-and-up player cap;
+- younger students can watch/learn;
+- downed/glow system prevents ambiguity;
+- revive/runback system gives all players a return path;
+- staff observer model accepted;
+- Henshaw standing observer;
+- Sprout backup observer.
+
+Best evidence sentence:
+
+> Hexfield has been played twice cleanly, under observed conditions, with no injuries, with age restrictions added after staff review, and with adult observation accepted as part of the permanent open-session model.
+
+---
+
+# 14. Official status / funding / letters
+
+## Current status
+
+Hexfield is **not yet officially approved** as a school sport.
+
+It is:
+
+- student-built;
+- staff-backed;
+- Henshaw-patroned;
+- Hooch-supported;
+- moving toward Dumbledore/Board approval.
+
+## Henshaw route
+
+Henshaw can:
+
+- write responsible-staff-member recommendation;
+- vouch that it has been played cleanly/no injuries;
+- vouch for safety and educational value;
+- carry papers upward.
+
+He cannot alone make it an official school sport.
+
+## Dumbledore route
+
+Dumbledore is the final internal school gate for official Hexfield status.
+
+If approved, possible benefits:
+
+- official notice-board space;
+- school roster / activity recognition;
+- sanctioned inter-House structure;
+- access to scheduling;
+- small school purse;
+- ability to call itself school sport instead of seventh-year game.
+
+Dumbledore should decide through evidence:
+
+- staff observation;
+- safety record;
+- Hooch written use-case;
+- Henshaw recommendation;
+- educational value;
+- wartime risk;
+- liability;
+- whether official recognition protects or exposes the system.
+
+## Board / Governors route
+
+Hooch is willing to write the Board/Governors.
+
+Her preferred framing:
+
+> not “new sport” first, but a reflex-training programme her Quidditch teams will use.
+
+Why:
+
+- Governors sign practical Quidditch-support funding faster than a brand-new sport request.
+- Hooch’s authority carries more than Caleb asking for club money.
+
+## Funding
+
+Near-term funding ask:
+
+- modest annual club/activity allocation;
+- possible Headmaster purse / Board of Governors / standing educational endowment;
+- enough for cup, banners, pins, printing, scoreboard, eventual gear.
+
+External support:
+
+- athlete-donor letters in the post are meant to supplement school funding.
+- Thursday 15 Sept post backlog includes **two donor replies** arrived/unopened.
+- Inventory later includes **2 Galleons (Hexfield, Pyke fund)**, suggesting at least one named donor/response thread exists and should be tracked separately.
+
+## Ministry recognition
+
+Ministry sport-recognition letter:
+
+- aims higher than school approval;
+- formal recognition by Ministry games office;
+- long ambition.
+
+Do not write Ministry recognition as granted.
+
+Current state:
+
+> Ministry letter exists / is in the sport-recognition track, but school-official + small purse is the nearer target.
+
+## Pending documents / responses to track
+
+| Item | Status | Notes |
+|---|---|---|
+| Henshaw responsible-staff recommendation | needed / pending | “Bring me both papers and I’ll do the walking.” |
+| Hooch Quidditch use-case / Board letter | agreed, to be written | Hooch frames as reflex-training programme. |
+| Dumbledore school-sport approval | pending | Final internal gate. |
+| Board/Governor funding | pending | Hooch route strongest. |
+| Ministry sport-recognition letter | pending / long ambition | Not near-term. |
+| Athlete-donor letters | pending/arriving | External funding support. |
+| Two donor replies | arrived Thu 15 Sept 08:15, unopened in tracker | Need read/log in scene. |
+| Pyke fund | 2 Galleons noted in purse | Track donor identity/conditions when read. |
+| Wizarding Trades Registry sport-or-game patent | planned Christmas hols | Cofounder/legal ownership route, not school-approval route. |
+
+---
+
+# 15. Quidditch training variant
+
+This is a **variant** of Hexfield for Quidditch training.
+
+It does not replace normal Hexfield and does not replace Quidditch practice.
+
+Purpose:
+
+- recognition;
+- pressure;
+- teammate positioning;
+- enemy positioning;
+- callouts;
+- coordination;
+- reflexes;
+- recovery after disruption;
+- tactical patience;
+- position-specific decision-making.
+
+## Agreement with Hooch
+
+**Date:** Monday 12 September 1977, ~10:53–10:54.  
+**Place:** Quidditch pitch.
+
+Caleb pitched:
+
+- Hexfield feeds Quidditch by training reflex-under-fire;
+- Caleb does not need to fly;
+- he brings reading/breaking incoming hits, full-field awareness, tracking teammates/opponents;
+- Liri as co-captain;
+- one weekly standing drill;
+- first team and reserves both;
+- Hooch petitions Governors/funding.
+
+Hooch agreed.
+
+Terms:
+
+- **Thursday evenings**
+- **6:00–7:30 p.m.**
+- on Hooch’s pitch / or Room Hexfield pitch as session requires
+- first team + reserves
+- Caleb + Liri co-running
+- Hooch writes the Board
+- Hooch words it as reflex-training programme her teams use
+- Caleb apologizes to frightened first-years after the broom/fall incident
+
+Later refinement:
+
+> Thursday 15 Sept first session uses only Round 1 and Round 2, with Round 3 held in reserve if Hooch wants another.
+
+## Training match / first drill
+
+**Date:** Thursday 15 September 1977.  
+**Time:** scheduled 18:00–19:30.  
+**Built and ready:** 18:02.  
+**Round 1 complete / Round 2 teed up:** 18:18.
+
+Present:
+
+- Caleb — Owls perch, purple.
+- Liri — Leopard Cats perch, gold.
+- Madam Hooch.
+- Mei.
+- Imogen.
+- Hooch’s Quidditch team / watchers.
+- Players split Owls / Leopard Cats, role-locked.
+
+## Training team names
+
+- **Owls**
+- **Leopard Cats**
+
+These are temporary drill teams, not permanent teams and not Quidditch roles.
+
+## Perch-coaches
+
+Caleb and Liri are active tactical stressors, not neutral referees.
+
+- Caleb attached to **Owls**, purple perch.
+- Liri attached to **Leopard Cats**, gold perch.
+
+They may:
+
+- call instructions to their own team;
+- observe and score awareness;
+- create controlled pressure against the opposing team;
+- use threat-line/marker systems;
+- punish tunnel vision.
+
+They may not:
+
+- enter the field;
+- carry a flag;
+- revive players;
+- score as normal players;
+- cast illegal spells;
+- attack their own side.
+
+## Threat-line warning system
+
+Before a perch-coach casts:
+
+1. Room creates a visible threat-line from perch to target.
+2. Room creates a target-ring/sigil at the target’s feet.
+3. Warning lasts **3 seconds**.
+4. After 3 seconds, perch-coach may release one legal Hexfield spell.
+5. Spell travel time: approximately **0.5 seconds**.
+6. Perch-coach cooldown: **10 seconds** between attacks.
+
+Training goal:
+
+> not dodging in half a second; noticing the developing threat in three seconds and calling/responding.
+
+## Quidditch role-lock rules
+
+Players do not switch Quidditch roles.
+
+A Chaser is a Chaser.  
+A Beater is a Beater.  
+A Keeper is a Keeper.  
+A Seeker is a Seeker.
+
+No “reserve” position. A reserve trains as the position they actually play or are trying to cover.
+
+### Chasers
+
+- Only Chasers may carry/capture flags.
+- Chasers train spacing, route recognition, timing, and communication.
+- Chasers should not bunch blindly.
+
+### Beaters
+
+- Beaters are the main active spellcasters.
+- They create pressure, screen Chasers, interrupt enemy routes, protect revives, and call danger.
+- They should not chase meaningless hits while their Chasers are unsupported.
+
+### Keeper
+
+- Keeper defends the base / defensive third.
+- Keeper is defensive commander.
+- Keeper may cast inside defensive third.
+- Keeper may not roam the whole pitch for glory.
+- Keeper may not carry flag.
+
+### Seeker
+
+- Seeker tracks the Snitch Marker.
+- Seeker is not the healer by default.
+- Seeker’s job is to see the thing everyone else misses:
+  - marker movement,
+  - hidden threat,
+  - bait,
+  - exposed lanes,
+  - perch-line interactions.
+
+## Snitch Marker
+
+The Snitch Marker is a training marker, not a real Snitch.
+
+Appearance:
+
+- tiny gold flicker;
+- winged bead of light;
+- glint between columns;
+- gold mote visible briefly.
+
+Movement:
+
+- along walls;
+- behind columns;
+- above shoulder height;
+- across lanes;
+- near bases;
+- behind perch-coach lines.
+
+Seeker call format:
+
+> Marker / location / movement
+
+Examples:
+
+- “Snitch Marker, left column, rising.”
+- “Gold flicker, centre lane, behind Purple base.”
+- “Lost behind near wall.”
+- “Reappeared high right.”
+- “False bait — real pressure left.”
+
+## Beater Marks
+
+Beater Marks are visible tactical prompts from the Room.
+
+They are not physical balls.
+
+Mark types:
+
+- Screen Mark — protect a friendly Chaser.
+- Intercept Mark — break an enemy flag route.
+- Revive Mark — protect a revive.
+- Perch Mark — someone is being targeted by Caleb/Liri; protect/call/move.
+
+## Round structure
+
+### Round 1 — Baseline Role-Locked Hexfield
+
+Purpose:
+
+> see natural position habits.
+
+Rules:
+
+- Chasers only carry flag.
+- Beaters do the casting.
+- Keepers hold defensive third.
+- Seekers track marker when it lights.
+- Everyone may revive.
+- Caleb/Liri use light perch pressure.
+
+At 18:18, Round 1 result:
+
+- Leopard Cats 23.
+- Owls 3.
+- Cats captured and held.
+- Owls bunched.
+- Owl Beater chased glory.
+- Nobody called a threat-line.
+
+### Round 2 — Threat-Line Recognition
+
+Purpose:
+
+> train reaction to visible developing danger.
+
+Rules:
+
+- full threat-line system active;
+- 3-second warning;
+- 10-second cooldown;
+- Seeker/Beaters get extra score for early recognition.
+
+This is the second planned drill for first night.
+
+### Round 3 — Beater Mark Round
+
+Held in reserve if Hooch wants a third.
+
+Purpose:
+
+> train Beaters to act on the right threat, not nearest target.
+
+## Quidditch drill player list
+
+These names were chosen for the Quidditch training one. Keep them here for now so they can be copied/cut into the Quidditch drill document.
+
+### Owls — Caleb perch / purple
+
+| Player | Position |
+|---|---|
+| Bram Tolliver | Chaser |
+| Sadie Okafor | Chaser |
+| Pippa Hawksworth | Chaser |
+| Garrick Mungo | Beater |
+| Wystan Pell | Beater |
+| Odette Crewe | Keeper |
+| Linus Fairbrother | Seeker |
+
+### Leopard Cats — Liri perch / gold
+
+| Player | Position |
+|---|---|
+| Tobias Wren | Chaser |
+| Marigold Ashby | Chaser |
+| Rhodri Penhallow | Chaser |
+| Hester Locke | Beater |
+| Augustus Dimmock | Beater |
+| Bryony Tate | Keeper |
+| Jasper Quayle | Seeker |
+
+### Observers / officials
+
+- Madam Hooch
+- Mei Chang
+- Imogen Vale
+- Hooch’s remaining team/watchers
+
+---
+
+# 16. Evidence for official approval
+
+## Safety evidence
+
+- private inaugural match played with 8 players;
+- public open session staff-observed;
+- no serious injuries;
+- legal spell list;
+- no skin-breaking rule;
+- 4th-year-and-up cap;
+- younger students watchers only;
+- visible downed glow;
+- revive/runback systems;
+- respawn-zone correction after flaw discovered;
+- staff observer model accepted.
+
+## Educational evidence
+
+Hexfield trains:
+
+- field awareness;
+- full-field callouts;
+- teammate/opponent recognition;
+- positioning;
+- movement under spell pressure;
+- recovery after disruption;
+- protective screens;
+- coordination;
+- tactical patience;
+- applied Defence;
+- Quidditch transfer skills.
+
+## Social / school evidence
+
+- cross-House play;
+- cross-House watching;
+- student ownership;
+- cofounders recognized;
+- House-neutral teams;
+- official-looking Room architecture;
+- student announcer/press function;
+- kitchen/elf inclusion;
+- Liri’s public emergence;
+- Imogen’s design ownership;
+- Mei’s tactical credibility.
+
+## Institutional evidence
+
+- Henshaw supports it.
+- Sprout volunteers backup staff observation.
+- Kettleburn approves rather than alarms.
+- Sage sees synthesis/development value.
+- Hooch wants it for Quidditch training.
+- Dumbledore/Board path now exists.
+
+---
+
+# 17. Open threads
+
+## School sport approval
+
+- Henshaw recommendation.
+- Hooch written Board/use-case letter.
+- Dumbledore decision.
+- Board/Governor funding.
+- Ministry recognition letter.
+- Athlete-donor responses.
+
+## Official registry
+
+- Wizarding Trades Registry filing at Christmas hols.
+- Caleb + Imogen cofounders.
+- Mei witness.
+- Cass/Marcus/Lin ideal additional witnesses.
+
+## Rules still needing polish
+
+- exact base-sitting wording;
+- exact respawn-zone dimensions and barrier rules;
+- Patronus opener limit;
+- flag-hold duration after larger-team tests;
+- whether official match length is time-based, capture-based, or Room-scheduled;
+- how many matches per open session;
+- how to handle question-mark participants;
+- what counts as “staff observer” for liability.
+
+## Quidditch variant
+
+- first night Round 1 + Round 2 only;
+- Round 3 optional if Hooch asks;
+- Room scoreboard by name;
+- role metrics by position;
+- Hooch wants numbers, not instinct.
+
+## Letters / funding
+
+- open donor replies;
+- Pyke fund details;
+- Ministry recognition letter;
+- Hooch Board letter;
+- Dumbledore sign-off.
+
+---
+
+# 18. Drift flags
+
+Correct these aggressively:
+
+- Do not write Hexfield as already officially school-approved.
+- Do not write Dumbledore approval as granted yet.
+- Do not treat Hooch’s Board letter as the same thing as Dumbledore’s school-sport approval.
+- Do not let players respawn directly on the flag/base.
+- Do not let defenders base-sit the pole.
+- Do not make normal Hexfield have fixed positions.
+- Do not make Quidditch players switch roles in the training variant.
+- Do not treat “reserve” as a position.
+- Do not make the Seeker the healer by default.
+- Do not carry Room effects across matches unless explicitly stated.
+- Do not erase elves/kitchen support.
+- Do not erase Imogen as cofounder and visual designer.
+- Do not erase Liri as co-captain / Leopard Cats perch-coach for the Quidditch drill.
+- Do not make staff design the sport; staff support and observe, students own the design.
+
+---
+
+# 19. One-paragraph official summary
+
+Hexfield is a student-built, co-founded wizarding sport invented by Caleb Waddell and Imogen Vale on 4 September 1977 and played in the Room of Requirement. It has been played privately and publicly with no serious injuries, under bounded legal-spell rules, visible downed-player glow, revive/runback mechanics, fourth-year-and-up player safety limits, and staff observation. Five staff members observed the open session; Henshaw backed a student-run/staff-watched model, Sprout volunteered backup coverage, Kettleburn approved from a risk-familiar creature-professor lens, Sage saw synthesis/development value, and Hooch identified direct Quidditch-transfer value. Current institutional status is staff-backed but not yet officially school-approved: Henshaw’s recommendation, Hooch’s Board/use-case letter, Dumbledore’s approval, and possible Board/Governor funding remain pending. The Quidditch training variant is separate from standard Hexfield and uses role-locked Chasers, Beaters, Keepers, and Seekers with Caleb and Liri as perch-coaches applying controlled threat-line pressure.

@@ -1,0 +1,4 @@
+mcp>=1.2
+# recall tools (get state + memory on one endpoint) need holystone importable:
+#   pip install -e /path/to/holystone        (or run with PYTHONPATH=/path/to/holystone)
+# for --http (the live panel): uvicorn + starlette come with mcp[cli]

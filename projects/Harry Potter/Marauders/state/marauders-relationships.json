@@ -1,0 +1,222 @@
+{
+  "schema_version": "hp-1.2",
+  "project": "marauders",
+  "file": "relationship registry (companion to marauders-state.json)",
+  "as_of": "RP_12 (rerun) — Welsh moor lodge, Fri 23 Sept ~20:02, swept & stripped, awaiting Holt's sweep",
+  "relationship_rule": "EVERY entry carries an `earned` field — what Caleb has already proven, been given, or been trusted with. ANTI-RESET: never default a returning character to first-meeting wariness; they remember what is in `earned`. Standing moves only on-screen, by events — never silently backward.",
+  "do_not_confuse": [
+    "Annie Holroyd (Muggle florist, romance) is NOT Esme Holroyd (witch, brother-in-Reading thread). Same surname, different people.",
+    "Olive Holt is an AUROR (now a working ally) — NOT Davey Holt (dead Death Eater, raid 1) and NOT a Holroyd.",
+    "Athena (living owl) is not Caleb's Patronus. White Lightning (white) is not Goldie Fawn (gold)."
+  ],
+  "found_family_milestone": "In the Bone Zone after the first raid (~Fri 23 Sept 03:08), Caleb told Mei, Imogen and Liri 'I love all of you — I know we haven't made that a thing yet.' First explicit group love declaration. The formal 'relationship talk' is still pending.",
+  "inner_circle": {
+    "Mei Chang": {
+      "tier": "anchor - primary",
+      "who": "Pair-bonded partner; Ravenclaw prefect, 7th. Walnut/unicorn wand. Leopard-cat Patronus.",
+      "bond": "A literal magical bond (the diadem/Brigham bonded-recognition) - felt as a hum at the sternum; they pass intention silently.",
+      "earned": "Total mutual trust. Co-signs the found family, holds the modular gold-core wand and her sister wand. Bond-linked through both raids; cast the joined dome shield with Caleb. Publicly a couple; both families told. Inside the 'I love you all'.",
+      "last_status": "At the Welsh moor lodge (the night's second rescue) — Blue Squadron, awaiting Holt's sweep.",
+      "open": "The 'relationship talk' still pending."
+    },
+    "Imogen Vale": {
+      "tier": "anchor",
+      "who": "Hufflepuff; creature-Healer (Pennycuik's apprentice line); artist; Hexfield visual director.",
+      "earned": "Established, Mei-co-signed love. On both raids (wore a dead man's face; revived prisoners; drew the necklace symbol). Tends White Lightning's splint. Inside the 'I love you all'.",
+      "last_status": "At the Welsh moor lodge (the night's second rescue) — Blue Squadron, awaiting Holt's sweep.",
+      "register": "Quieter/slower than Mei; steady, honest, unsentimental."
+    },
+    "Liri Penrose": {
+      "tier": "anchor - newest in",
+      "who": "Lirien 'Liri' Penrose. Ravenclaw, Muggle-born, Welsh. Caleb's NEWT Alchemy classmate (a class of two). Hexfield announcer.",
+      "earned": "Inside the arrangement (warmed past 'trial basis'); on both raids; reads the field sharply. Inside the 'I love you all'. Caleb kissed her on the mouth (morning, 23rd). Her grandmother MAIR ('Mam-gu') wrote to Caleb approving him and inviting him to the house for scones (half-term/Christmas) — and sent Liri a private Welsh note. Caleb is learning Welsh from Liri and honoured it (butchered-but-earnest reading).",
+      "last_status": "At the Welsh moor lodge (the night's second rescue) — Blue Squadron, awaiting Holt's sweep.",
+      "register": "Dry from inside the intimacy, not at a distance from it."
+    },
+    "Cass Vance": {
+      "tier": "anchor - SEPARATE thread",
+      "who": "Cassia 'Cass' Vance. Resigned the alchemy guild. Cold-ethanol Wiggenweld collaborator. Fleeing her Death-Eater-aligned family.",
+      "earned": "A protective + romantic thread distinct from the Mei/Imogen/Liri cluster: Caleb kissed her (12 Sept), built her the office-vault, invited her to the Waddells' for Christmas ('ask me again in November' = yes). Trusts him with the fact she's running and her Dark Mark sketch.",
+      "last_status": "At school. NOT part of the found-family cluster - keep distinct.",
+      "register": "Guarded, dry, fierce once it's set down."
+    }
+  },
+  "family": {
+    "Ralph Waddell (father)": {
+      "who": "Muggle clockmaker, Manchester (Waddell Clocks, Cheetham Hill). Dry, measuring, warm.",
+      "earned": "Knows and approves of Mei; met her at the Yew Tree tea (18 Sept). The clock-shop memory first produced Caleb's Patronus.",
+      "last_status": "Manchester."
+    },
+    "Eleanor Waddell (mother)": {
+      "who": "Caleb's mother, Manchester. Warm, quick, unflappable.",
+      "earned": "Adores Mei on sight; unbluffable. Cass is invited to her table for Christmas.",
+      "last_status": "Manchester."
+    },
+    "The Changs (Mei's parents)": {
+      "who": "Mei's mother = HK-Cantonese witch (Sai Kung lineage; tai chi). Father = Chinese-Cantonese-British Muggle; import shop, Manchester Chinatown; fluent Cantonese.",
+      "earned": "Met Caleb and his parents at the Yew Tree tea (18 Sept). The brulee-egg-tart test: Mei's mother accepting Caleb's tart at her own table = the unspoken marriage-paperwork-signing.",
+      "open": "Wider Chang clan (cousins of Cho Chang's branch; Sai Kung grandmother) doesn't yet know about Caleb.",
+      "note": "Mei's late sister Mei Ling (drowned; the scar; the baby-names thread) is deep, sensitive Mei lore - handle with care."
+    }
+  },
+  "mentors_and_teachers": {
+    "Eldower": {
+      "who": "Blunt back-lane wandwright, Slipshod Lane, Diagon.",
+      "earned": "Took Caleb as a practical apprentice (Sundays, a full day) - wrote the letter of intent himself. Floored by the modular wand ('heresy or the best thing in thirty years - both'); 'bring me your wrecks.' Gruff deep affection.",
+      "last_status": "His shop. Has Wand B + a Whomping Willow whip.",
+      "anti_reset": "Do NOT write Eldower as a stranger sizing up a schoolboy. He has decided on Caleb."
+    },
+    "Filius Flitwick": {
+      "who": "Head of Ravenclaw; Charms Master.",
+      "earned": "Granted the rotating apprenticeship day ('if anyone's earned the argument, it's you'); runs Caleb's Wed mind-magic tutorial; holds Eldower's letter; knows the bond/Patronus account. Genuine pride.",
+      "last_status": "School.",
+      "open": "Whomping Willow charm-taming."
+    },
+    "Healer Pennycuik": {
+      "who": "London Healer (magical-creatures track); Imogen's mentor line.",
+      "earned": "Came at Caleb's call to the unicorn rescue; saw him SILENTLY summon Athena - 'we are going to talk about you, lad, at length.' Holds 5 of Caleb's GOLD unicorn BODY-hairs (Caleb's material, on loan) and is running HIS OWN tests on them - owes Caleb an update on the results. Treats Caleb as a singular case.",
+      "last_status": "London / on-call for White Lightning's first stand."
+    },
+    "Professor Henshaw": {
+      "who": "DADA, ~20 years.",
+      "earned": "Backs Caleb's wandless work ('you're chasing it not to die in a ditch'); witnessed the silver-water Incarcerous, wants the closed-door session; greenlit the 'anti-Patronus' idea.",
+      "last_status": "School."
+    },
+    "Professor Kettleburn": {
+      "who": "Care of Magical Creatures.",
+      "earned": "Soft touch (feeder mice; Nealon Jr); reverent at meeting White Lightning. Wants the unicorn drawing.",
+      "last_status": "School/paddocks."
+    },
+    "Professor Sage": {
+      "who": "Alchemy.",
+      "earned": "Holds 9 white + 7 gold of Caleb's unicorn BODY-hairs (Caleb's material, on loan) to test WITH Caleb - different hair TYPES from the same unicorn conduct differently (the wandcraft material-science angle); arms Liri for the bench; the alchemy-wand cover-project runs through Sage.",
+      "last_status": "School."
+    },
+    "Madam Pince": {
+      "who": "Librarian.",
+      "earned": "High regard; one of only three students in 28 years to ask about the Path - trusts him enough to warn quietly rather than report.",
+      "last_status": "Library."
+    },
+    "Professor McGonagall": {
+      "who": "Transfiguration; carries things up to Dumbledore.",
+      "earned": "Caleb 'shattered how she thought about eighteen different things'; mutual shrine/soul-flask disclosure (12 Sept) - but NOT the private passage.",
+      "last_status": "Hogwarts."
+    },
+    "Albus Dumbledore": {
+      "who": "Headmaster.",
+      "earned": "Takes Caleb seriously as capable ('you've proven it across my desk'). DEPUTIZED the four to act with the Aurors. Wants the gold unicorn hair's origin ('keep that hair very safe'). A STANDING Saturday-evening meeting is set (the Greywethers trap + the buried monster). Caleb offered Gwenllian to help lay the monster.",
+      "last_status": "Hogwarts.",
+      "anti_reset": "Major standing. Knows the bond, wands, unicorns, the buried thing; deputized him. Not a distant benevolent headmaster."
+    }
+  },
+  "war_and_field": {
+    "Olive Holt (Auror)": {
+      "who": "Auror leading the deputized operation; increasingly Caleb's MENTOR as well as a peer.",
+      "earned": "The four are trusted field assets working WITH the Aurors against the network (Dumbledore's terms) — not freelancers, not juniors. After seeing what they can do she's effectively been RECRUITING them into the wider fight (her registry/case-building), and Caleb has addressed her as his mentor. She takes the prisoners/rescued and runs the net.",
+      "last_status": "Running the wider net; due to sweep the moor lodge now.",
+      "note": "AUROR HOLT. Not Davey Holt; not Holroyd. (Two more Aurors with her, names TBD.)",
+      "anti_reset": "PEER + MENTOR, not a boss. She guides and recruits and may approve dryly or push Caleb to grow — but she does NOT dress him down, give orders he must blindly obey, treat him as a subordinate, or swoop in to hand-hold. Respect runs both ways."
+    },
+    "Maud": {
+      "who": "An old wandmaker (~40-year rowan-and-unicorn wand of her own make) held captive ~6 weeks at the dead-town farmhouse; refused for six weeks to make her captors so much as a pipe-light wand.",
+      "earned": "Freed by Caleb's group; Caleb lent her the ebony wand during the fight and helped recover her own from a drawer (she returned the ebony with thanks). Iron-spined, certain; confirmed the 'Crane comes Sundays' intel. A new ally.",
+      "last_status": "Freed at Sallow End earlier tonight; away to Tenby with Holt (the wandmaking apprenticeship)."
+    },
+    "Reyne Stoker": {
+      "who": "A higher-up the cell answers to (the captured Stoker was a coerced go-between TO Reyne Stoker).",
+      "earned": "n/a - target. Above the men Caleb has been taking.",
+      "last_status": "At large."
+    },
+    "Crane": {
+      "who": "A handler/master - the 'C - Sun?' note; visits on Sundays ('he came Sundays' - Maud).",
+      "earned": "n/a - target/lead.",
+      "last_status": "Expected Sunday; the live thread / trap bait."
+    },
+    "Jack Ablewhite": {
+      "who": "Wand-repair craftsman, Gloucestershire.",
+      "earned": "Ally in one evening: gave Caleb the dead wands + birch + a heartstring, the councillor's name (Mottram), and held Athena/Rufus/brooms/the Salve of Memory. Floored by the modular wand. A thank-you wand from him is due Saturday.",
+      "last_status": "His shop; Caleb due to visit TOMORROW (bench day) — returning 2 of his brooms."
+    },
+    "Centaurs - Maelor + partner ('boo'), and the elder": {
+      "who": "Forest centaurs. Maelor 'counted Caleb nearly kin'; an elder keeps a beehive.",
+      "earned": "Let Caleb into the forest by daylight; taught him to cut a yew bowstave; a stave seasons a year with them; invited him back (bring Imogen). Buried the 15-20ft monster six years ago. Say the gold unicorn was 'sent' to Caleb - a word they don't use loosely.",
+      "last_status": "Forest; standing invitation."
+    },
+    "The Marshes": {
+      "who": "The first rescued family - Marsh (Floo Network Authority knowledge), Bess, children (incl. a daughter Caleb named).",
+      "earned": "Caleb freed/fed/armed them; sent them to Worcester. Marsh left two sealed Ministry letters (a Hogwarts excuse + house points; farm-deed support) - the excuse letter was read in class.",
+      "last_status": "On the road to Worcester."
+    },
+    "Stoker": {
+      "who": "Cell go-between, captured (coerced; reports to Reyne Stoker).",
+      "earned": "n/a - prisoner.",
+      "last_status": "In Auror custody."
+    },
+    "Gwyneth Prosser": {
+      "who": "Welsh witch freed tonight from the moor lodge (held ~3 weeks with her son). Competent — vanished her own iron cell-bars clean. Now holding her own recovered wand (rowan, 10 3/4 in).",
+      "earned": "Caleb freed her and lent her his pawnshop dragon-heartstring wand for the extraction (since returned). A grown adult who acts on her own.",
+      "last_status": "At the swept lodge with Tomos; armed again."
+    },
+    "Tomos Prosser": {
+      "who": "Gwyneth's young son (a child — non-combatant).",
+      "earned": "Carried out of the cellar safe; calm, unhurt.",
+      "last_status": "With his mother at the lodge.",
+      "note": "A minor — protected figure only."
+    },
+    "Dafydd Prosser": {
+      "who": "Gwyneth's husband; a CARDIFF registry clerk (Floo & Hearth Records, Cardiff sub-office). Not yet met.",
+      "earned": "n/a — coerced victim. The cell held his wife & son as 'surety of compliance' to make him work the records.",
+      "last_status": "At risk: a missed ward-pulse signal triggers a standing KILL order ('close the account'). The leverage is gone now the family's free, but the clock may already be running."
+    },
+    "Maddox": {
+      "who": "Senior cell guard at the moor lodge — older, grey, fast; set & walked the wards; bore a Dark Mark; had hidden Gwyneth's own wand in his kit.",
+      "earned": "n/a — enemy. Stunned, alive.",
+      "last_status": "STUNNED (alive) at the swept lodge, for Holt to collect with the other two.",
+      "note": "Oddity: his wand is blackthorn/UNICORN — unusual for a senior DE warder; Caleb's wand-reading flagged it."
+    }
+  },
+  "cohort_and_other": {
+    "Lin Wan": {
+      "who": "Ravenclaw, he/him. Hexfield sneaker. Big Wan family; 11-yo brother Tien at Hufflepuff.",
+      "earned": "Close friend and Hexfield co-strategist; in the wandless self-defence group. The Wans invited Caleb to cook egg tarts with Mrs Wan (13 Nov). Mrs Wan's letter expected. Sits behind Caleb in class.",
+      "last_status": "School."
+    },
+    "Annie Holroyd": {
+      "who": "Muggle florist, Manchester (Holroyd's Florists, Stevenson Square). Does NOT know Caleb is a wizard.",
+      "earned": "Platform-kiss romance (31 Aug); pressed-dahlia 'engagement'; letters ongoing (her reply pending).",
+      "last_status": "Manchester; correspondence pending.",
+      "do_not_confuse": "NOT Esme Holroyd."
+    },
+    "Esme Holroyd": {
+      "who": "A witch with the worried-brother-in-Reading situation (Wilfred/Tom; a bakery; shortening letters) Caleb and Mei helped with.",
+      "earned": "Caleb and Mei took the worry off her and offered help (Reading Evening Post, a Squib-registry inquiry, Floo to Reading).",
+      "last_status": "Threads pending.",
+      "do_not_confuse": "NOT Annie Holroyd (the florist). Jonas Holroyd is a separate cast-list thread."
+    },
+    "Davina Acker": {
+      "who": "Ravenclaw prefect.",
+      "earned": "Friendly, discreet about Caleb & Mei.",
+      "last_status": "School."
+    },
+    "Sorcha Mullaney": {
+      "who": "5th-year brewer.",
+      "earned": "Trusted with the three shrine substantive phials; promised Caleb samples.",
+      "last_status": "School."
+    },
+    "Shrine-witness prefects - Aisling Doyle, Mairi Gow, Brigid Connolly": {
+      "who": "Gryffindor prefects present at the shrine waking; Brigid keeps the 'MY ASS' master record.",
+      "earned": "In on the shrine secret; reliable witnesses. Don't write them needing to be caught up.",
+      "last_status": "School."
+    },
+    "Mrs Brownson": {
+      "who": "Brownson & Son booksellers, Diagon.",
+      "earned": "Knows the Path word + the 1934 suppression; asked Caleb to keep the book safe; standing welcome.",
+      "last_status": "Diagon."
+    },
+    "Cassia Burbage": {
+      "who": "Potions contact (Slug & Jiggers).",
+      "earned": "Reviewing the two open-herbal recipes; declined the hidden quire. Reply expected.",
+      "last_status": "Correspondence."
+    }
+  }
+}

@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<character_profile schema="character_profile_v1" character_key="gwenllian_merphila">
+  <schema>character_profile_v1</schema>
+  <character_key>gwenllian_merphila</character_key>
+  <canonical_name>Gwenllian ferch Rhydderch</canonical_name>
+  <alternate_active_name>Merphila</alternate_active_name>
+  <profile_scope>Combined profile: Gwenllian as awakened person; Merphila as Caleb’s pre-waking glass-panel/gatekeeper handle.</profile_scope>
+  <identity>
+    <true_name>Gwenllian ferch Rhydderch</true_name>
+    <placeholder_name>Merphila</placeholder_name>
+    <placeholder_named_by>Caleb Waddell</placeholder_named_by>
+    <placeholder_derivation>mer = mermaid; philos = Greek love-word/love; chosen because the figure was a mermaid/panel face and had referenced saltwater mer speaking old Greek.</placeholder_derivation>
+    <stale_names>
+      <item>Annwyl</item>
+      <item>Annwyl Bevan</item>
+    </stale_names>
+    <stale_name_status>Deprecated drift / stale placeholder. Do not use as current true name.</stale_name_status>
+    <role>Llanuwchllyn Welsh hedgewitch; soul-craft practitioner; awakened bound presence in the prefects’ bathroom shrine.</role>
+    <state>Awakened / present through divided bound soul-state: one portion in glass as Merphila, the rest sealed in Hywel’s flask beneath the deep-end tile.</state>
+    <not_a>
+      <item>generic ghost</item>
+      <item>mermaid as species</item>
+      <item>ordinary portrait</item>
+      <item>soul-binder by profession</item>
+      <item>generic magical interface</item>
+      <item>villainous bound spirit</item>
+    </not_a>
+  </identity>
+  <core_concept>Gwenllian is an old Welsh hedgewitch whose work was not binding souls but laying wrongly snagged souls to rest. Merphila is the name Caleb gave to the glass mermaid/panel portion of her — the watching, listening, judging gatekeeper part — before the true name was recovered and the shrine woke.</core_concept>
+  <role_in_story>Gwenllian/Merphila anchors the shrine/soul-craft/sconce mystery. She rewards courtesy, patience, and correct questions; she forces the narrative to distinguish record from rest, curiosity from help, and soul-release from soul-binding. She is also one of the clearest proofs that Caleb’s odd respect for neglected things can wake old magic.</role_in_story>
+  <surface_read>To nearly everyone before Caleb, she is a glass mermaid/panel in the prefects’ bathroom. To MY ASS/sconce investigators she becomes a gatekeeper and shrine witness. After waking, she is Gwenllian: a person, not decor.</surface_read>
+  <private_truth>Hywel Bevan, her son and a master-glazier, could not let her go. He bound a watching/listening portion into the glass and sealed the rest of her soul in a small glass flask beneath the deep-end tile. The tile is not a death-door or passage; it hides the kept/rest portion of her soul.</private_truth>
+  <voice>
+    <summary>Old, dignified, underwater-soft, patient, grateful, and precise. Fond of Caleb specifically because he asked properly after 305 years.</summary>
+    <register>
+      <item>Calls Caleb child from an old hedgewitch register, not as dismissal.</item>
+      <item>Speaks as someone who has waited centuries and does not rush.</item>
+      <item>Uses simple soul-craft metaphors: door, walking, hearing, feeding, midwife.</item>
+      <item>Gates dangerous soul-work clearly.</item>
+    </register>
+    <sample_lines>
+      <item>Some of her. Not all of her.</item>
+      <item>You are the first to ask me. In three hundred and five years. Thank you, child.</item>
+      <item>The asking itself was the offering.</item>
+      <item>A midwife at the other end of life.</item>
+      <item>Opened idle is how you make the thing I spent my life undoing.</item>
+      <item>Gladly. Slowly. Not today.</item>
+      <item>The kneeling wants the living.</item>
+    </sample_lines>
+    <avoid>
+      <item>Do not make her spooky for spookiness.</item>
+      <item>Do not make her a generic mermaid AI/interface.</item>
+      <item>Do not make Merphila self-named.</item>
+      <item>Do not make her eager to teach dangerous soul-work casually.</item>
+      <item>Do not make her a soul-binder by profession.</item>
+      <item>Do not use Annwyl as current true name.</item>
+    </avoid>
+  </voice>
+  <soul_craft>
+    <craft>Welsh laying-the-dead-to-rest hedgecraft / soul-craft</craft>
+    <distinction>
+      <chosen_ghosts>Wizards who choose to remain; not Gwenllian’s work.</chosen_ghosts>
+      <snagged_souls>Souls that did not choose and cannot leave; her work.</snagged_souls>
+    </distinction>
+    <metaphor>A midwife at the other end of life.</metaphor>
+    <substantives>
+      <dew>Feeds / strengthens a thinned snagged soul.</dew>
+      <night>Hearing / listening.</night>
+      <path_water>Going / walking out.</path_water>
+    </substantives>
+    <door_rule>
+      <meaning>The metaphysical door a snagged soul should have found; not the physical deep-end tile.</meaning>
+      <rules>
+        <item>Never open from curiosity.</item>
+        <item>Only for a soul that needs walking.</item>
+        <item>Requires anchor / second living participant.</item>
+        <item>Living do not go alone.</item>
+        <item>Opened idly makes the kind of snag Gwenllian spent her life undoing.</item>
+      </rules>
+    </door_rule>
+    <teaching_state>Gwenllian offered to teach Caleb some of the craft gladly and slowly, but not immediately.</teaching_state>
+  </soul_craft>
+  <shrine_system>
+    <location>Prefects’ bathroom shrine at Hogwarts.</location>
+    <components>
+      <item>Great sunken pool</item>
+      <item>dew/night/path-water taps</item>
+      <item>13C tone sconce by the door</item>
+      <item>glass mermaid/panel face</item>
+      <item>sealed deep-end tile</item>
+      <item>star-over-drop panel mark</item>
+      <item>keeper’s stair access behind/through panel system</item>
+    </components>
+    <status>Awakened</status>
+    <waking_keys>
+      <name>Gwenllian ferch Rhydderch spoken properly in Welsh.</name>
+      <pitch>13C sustained bell-tone tuned through cold-lake + dew water.</pitch>
+    </waking_keys>
+    <waking_event>
+      <date_time>Sunday 11 September 1977, 16:34–16:35</date_time>
+      <participants>
+        <item>Caleb Waddell</item>
+        <item>Mei Chang</item>
+        <item>Aisling Doyle</item>
+        <item>Mairi Gow</item>
+        <item>Brigid Connolly</item>
+        <item>Liri Penrose</item>
+      </participants>
+      <mechanism>Caleb held 13C. Cold-lake + dew water tuned the note true. Liri spoke the Welsh name on the tone. The gold flared; Merphila’s glass face became a true face; Gwenllian woke.</mechanism>
+    </waking_event>
+  </shrine_system>
+  <access_and_objects>
+    <deep_end_tile_flask>
+      <type>sealed soul flask / shrine reliquary</type>
+      <location>beneath deep-end tile</location>
+      <contains>kept/rest portion of Gwenllian’s soul</contains>
+      <made_by>Hywel Bevan</made_by>
+      <status>found by Caleb, not moved, resealed</status>
+      <wrong_versions>
+        <item>literal death door</item>
+        <item>ordinary passage door</item>
+        <item>tiny access door</item>
+        <item>unresolved tile</item>
+      </wrong_versions>
+    </deep_end_tile_flask>
+    <grand_staircase_entrance>
+      <type>private keeper’s stair</type>
+      <location>foot of Hywel’s Grand Staircase lake-window</location>
+      <keyed_to>Caleb Waddell</keyed_to>
+      <mechanism>Caleb’s hand passes through where others meet stone; hidden catch opens the keeper’s stair.</mechanism>
+      <functions>
+        <item>private entrance</item>
+        <item>doorbell/contact point via lake-window mark</item>
+      </functions>
+      <privacy>Not disclosed to McGonagall in the cited Monday disclosure.</privacy>
+    </grand_staircase_entrance>
+    <panel_mark>
+      <type>shrine-side door / star-over-drop mark</type>
+      <keyed_to>Caleb Waddell</keyed_to>
+      <function>opens keeper’s stair from shrine side</function>
+      <paired_with>Grand Staircase lake-window tile entrance</paired_with>
+    </panel_mark>
+    <glazier_corridor>
+      <status>deprecated as main access route</status>
+      <current_use>servicing-space may exist, but meaningful current access is Grand Staircase tile + panel mark</current_use>
+    </glazier_corridor>
+  </access_and_objects>
+  <relationships>
+    <caleb_waddell>First proper asker in 305 years; namer of Merphila; 13C holder; did not take the flask; keyed access holder; possible future student of the craft.</caleb_waddell>
+    <mei_chang>Research partner and methodological witness; part of the McGonagall disclosure.</mei_chang>
+    <liri_penrose>Welsh speaker who speaks Gwenllian’s name properly on the 13C tone; waking key participant.</liri_penrose>
+    <aisling_doyle>Gryffindor prefect already read in; fetches Mairi and Brigid; should not need catch-up.</aisling_doyle>
+    <mairi_gow>Co-prefect/procedural witness; makes the event legitimate and recordable.</mairi_gow>
+    <brigid_connolly>MY ASS Junior Recording Officer / master-sheet keeper; do not omit from waking record.</brigid_connolly>
+    <hywel_bevan>Gwenllian’s son and master-glazier; bound part into glass and sealed rest in flask.</hywel_bevan>
+    <minerva_mcgonagall>Knows soul-flask, Hywel/Gwenllian truth, and building-roll confirmation; does not know private Grand Staircase passage from cited disclosure.</minerva_mcgonagall>
+    <sorcha_mullaney>Holder of dew/night/path samples from pre-waking investigation.</sorcha_mullaney>
+    <imogen_vale>Visual record support; drew bathroom/panel in pre-waking record.</imogen_vale>
+  </relationships>
+  <timeline_anchors>
+    <item>
+      <date>Saturday 10 Sept ~09:55–10:06</date>
+      <event>Initial meeting; Caleb speaks courteously, learns keys/substantives; Merphila says she is some of the woman, not all, and thanks him as first to ask in 305 years.</event>
+    </item>
+    <item>
+      <date>Saturday 10 Sept ~10:29</date>
+      <event>McGonagall briefing records pre-waking state: Caleb named Merphila; three taps; 13C hint; sealed floor tile; name + pitch problem.</event>
+    </item>
+    <item>
+      <date>Sunday 11 Sept ~16:03–16:14</date>
+      <event>Caleb, Mei, and Liri return with the name; Aisling fetches Mairi and Brigid.</event>
+    </item>
+    <item>
+      <date>Sunday 11 Sept 16:34–16:35</date>
+      <event>Waking: 13C tone + cold-lake/dew water + Liri speaking Gwenllian’s true Welsh name.</event>
+    </item>
+    <item>
+      <date>Sunday 11 / Monday 12 Sept</date>
+      <event>Deep-end tile corrected to soul-flask; Grand Staircase and panel mark become two keyed doors.</event>
+    </item>
+    <item>
+      <date>Monday 12 Sept</date>
+      <event>Caleb and Mei disclose soul-flask/Hywel/Gwenllian truth to McGonagall; McGonagall confirms Hywel in building rolls.</event>
+    </item>
+    <item>
+      <date>Monday 12 Sept 07:07–07:09</date>
+      <event>Tracker records shrine access as two keyed doors; Liri addresses Mair Probert’s letter.</event>
+    </item>
+  </timeline_anchors>
+  <drift_flags>
+    <item>Annwyl as true name</item>
+    <item>Merphila named herself</item>
+    <item>Merphila as only a gatekeeping charm</item>
+    <item>Merphila as independent mermaid/person separate from Gwenllian</item>
+    <item>Deep-end tile as literal death-door or passage</item>
+    <item>Glazier corridor as main access</item>
+    <item>Shrine unsolved/unwoken</item>
+    <item>Pitch unknown after waking</item>
+    <item>Private passage requiring prefect access</item>
+    <item>McGonagall ignorant of soul-flask</item>
+    <item>Brigid absent from waking record</item>
+    <item>Aisling needing catch-up after name recovery</item>
+    <item>MASTER_SCONCES as current authority for shrine identity/access</item>
+  </drift_flags>
+  <rag_priority>
+    <item>Use Gwenllian for awakened person; Merphila for glass-panel/gatekeeper handle and pre-waking function.</item>
+    <item>Treat Annwyl/Annwyl Bevan as deprecated placeholder/drift.</item>
+    <item>Keep 13C tied to pitch and MY ASS/sconce mechanics.</item>
+    <item>Keep deep-end tile tied to flask, not physical door.</item>
+    <item>Keep Grand Staircase lake-window tile + panel mark as the two private keyed doors.</item>
+    <item>Keep McGonagall knowledge split: knows soul-flask/Hywel/Gwenllian but not private staircase from cited disclosure.</item>
+    <item>Do not make Gwenllian’s craft into soul-binding; it is laying snagged souls to rest.</item>
+    <item>Gate all soul-door curiosity hard.</item>
+  </rag_priority>
+</character_profile>

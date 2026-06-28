@@ -1,0 +1,22 @@
+[
+ {"q":"Who is Maud the captured wandmaker?","expect":["maud"]},
+ {"q":"the dead-town farmhouse raid and freeing the prisoner","expect":["maud","farmhouse"]},
+ {"q":"What form does Caleb's Patronus take?","expect":["pygmy owl","patronus"]},
+ {"q":"Gwenllian and the awakened shrine in the prefects' bathroom","expect":["gwenllian"]},
+ {"q":"drawing silver water up the wand to load a spell","expect":["silver"]},
+ {"q":"the brother and sister wands cored with unicorn hair","expect":["brother","sister"]},
+ {"q":"Olive Holt the Auror leading the operation","expect":["holt"]},
+ {"q":"the handler Crane who comes on Sundays","expect":["crane","sunday"]},
+ {"q":"the giant monster the centaurs buried in the forest","expect":["buried","centaur"]},
+ {"q":"Mei's Patronus the leopard cat","expect":["leopard","cat"]},
+ {"q":"White Lightning the unicorn's splinted broken leg","expect":["splint","lightning"]},
+ {"q":"the office that works as a hidden vault for Cass","expect":["office","vault"]},
+ {"q":"the Path of the Seventeen from the Borgin and Burkes book","expect":["path"]},
+ {"q":"Eldower taking Caleb on as an apprentice on Sundays","expect":["eldower"]},
+ {"q":"the night Caleb said I love all of you in the Bone Zone","expect":["love"]},
+ {"q":"Fawkes the phoenix reacting to the gold unicorn hair","expect":["fawkes"]},
+ {"q":"Liri's grandmother Mam-gu and her letter","expect":["mam-gu","mair"]},
+ {"q":"Reyne Stoker the figure the cell answers to","expect":["stoker"]},
+ {"q":"the Yew Tree tea meeting the parents","expect":["yew tree","tea"]},
+ {"q":"the dragon heartstring wands taken as trophies","expect":["dragon","wand"]}
+]

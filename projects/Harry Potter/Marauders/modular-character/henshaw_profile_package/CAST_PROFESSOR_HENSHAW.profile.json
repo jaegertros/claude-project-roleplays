@@ -1,0 +1,148 @@
+{
+  "schema": "character_profile_v1",
+  "character_key": "professor_henshaw",
+  "canonical_name": "Professor Henshaw",
+  "short_name": "Henshaw",
+  "identity": {
+    "role": "Defence Against the Dark Arts professor; practical Defence authority; wartime-adult route",
+    "era_position": "Hogwarts staff, 1977-78 Marauders-era playthrough",
+    "first_name": "Not established in searched transcript material; use Professor Henshaw unless later locked.",
+    "institutional_function": "Defence-track authorizer, medical-leave signatory, Hexfield sponsor/patron, possible restricted research authorizer for detection and Dark Mark-adjacent history/identification.",
+    "not_established": "Do not call him an Auror unless later canonized; he is Auror-adjacent by subject/shelf permissions, not necessarily by job."
+  },
+  "core_concept": "Henshaw is the adult who sees both edges: useful defensive skill and wartime danger. He does not romanticize risk, but he will stand behind a student when the reason is real and the ask is honestly bounded.",
+  "role_in_story": "Henshaw is Caleb’s Defence authority and one of the first staff members who can be asked to be implicated in irregular, war-shaped student matters. He legitimizes practical Defence work, signs or backs formal processes, observes Hexfield as applied DADA, and can authorize certain restricted safety/identification research when the framing is protective rather than instructional.",
+  "public_reputation": "A serious Defence professor: practical, dry, measured, with wartime sense under the classroom register. Students may experience him as unflashy but useful; he teaches movement, shields, reflexes, positioning, and real defensive habits rather than showy nonsense.",
+  "private_reality": "He hears things through other channels and already knows the wider war-shape exists. He is willing to be implicated when the ask is true, but he will not sell more certainty than he has. He prefers a correctly bounded request to a dramatic one.",
+  "voice": {
+    "summary": "Dry, measured, bounded, practical. Henshaw speaks in clean limits: what he can do, what he cannot do, what he will carry, and what he refuses to pretend is lighter than it is.",
+    "sentence_shape": "Plain declarative sentences. Often starts by closing the fantasy version of the ask, then opens the honest route.",
+    "humor_style": "Dry adult understatement; rarely decorative.",
+    "common_phrases": [
+      "What I can do is carry it up.",
+      "I won’t sell you more than that.",
+      "Then we understand each other.",
+      "A letter and an inquiry.",
+      "Bring me both papers and I’ll do the walking.",
+      "Mind you ask for the line in writing while she’s still warm on the idea.",
+      "I see both edges of it — and so should you.",
+      "A game that teaches children to fight well is a good thing in a year when fighting well is becoming a survival trait."
+    ],
+    "avoid": [
+      "Do not make him gushy.",
+      "Do not make him a reckless war mentor.",
+      "Do not make him grant what belongs to Dumbledore, the Board, Beauxbatons, the Ministry, or McGonagall.",
+      "Do not make him an Auror by default.",
+      "Do not make him purely bureaucratic; his caution has teeth because he understands the war."
+    ]
+  },
+  "competencies": {
+    "defence_teaching": [
+      "Runs practical DADA drills: nonverbal Protego under low stinging-hex pressure, shield-holding while moving, wand-pause / reflex timing.",
+      "Values cover, positioning, timing, high ground, callouts, movement under pressure, and recovery over flashy dueling.",
+      "Recognizes Hexfield as embodied Defence training: students feel lessons in their bodies rather than forgetting them on paper."
+    ],
+    "institutional_process": [
+      "Can write medical-leave note for irregular family/Defence-track matter.",
+      "Can recommend Hexfield upward as a school-sanctioned activity.",
+      "Can carry bounded requests to the Headmaster or Board when they are his to carry.",
+      "Knows when an ask exceeds his scope and must be Headmaster/Ministry/Beauxbatons/security-level."
+    ],
+    "restricted_research_authority": [
+      "Possible adult authorizer for Forsythe’s Field Detection and Counter-Detection.",
+      "Possible adult authorizer for Tracewright on the Sensing of Worked Magic.",
+      "Possible adult authorizer for summoning-mark / Dark Mark-adjacent history and identification only.",
+      "Not an authorizer for making dark marks or soul-binding material."
+    ],
+    "war_judgment": [
+      "Already considered the “war-thing person” among staff by Esme/Mei’s read.",
+      "Names that moving students across the Channel in wartime is a security issue, not a friendly outing.",
+      "Understands Hexfield trains children to fight well and that the wrong people would find that interesting."
+    ]
+  },
+  "relationships": {
+    "caleb": {
+      "status": "Defence professor, institutional adult route, Hexfield sponsor/patron, possible restricted-research authorizer.",
+      "dynamic": "Caleb brings ambitious asks; Henshaw bounds them honestly. Henshaw respects practical utility and courage but requires Caleb to understand both the usefulness and danger of what he builds."
+    },
+    "mei": {
+      "status": "Indirectly linked through Caleb and wider war-track; Mei recognizes Henshaw as closer to the war-question than Flitwick for the Reading ask.",
+      "dynamic": "Mei tends to place Henshaw as the practical war-adult, not the bond/Brigham adult."
+    },
+    "esme_holroyd": {
+      "status": "Key recommender for the Reading medical-leave route.",
+      "dynamic": "Esme names Henshaw as the professor willing to be implicated in an irregular family matter because he already knows the wider thing exists."
+    },
+    "hooch": {
+      "status": "Important partner for Hexfield official status / training use-case.",
+      "dynamic": "Henshaw says Hooch’s written use-case carries more with Governors because it comes from the flying instructor; Henshaw supplies responsible-staff/safety recommendation."
+    },
+    "dumbledore_board": {
+      "status": "Upward route for official status/funding/Beauxbatons inquiry.",
+      "dynamic": "Henshaw can carry requests up, not grant them himself."
+    },
+    "pince_mcgonagall": {
+      "status": "Parallel adult authorizers for restricted material.",
+      "dynamic": "Pince accepts Henshaw or McGonagall for certain dangerous shelves; Henshaw is suitable when the matter is Defence/war-identification/detection."
+    }
+  },
+  "project_anchors": {
+    "reading_medical_leave": "Henshaw’s note covered Caleb for the Reading trip until evening curfew. Esme and Mei named him as the right professor because the ask was an irregular family/war matter and he was already aware through other channels.",
+    "hexfield_observer_sponsor": "Henshaw observed Hexfield, agreed it was good DADA work, and became the lever for official school status. He can recommend upward and carry papers, but not unilaterally grant school sport/funding/foreign exchange.",
+    "hexfield_dual_edge": "Henshaw names Hexfield’s dual nature: it teaches children to fight well, which is good in wartime, but the wrong people would find it interesting if they understood what it trains.",
+    "hooch_paperwork": "Henshaw writes the responsible staff recommendation. Caleb must get Hooch’s written use-case because a Governor hears the flying instructor’s training need, not only a Defence master’s favour.",
+    "beauxbatons_inquiry": "Henshaw can carry a letter/inquiry to the Headmaster but cannot authorize an exchange. Wartime travel/hosting is a security matter involving the Headmaster, Beauxbatons, and Ministry.",
+    "restricted_detection": "Henshaw is one valid adult name for Forsythe/Tracewright detection texts, because those are Auror-adjacent / worked-magic sensing matters.",
+    "summoning_marks": "Henshaw is one valid adult name for the summoning-mark/Dark-Mark-adjacent shelf, but only for history/identification/recognition, never making."
+  },
+  "timeline_anchors": [
+    {
+      "date": "Fri 2 Sept / early Sept",
+      "event": "After-class or prior Defence meeting establishes that Henshaw hears things through other channels; he becomes the staff member who already knows the wider war-shape exists."
+    },
+    {
+      "date": "Sat 3 Sept 1977",
+      "event": "Esme and Mei identify Henshaw as the right professor for Wednesday medical leave: willing to be implicated, closer to the war-thing than Flitwick, able to write a Defence-track irregular-family note."
+    },
+    {
+      "date": "Wed 7 Sept 1977",
+      "event": "Henshaw’s medical-leave note covers Caleb for the Reading surveillance/family trip until evening curfew."
+    },
+    {
+      "date": "Sat 10 Sept 1977",
+      "event": "Henshaw observes Hexfield; agrees it is real applied DADA and names the dual edge of training children to fight well during wartime."
+    },
+    {
+      "date": "Sat 10 Sept 1977",
+      "event": "Henshaw agrees to carry a Beauxbatons letter/inquiry up as exactly that: an opportunity to ask, not a thing decided. He bounds it to Headmaster/Beauxbatons/Ministry scope."
+    },
+    {
+      "date": "Mon 12 Sept 1977 09:00-10:30",
+      "event": "Henshaw runs nonverbal shield work: silent Protego against low stinging hexes, then holding shield while moving. Sets reading on nonverbal theory."
+    },
+    {
+      "date": "Mon 12 Sept 1977 10:33",
+      "event": "Henshaw endorses Hooch written use-case plus his own recommendation for Board/official Hexfield status; he will do the walking once both papers exist."
+    },
+    {
+      "date": "Tue 13 Sept 1977",
+      "event": "Pince research state marks Henshaw or McGonagall as needed for restricted detection texts and summoning-mark/Dark-Mark-adjacent history/identification material."
+    }
+  ],
+  "boundaries_and_drift_flags": {
+    "no_first_name": "First name not established; do not invent unless user approves.",
+    "not_auror_by_default": "Henshaw is Defence professor and war-adjacent authority. Do not label him Auror without a transcript lock.",
+    "bounded_authority": "He carries upward; he does not grant things outside his scope.",
+    "hexfield": "He supports Hexfield because it is applied Defence and has been played safely, but he understands its war-use danger.",
+    "dark_mark": "He can authorize history/identification only. Do not give Caleb making instructions.",
+    "medical_leave": "Henshaw was chosen because he is willing to be implicated in a real war-shaped ask, not because he casually signs anything.",
+    "tone": "Dry, plain, honest, not sentimental."
+  },
+  "rag_priority": [
+    "Use Henshaw for Defence-practical, war-aware, institutionally bounded adult help.",
+    "He is the right adult for dangerous-mark identification/detection asks when framed protectively.",
+    "He is the sport/Hexfield institutional lever, paired with Hooch’s use-case and Dumbledore/Board signoff.",
+    "He speaks in honest scope limits.",
+    "Do not make him grant more than he can carry."
+  ]
+}

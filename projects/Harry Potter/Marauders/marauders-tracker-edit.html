@@ -1,0 +1,116 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Marauders — Editable Tracker</title><style>
+:root{--bg:#14171c;--card:#1d222b;--ink:#e7e3d8;--mut:#9aa3b2;--am:#d8a657;--em:#a9c98f;--ro:#d39ab0;--line:#2c333f}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 "Iowan Old Style",Georgia,serif}
+.wrap{max-width:1000px;margin:0 auto;padding:22px}
+h1{font-size:23px;margin:0} .meta{color:var(--mut);font-size:12px;margin:2px 0 12px}
+.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px;margin-bottom:14px;position:sticky;top:8px;z-index:5}
+input,textarea,select{background:#11141a;border:1px solid var(--line);color:var(--ink);border-radius:7px;padding:7px 9px;font:inherit;font-size:13px}
+textarea{width:100%;min-height:42px;resize:vertical} input#url{flex:1;min-width:200px} input#tok{width:130px}
+input.dirty,textarea.dirty{border-color:var(--am);background:#1a1710}
+button{background:var(--card);border:1px solid var(--line);color:var(--ink);padding:7px 14px;border-radius:8px;cursor:pointer;font:inherit;font-size:14px}
+button.primary{border-color:var(--am);color:var(--am)} button:hover{border-color:var(--am)}
+.status{font-size:12px;color:var(--mut);margin-left:auto;max-width:340px;text-align:right}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:14px}
+.card h3{margin:0 0 10px;font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--am)}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:10px} @media(max-width:680px){.grid{grid-template-columns:1fr}}
+label{display:block;font-size:11px;color:var(--mut);margin:6px 0 2px;text-transform:capitalize}
+.row label{display:inline} .flags label{display:flex;gap:6px;align-items:center;font-size:13px;text-transform:none;margin:3px 0}
+.person{padding:9px 0;border-bottom:1px solid var(--line)} .person:last-child{border:0}
+.pname{color:var(--ro);font-size:15px;margin-bottom:3px} details{margin-bottom:8px} summary{cursor:pointer;color:var(--am);font-size:12px;text-transform:uppercase;letter-spacing:.05em}
+.hint{color:var(--mut);font-size:12px;margin:2px 0 8px}
+.out{white-space:pre-wrap;font:12px/1.4 ui-monospace,Menlo,monospace;background:#11141a;border:1px solid var(--line);border-radius:8px;padding:8px;margin-top:8px;max-height:200px;overflow:auto}
+</style></head><body><div class="wrap">
+<h1>Caleb's Workbench — Editable</h1>
+<div class="meta">Edit fields, then <b>Save changes</b> — writes back through the marauders-state server and persists to the JSON. Changed fields glow amber.</div>
+<div class="bar">
+  <input id="url" placeholder="server URL e.g. http://127.0.0.1:8800">
+  <input id="tok" placeholder="token (optional)" type="password">
+  <button onclick="save();load()">Load</button>
+  <button class="primary" onclick="saveAll()">Save changes</button>
+  <span class="status" id="status">not loaded</span>
+</div>
+<div id="content"></div>
+<div class="card"><h3>save log</h3><div class="out" id="log">—</div></div>
+</div><script>
+const E=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const $=id=>document.getElementById(id);
+let DATA=null; const dirty=new Set();
+function save(){try{localStorage.setItem("me_url",$("url").value.trim());localStorage.setItem("me_tok",$("tok").value);}catch(e){}}
+(function(){try{$("url").value=localStorage.getItem("me_url")||"";$("tok").value=localStorage.getItem("me_tok")||"";}catch(e){}})();
+async function api(tool,body){
+  let url=$("url").value.trim().replace(/\/+$/,""); const tok=$("tok").value;
+  if(!url) throw new Error("enter server URL");
+  const r=await fetch(url+"/rest/"+tool,{method:"POST",headers:Object.assign({"Content-Type":"application/json"},tok?{"Authorization":"Bearer "+tok}:{}),body:JSON.stringify(body||{})});
+  const j=await r.json(); if(!j.ok) throw new Error(j.error||("HTTP "+r.status));
+  try{return JSON.parse(j.result);}catch(e){return j.result;}
+}
+function fld(path,val,ta){const id="f_"+btoa(path).replace(/=/g,"");
+  const common=`data-path="${E(path)}" id="${id}" oninput="mark('${E(path)}')"`;
+  return ta?`<textarea ${common}>${E(val)}</textarea>`:`<input ${common} value="${E(val)}">`;}
+function mark(p){dirty.add(p);const el=document.querySelector(`[data-path="${CSS.escape(p)}"]`);if(el)el.classList.add("dirty");}
+
+function render(full){DATA=full;dirty.clear();const s=full.state||{},rel=full.relationships||{};
+  const c=s.clock||{},m=s.money||{},p=s.player||{};let h="";
+  h+=`<div class="card"><h3>Clock</h3>
+    <label>story date</label>${fld("clock.story_date",c.story_date)}
+    <label>story time</label>${fld("clock.story_time",c.story_time)}
+    <label>location</label>${fld("clock.location",c.location,1)}
+    <label>phase</label>${fld("clock.phase",c.phase,1)}</div>`;
+  h+=`<div class="card"><h3>Money</h3><div class="grid">
+    <div><label>galleons</label>${fld("money.galleons",m.galleons)}</div>
+    <div><label>sickles</label>${fld("money.sickles",m.sickles)}</div>
+    <div><label>knuts</label>${fld("money.knuts",m.knuts)}</div>
+    <div><label>muggle £</label>${fld("money.muggle_gbp",m.muggle_gbp)}</div></div>
+    <label>notes</label>${fld("money.notes",m.notes,1)}</div>`;
+  h+=`<div class="card"><h3>Pins — tell the narrator to reference these</h3>
+    <div class="hint">One per line. Surfaced at session start as things you want kept front-of-mind.</div>
+    ${fld("__pins",(s.user_pins||[]).join("\n"),1)}</div>`;
+  // Inventory
+  const inv=s.inventory_summary||{};
+  let ih="";for(const k of Object.keys(inv)){if(k==="_note")continue;ih+=`<label>${E(k.replace(/_/g," "))}</label>${fld("inventory_summary."+k,inv[k],1)}`;}
+  h+=`<div class="card"><h3>Inventory</h3><div class="hint">Edit freely; this is the bit that needs catching up.</div>${ih}</div>`;
+  // Threads
+  h+=`<div class="card"><h3>Open threads</h3><div class="hint">One per line.</div>${fld("__threads",(s.open_threads||[]).join("\n"),1)}</div>`;
+  // Flags
+  let fh="";for(const [k,v] of Object.entries(s.flags||{})){const id="fl_"+btoa(k).replace(/=/g,"");
+    fh+=`<label><input type="checkbox" ${v?"checked":""} data-path="flags.${E(k)}" id="${id}" onchange="mark('flags.${E(k)}')"> ${E(k)}</label>`;}
+  h+=`<div class="card"><h3>Flags</h3><div class="flags">${fh}</div></div>`;
+  // Relationships
+  const GROUPS=[["inner_circle","Inner circle"],["family","Family"],["mentors_and_teachers","Mentors & teachers"],["war_and_field","War & field"],["cohort_and_other","Cohort & others"]];
+  let rh="";for(const [gk,gl] of GROUPS){const g=rel[gk];if(!g)continue;let body="";
+    for(const [name,info] of Object.entries(g)){if(typeof info!=="object")continue;
+      body+=`<div class="person"><div class="pname">${E(name)}</div>
+        <label>last status</label>${fld(`rel.${gk}.${name}.last_status`,info.last_status||"")}
+        <label>earned</label>${fld(`rel.${gk}.${name}.earned`,info.earned||"",1)}</div>`;}
+    rh+=`<details><summary>${E(gl)}</summary>${body}</details>`;}
+  h+=`<div class="card"><h3>Relationships</h3><div class="hint">Edit standing/earned; the anti-reset payload.</div>${rh}</div>`;
+  $("content").innerHTML=h;
+  $("status").textContent="loaded "+new Date().toLocaleTimeString();
+}
+async function load(){save();try{render(await api("get_full"));}catch(e){$("status").textContent="error: "+e.message;}}
+
+async function saveAll(){
+  if(!DATA){$("status").textContent="load first";return;}
+  const corePatch={}; const relPatches={}; const calls=[]; const logl=[];
+  const setPath=(o,path,val)=>{const ks=path.split(".");let n=o;for(let i=0;i<ks.length-1;i++){n=n[ks[i]]=n[ks[i]]||{};}n[ks[ks.length-1]]=val;};
+  for(const path of dirty){
+    const el=document.querySelector(`[data-path="${CSS.escape(path)}"]`); if(!el)continue;
+    let val = el.type==="checkbox" ? el.checked : el.value;
+    if(path==="__pins"){ calls.push(["set_value",{path:"user_pins",value_json:JSON.stringify(String(val).split("\n").map(x=>x.trim()).filter(Boolean))}]); logl.push("user_pins"); continue; }
+    if(path==="__threads"){ calls.push(["set_value",{path:"open_threads",value_json:JSON.stringify(String(val).split("\n").map(x=>x.trim()).filter(Boolean))}]); logl.push("open_threads"); continue; }
+    if(path.startsWith("rel.")){ const m=path.match(/^rel\.([^.]+)\.(.+)\.(last_status|earned)$/); if(m){const key=m[1]+"||"+m[2];(relPatches[key]=relPatches[key]||{group:m[1],name:m[2],patch:{}}).patch[m[3]]=val;} continue; }
+    if(path.startsWith("money.")&&["galleons","sickles","knuts","muggle_gbp"].some(k=>path.endsWith(k))){val=Number(val)||0;}
+    setPath(corePatch,path,val); logl.push(path);
+  }
+  $("log").textContent="saving…";
+  try{
+    if(Object.keys(corePatch).length){ await api("update_state",{patch_json:JSON.stringify(corePatch)}); }
+    for(const c of calls){ await api(c[0],c[1]); }
+    for(const k in relPatches){ const r=relPatches[k]; await api("update_relationship",{group:r.group,name:r.name,patch_json:JSON.stringify(r.patch)}); logl.push("rel "+r.name); }
+    $("log").textContent="SAVED ("+new Date().toLocaleTimeString()+"):\n  "+(logl.join("\n  ")||"nothing changed");
+    $("status").textContent="saved ✓"; document.querySelectorAll(".dirty").forEach(e=>e.classList.remove("dirty")); dirty.clear();
+  }catch(e){ $("log").textContent="ERROR: "+e.message; $("status").textContent="save failed"; }
+}
+if($("url").value) load();
+</script></body></html>

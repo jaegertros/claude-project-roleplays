@@ -1,0 +1,189 @@
+{
+  "schema": "character_profile_v1",
+  "character_key": "aldous_pennycuik",
+  "canonical_name": "Aldous Pennycuik",
+  "short_name": "Pennycuik",
+  "identity": {
+    "role": "Senior magical-creatures Healer; Imogen Vale's mentor/correspondent; one of two such practitioners in Britain; retiring next year; White Lightning's specialist Healer.",
+    "era_position": "Active British magical-creatures Healer, 1977; near retirement.",
+    "institutional_function": "Rare creature-Healer authority, field mentor to Imogen, professional gate for Snowdonia/Dame Tryfannia trip, testing route for anomalous gold unicorn hair/silver water/night-flower material, and adult medical authority for White Lightning.",
+    "not_established": "Do not make him a Hogwarts professor, Hagrid, Kettleburn, Ollivander, or a generic vet. He is the medical/Healer specialist for magical creatures.",
+    "succession_weight": "Imogen is expected/wants to inherit his post; the relationship is mentorship and professional succession, not casual acquaintance."
+  },
+  "core_concept": "Pennycuik is the rare, tired, dry, deeply competent creature-Healer who understands that care is not wonder but work: pulse, splint, warmth, restraint, timing, and the humility to say when the bench cannot tell where a mystery comes from.",
+  "role_in_story": "Pennycuik anchors the creature-Healer arc. Imogen's whole career track points toward him; her hippogriff page is the proof-of-calling that told him she could inherit his post. On-page, he becomes the exhausted but exact specialist who stabilizes White Lightning, reads Caleb's impossible unicorn rapport without pretending to understand it, and carries samples to London for testing. He is also the adult who can make the Snowdonia hippogriff trip legitimate by judging whether Caleb is safe near animals and by supervising/clearing the field plan.",
+  "public_reputation": "Nearly singular specialist: one of two magical-creatures Healers in Britain. Respected enough that Imogen's path to becoming one of the last people in the country doing this work runs through him.",
+  "private_reality": "Pennycuik is dry and plainspoken, but not cold. He is capable of real tenderness when the creature or student has earned it. He is also exhausted, practical, and wary of romanticizing rare animals. He will let a unicorn choose a thing he does not understand before he forces his theory over her body.",
+  "voice": {
+    "summary": "Scots/British dry practical Healer register: low, wry, exact, tired, and unsentimental. He gives praise by trusting someone with more work.",
+    "sentence_shape": "Short grounded clauses; practical verbs; occasional dry joke; more likely to say what he can and cannot know than to give a grand theory.",
+    "humor_style": "Dry ribbing, especially around Imogen and Caleb's poacher jokes, but always with creature-care seriousness under it.",
+    "common_phrases": [
+      "What's she telling you, lad?",
+      "They don't offer it twice.",
+      "She knows her own wood better than I do.",
+      "The bench tells me what it is. It doesn't tell me where it's from.",
+      "Write me the good ones. Not just the polite ones.",
+      "I'll write yeh the ones that keep me up at night.",
+      "You did well, bringing this to me, Imogen.",
+      "Forty years, and I've never once seen one let a person lie on it."
+    ],
+    "avoid": [
+      "Do not make him mystical or omniscient.",
+      "Do not make him explain the silver water source.",
+      "Do not make him a Hogwarts staff member.",
+      "Do not make him interchangeable with Hagrid or Kettleburn.",
+      "Do not make him casual with patient secrecy or location secrecy.",
+      "Do not make him dismiss Caleb's rapport; he marks it as anomaly without naming it.",
+      "Do not make him romanticize creature suffering."
+    ]
+  },
+  "competencies": {
+    "creature_healing": [
+      "Specialist treatment of magical creatures, including field triage and recovery planning.",
+      "Can assess pulse, shock/cold, fatigue, leg injury, splinting, and recovery risks.",
+      "Understands when warmth and creature will matter as much as potions.",
+      "Stabilizes White Lightning after Hagrid's emergency field care and Caleb's warmth/fern/paste measures.",
+      "Can decide what may be safely offered, tasted, eaten, or only smelled."
+    ],
+    "field_medicine": [
+      "Field-visit work including dangerous creature proximity.",
+      "Beddgelert/Snowdonia hippogriff case: wing injury treated 14 July 1977, released 24 July.",
+      "Mentors Imogen through close observation and treatment under restraint, letting the creature's tolerance define what can be done.",
+      "Values patient observation over spectacle."
+    ],
+    "mentorship": [
+      "Mentor/correspondent to Imogen since she was fifteen.",
+      "Told Imogen the Beddgelert hippogriff page meant she would get the post.",
+      "Writes back the good cases, not just polite ones.",
+      "Tightens his grip / shows affection by giving more serious work, not sentimental praise.",
+      "Represents the career Imogen is actually pursuing: creature-Healer who draws as field observation."
+    ],
+    "bench_testing": [
+      "Takes samples to London for analysis.",
+      "Holds one gold unicorn hair of each type for testing.",
+      "Carries silver-water sample and shrunken night-flowers for testing.",
+      "Can identify what a sample is or does under bench conditions but may still not know the source.",
+      "Results pending and should not surface too soon."
+    ],
+    "ethical_gating": [
+      "Allows White Lightning to eat unknown flowers because she chooses them and he respects her wood-knowledge, not because he understands the plant.",
+      "Warns against ingesting unknown silver water until the unicorn smells it first.",
+      "Keeps gold/silver/location mysteries gated.",
+      "Can supervise or refuse trip/field plans based on animal-safety and student-safety judgment."
+    ]
+  },
+  "relationships": {
+    "imogen_vale": {
+      "status": "Student/mentee/correspondent; expected successor.",
+      "dynamic": "Imogen has written to him since she was fifteen. He is the mentor who recognized the Beddgelert hippogriff page as proof she could inherit the post. He trusts her enough to receive the good cases, and she means to have his post one day.",
+      "key_rule": "Do not flatten Imogen into artist around him. Her drawing is field observation and creature care documentation."
+    },
+    "caleb_waddell": {
+      "status": "Student involved in impossible creature rapport; potential Snowdonia travel companion to be assessed; White Lightning contact anomaly.",
+      "dynamic": "Pennycuik is dryly fond and cautious. He sees Caleb lying against White Lightning and marks that unicorns do not offer such trust twice. He does not name Caleb's gift, but he takes it seriously enough to ask what the unicorn is telling him."
+    },
+    "mei_chang": {
+      "status": "Caleb's partner/research mind; present in later White Lightning/silver water work.",
+      "dynamic": "Mei provides methodological caution and pattern-reading around silver water / flowers; Pennycuik respects the reasoning when it separates what bench can say from what source remains unknown."
+    },
+    "hagrid": {
+      "status": "Emergency field rescuer/groundsman; first adult hands-on with White Lightning before Pennycuik.",
+      "dynamic": "Hagrid handles immediate warmth/splint/forest access; Pennycuik is the proper Healer. They complement rather than replace each other."
+    },
+    "kettleburn": {
+      "status": "Official CoMC professor / creature-behavior authority.",
+      "dynamic": "Kettleburn can mark creature-behavior anomalies; Pennycuik owns medical recovery and specialist Healer judgment. Do not merge them."
+    },
+    "white_lightning": {
+      "status": "Injured white unicorn patient.",
+      "dynamic": "Pennycuik stabilizes and observes her. He allows her choices where safe and notes when her tolerance of Caleb breaks his forty-year experience."
+    },
+    "gold_unicorn": {
+      "status": "Anomalous gold unicorn with impossible hair types.",
+      "dynamic": "Pennycuik receives one gold hair of each type for confidential testing; he does not own the mystery or explain it yet."
+    },
+    "dame_tryfannia_walderson": {
+      "status": "Caleb/cohort name for Snowdonia yearling female hippogriff; professional acceptance pending.",
+      "dynamic": "Pennycuik's casebook approval or rejection determines whether the name stays in professional context."
+    },
+    "sprout": {
+      "status": "Plant-care authority for rorilucens/night-flowers; not the creature Healer.",
+      "dynamic": "Sprout keeps the plant alive cautiously; Pennycuik evaluates what the unicorn chooses/does with it. Neither understands the plant yet."
+    }
+  },
+  "project_anchors": {
+    "imogen_mentor_track": "Aldous Pennycuik is one of two magical-creatures Healers in Britain, retiring next year, Imogen's correspondent since she was fifteen, and the senior practitioner whose post she wants/is expected to inherit.",
+    "beddgelert_hippogriff": "July 1977 field case: yearling female hippogriff, Snowdonia flock north of Tryfan, white left wingtip, treated 14 July 1977, released 24 July. She stayed two hours afterward and let Imogen draw her with Imogen's hand five feet from her shoulder. Pennycuik said this page meant Imogen would get the post.",
+    "dame_tryfannia_letter": "Imogen should have written to Pennycuik that night about the proposed half-term Snowdonia trip with Caleb and Mei, mentioning Caleb/Athena animal-safety context and the provisional name Dame Tryfannia Walderson for Aldous to keep or strike from the casebook.",
+    "snowdonia_trip": "Half-term field-exposure trip: Imogen + Mei + Caleb to locate/check the Snowdonia hippogriff/flock, with Pennycuik supervising or checking if dates allow; hippogriff etiquette training first; parent clearance and school clearance pending.",
+    "white_lightning_rescue": "White Lightning: starved/cold, foreleg broken, rescued first by Caleb/Hagrid/Imogen/Mei/Sprout support, stabilized under Pennycuik's proper Healer care. Pennycuik becomes the medical authority at the lean-to.",
+    "unicorn_contact_anomaly": "Pennycuik sees Caleb lie gently against White Lightning's ribs while she tolerates it and says he has never in forty years seen a unicorn permit that. He says she has decided something about Caleb and tells him they do not offer it twice.",
+    "silver_water_test": "Side-by-side plain water vs silver water: White Lightning dismisses plain water and fixes on silver water, trembling and thrumming. Pennycuik cautions sniff first and watches close.",
+    "night_flowers": "Pennycuik does not know the silver night-flower. He allows White Lightning to eat it because she chooses it herself, not because he understands it; pulse and attention changes are recorded but causality remains unproven.",
+    "bench_results": "Pennycuik departs for London with 5 gold-hair phials, silver-water sample, and 8 shrunken flowers. Pending: test results to Caleb only, possible school-clearance letter this week, and soul-question reply.",
+    "source_mystery": "Pennycuik can say what the silver water is under bench conditions, but not where it comes from. The depth-gradient suggests the flowers are followers of the water source, not the source itself."
+  },
+  "timeline_anchors": [
+    {
+      "date": "Pre-play / since Imogen age 15",
+      "event": "Imogen has been writing to Aldous Pennycuik as mentor/correspondent; he is one of two magical-creatures Healers in Britain and retiring next year."
+    },
+    {
+      "date": "July 1977",
+      "event": "Beddgelert/Snowdonia field visit: Pennycuik takes Imogen to treat a yearling female hippogriff with wing injury; treated 14 July, released 24 July; Imogen draws the page that Pennycuik says means she will get the post."
+    },
+    {
+      "date": "8 Sept 1977",
+      "event": "Snowdonia half-term trip discussed; Imogen intends a letter to Pennycuik about the trip, Caleb/Athena animal-safety context, and the provisional name Dame Tryfannia Walderson."
+    },
+    {
+      "date": "Tue 13 Sept 1977 evening",
+      "event": "White Lightning rescue escalates from Hagrid emergency field care to need for proper Healer by morning; Pennycuik becomes the obvious specialist route through Imogen."
+    },
+    {
+      "date": "Wed 14 Sept 1977 06:36–06:40",
+      "event": "Pumpkin-patch lean-to first light: White Lightning stable/asleep; Pennycuik half-dozing present. Caleb lies against her ribs; Pennycuik marks the forty-year impossibility and asks what she is telling him."
+    },
+    {
+      "date": "Wed 14 Sept 1977 07:36–07:38",
+      "event": "Side-by-side silver water test: Pennycuik cautions sniff first; White Lightning fixes on silver water and thrums, heart calm."
+    },
+    {
+      "date": "Wed 14 Sept 1977 14:47",
+      "event": "Caleb gives Pennycuik the full owl-bond/gold-unicorn account with Imogen annotating; Pennycuik holds 5 gold-hair phials for confidential testing."
+    },
+    {
+      "date": "Wed 14 Sept 1977 16:27",
+      "event": "At silver-water source: Mei argues depth-gradient shows water wells upward and flowers are likely followers, not source; Pennycuik agrees bench can tell what it is, not where from."
+    },
+    {
+      "date": "Wed 14 Sept 1977 16:45",
+      "event": "Imogen walks Pennycuik to the gate properly. Pennycuik departs for London with gold-hair phials, silver-water sample, and shrunken flowers; pending letters/results."
+    },
+    {
+      "date": "Thu/Fri 15–16 Sept 1977",
+      "event": "Continuity state: Gold elsewhere = Pennycuik ×5; results pending, not to surface too soon; White Lightning continuing care at lean-to."
+    }
+  ],
+  "boundaries_and_drift_flags": {
+    "not_hagrid": "Hagrid is forest-heart and emergency practical rescuer. Pennycuik is the proper creature-Healer.",
+    "not_kettleburn": "Kettleburn is official CoMC/behavior authority. Pennycuik is medical/Healer authority.",
+    "not_sprout": "Sprout keeps the plant alive; Pennycuik evaluates creature response. Neither knows the night-flower yet.",
+    "not_mystic": "Pennycuik does not explain the mystery away. He marks impossible things and waits for evidence.",
+    "not_imogen_artist_flattening": "Around Pennycuik, Imogen is a creature-Healer trainee. Drawing is field documentation.",
+    "results_pending": "Do not surface London test results immediately; he only left with samples recently.",
+    "dame_tryfannia_status": "Dame Tryfannia Walderson is Caleb/cohort name pending Pennycuik casebook acceptance, not professional casebook name yet.",
+    "location_secrecy": "Pennycuik may receive details but not location where protected; write every word, not where.",
+    "causality_caution": "Do not say night-flowers healed White Lightning by themselves. Pulse/attention improved in the whole context."
+  },
+  "rag_priority": [
+    "Use Pennycuik when the story needs creature-Healer authority, not professor authority.",
+    "Tie him to Imogen's rare-career track and future post.",
+    "Preserve the Beddgelert hippogriff page as Imogen's proof-of-calling.",
+    "Preserve the Snowdonia/Dame Tryfannia letter/trip as pending and professional.",
+    "Use him for White Lightning medical gating, not for mystical explanation.",
+    "Keep gold-hair/silver-water/night-flower results pending unless explicitly surfaced.",
+    "Write his care as dry, exact, and unsentimental but deeply humane."
+  ]
+}

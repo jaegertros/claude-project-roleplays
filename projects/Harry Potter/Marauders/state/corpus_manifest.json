@@ -1,0 +1,168 @@
+{
+  "_about": "Which source files are embedded into which corpus, with which model. Embeddings are model-specific: query a corpus only with its `model`.",
+  "corpora": {
+    "marauders": {
+      "project_id": "marauders",
+      "model": "nvidia/llama-nemotron-embed-vl-1b-v2:free",
+      "dim": 2048,
+      "input_mode": "param",
+      "store": "db",
+      "local_file": null,
+      "note": "Canonical live corpus (pre-dates model-tagging). Query only with this model.",
+      "created": "2026-06-21T13:29:32",
+      "sessions": {
+        "rp01-greeting": {
+          "chunks": 469,
+          "in_fiction": [
+            "1977-09-01",
+            "1977-09-01"
+          ]
+        },
+        "rp02-cass-and-athena": {
+          "chunks": 102,
+          "in_fiction": [
+            "1977-09-08",
+            "1977-09-08"
+          ]
+        },
+        "rp03-hexfield-match": {
+          "chunks": 45,
+          "in_fiction": [
+            "1977-09-10",
+            "1977-09-10"
+          ]
+        },
+        "rp04-mcgonagall-hidden-room": {
+          "chunks": 27,
+          "in_fiction": [
+            "1977-09-11",
+            "1977-09-11"
+          ]
+        },
+        "rp05-previous-derailment": {
+          "chunks": 152,
+          "in_fiction": [
+            "1977-09-11",
+            "1977-09-11"
+          ]
+        },
+        "rp06-unicorn-rescue": {
+          "chunks": 60,
+          "in_fiction": [
+            "1977-09-13",
+            "1977-09-13"
+          ]
+        },
+        "rp07-waddellia-and-wandwrights": {
+          "chunks": 91,
+          "in_fiction": [
+            "1977-09-15",
+            "1977-09-15"
+          ]
+        },
+        "rp08-supabase-update-and-transition": {
+          "chunks": 61,
+          "in_fiction": [
+            "1977-09-16",
+            "1977-09-16"
+          ]
+        },
+        "rp09-white-lightning-devotion": {
+          "chunks": 163,
+          "in_fiction": [
+            "1977-09-17",
+            "1977-09-17"
+          ]
+        },
+        "rp10-resuming-story-from-files": {
+          "chunks": 124,
+          "in_fiction": [
+            "1977-09-21",
+            "1977-09-21"
+          ]
+        },
+        "rp11-death-eater-cell-raid": {
+          "chunks": 59,
+          "in_fiction": [
+            "1977-09-23",
+            "1977-09-23"
+          ]
+        }
+      }
+    },
+    "marauders_demo@nvidia-llama-nemotron-embed-vl-1b-v2-free-2048": {
+      "project_id": "marauders_demo@nvidia-llama-nemotron-embed-vl-1b-v2-free",
+      "model": "nvidia/llama-nemotron-embed-vl-1b-v2:free",
+      "dim": 2048,
+      "input_mode": "param",
+      "store": "local",
+      "local_file": "vectors/marauders_demo@nvidia-llama-nemotron-embed-vl-1b-v2-free-2048.vec.json",
+      "created": "2026-06-21T13:29:33",
+      "sessions": {
+        "MARAUDERS_STATE": {
+          "source_file": "MARAUDERS_STATE.md",
+          "path": "/sessions/upbeat-stoic-brahmagupta/mnt/llm-roleplay/projects/Harry Potter/Marauders/state/MARAUDERS_STATE.md",
+          "sha1": "e3c18e0bcdc0",
+          "chunks": 5,
+          "added": "2026-06-21T13:29:33"
+        }
+      }
+    },
+    "marauders@baai-bge-base-en-v1-5": {
+      "project_id": "marauders@baai-bge-base-en-v1-5",
+      "model": "baai/bge-base-en-v1.5",
+      "dim": 768,
+      "input_mode": "none",
+      "store": "local",
+      "local_file": "vectors/marauders@baai-bge-base-en-v1-5.vec.json",
+      "regime": "trial: 40-chunk/file sample, 1000-char chunks",
+      "sessions_done": "6/11",
+      "added": "2026-06-21"
+    },
+    "marauders@intfloat-e5-large-v2": {
+      "project_id": "marauders@intfloat-e5-large-v2",
+      "model": "intfloat/e5-large-v2",
+      "dim": 1024,
+      "input_mode": "prefix",
+      "store": "local",
+      "local_file": "vectors/marauders@intfloat-e5-large-v2.vec.json",
+      "regime": "trial: 40-chunk/file sample, 1000-char chunks",
+      "sessions_done": "11/11",
+      "added": "2026-06-21"
+    },
+    "marauders@intfloat-multilingual-e5-large": {
+      "project_id": "marauders@intfloat-multilingual-e5-large",
+      "model": "intfloat/multilingual-e5-large",
+      "dim": 1024,
+      "input_mode": "prefix",
+      "store": "local",
+      "local_file": "vectors/marauders@intfloat-multilingual-e5-large.vec.json",
+      "regime": "trial: 40-chunk/file sample, 1000-char chunks",
+      "sessions_done": "11/11",
+      "added": "2026-06-21"
+    },
+    "marauders@nvidia-llama-nemotron-embed-vl-1b-v2-free": {
+      "project_id": "marauders@nvidia-llama-nemotron-embed-vl-1b-v2-free",
+      "model": "nvidia/llama-nemotron-embed-vl-1b-v2:free",
+      "dim": 2048,
+      "input_mode": "param",
+      "store": "local",
+      "local_file": "vectors/marauders@nvidia-llama-nemotron-embed-vl-1b-v2-free.vec.json",
+      "regime": "trial: 40-chunk/file sample, 1000-char chunks",
+      "sessions_done": "11/11",
+      "added": "2026-06-21"
+    },
+    "marauders@sentence-transformers-all-minilm-l6-v2": {
+      "project_id": "marauders@sentence-transformers-all-minilm-l6-v2",
+      "model": "sentence-transformers/all-minilm-l6-v2",
+      "dim": 384,
+      "input_mode": "none",
+      "store": "local",
+      "local_file": "vectors/marauders@sentence-transformers-all-minilm-l6-v2.vec.json",
+      "regime": "trial: 40-chunk/file sample, 1000-char chunks",
+      "sessions_done": "11/11",
+      "added": "2026-06-21"
+    }
+  },
+  "updated": "2026-06-21T14:14:05"
+}

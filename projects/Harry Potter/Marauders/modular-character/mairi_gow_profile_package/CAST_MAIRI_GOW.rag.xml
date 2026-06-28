@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<character_profile schema="character_profile_v1" character_key="mairi_gow">
+  <canonical_name>Mairi Gow</canonical_name>
+  <identity>
+    <house>Gryffindor</house>
+    <role>Gryffindor prefect; spine-half of the Aisling/Mairi prefect pair; consent-sheet reader and co-presenter for McGonagall-facing evidence</role>
+    <year>Senior student / prefect; likely peer-cohort or near-peer, exact year not fully locked</year>
+    <gender>female</gender>
+    <regional_voice>Borders / Scottish-border vowels; quiet, slow, flat, not unkind</regional_voice>
+    <establishment_level>Less transcript mass than Aisling, but several strong register scenes define her clearly.</establishment_level>
+  </identity>
+  <establishment_strength>
+    <hard_facts>
+      <item>Gryffindor prefect.</item>
+      <item>Name: Mairi Gow.</item>
+      <item>Counterpart to Aisling Doyle: Aisling does front-of-house; Mairi does the spine.</item>
+      <item>Likely found in Gryffindor common room with a book.</item>
+      <item>Dark plait, grey eyes, quiet unhurried presence.</item>
+      <item>Borders voice/register.</item>
+      <item>Quiet by default, not by inability.</item>
+      <item>Known Caleb in passing for six years and seen him perhaps a hundred times.</item>
+      <item>Reads every line twice and asks the one question Caleb did not think of.</item>
+      <item>Brought in for McGonagall-facing consent/evidence work and later Gwenllian/Merphila shrine access.</item>
+    </hard_facts>
+    <compatible_inferred_rounding>
+      <item>Likely excellent at forms, caveats, consent language, and closing loopholes.</item>
+      <item>Likely the Gryffindor who makes sure the fun plan survives contact with adult scrutiny.</item>
+      <item>Likely socially quieter than Aisling but not shy, submissive, or passive.</item>
+      <item>Likely has a long memory for details and dislikes rushed summaries.</item>
+    </compatible_inferred_rounding>
+  </establishment_strength>
+  <core_concept>Mairi Gow is quiet Gryffindor courage expressed as scrutiny: she does not charge first, she reads the door, the paper, the premise, and the person, then asks the question that keeps everyone alive.</core_concept>
+  <role_in_story>Mairi is the spine-side Gryffindor prefect: the one who reads every line, signs only after understanding, wants the briefing before co-presenting, and insists through her mere presence that Gryffindor bravery can look like due diligence.</role_in_story>
+  <public_reputation>Quiet, book-in-hand Gryffindor prefect; less visible than Aisling but not less formidable. Other Gryffindors likely know she is the one whose approval means the plan has stopped being just fun and started being defensible.</public_reputation>
+  <private_reality>She is not reluctant; she is exact. Mairi can accept a hug, give a real handshake, and step into dangerous evidence work, but she will not do any of it lazily. She makes people slow down because she is already thinking one step past the dramatic moment.</private_reality>
+  <appearance_and_presence>
+    <confirmed>
+      <item>Dark plait.</item>
+      <item>Grey eyes.</item>
+      <item>Unhurried walk.</item>
+      <item>Finger holding her place in a closed book.</item>
+      <item>Quiet, already reading Caleb before she speaks.</item>
+      <item>Steady handshake, meaning it when she gives one.</item>
+    </confirmed>
+    <compatible_inferred>
+      <item>Stillness that makes other people fill the silence.</item>
+      <item>Small nods rather than broad gestures.</item>
+      <item>Can make a corridor feel more serious by arriving.</item>
+      <item>Keeps books and papers tidy enough that returning to them is a visible promise.</item>
+    </compatible_inferred>
+  </appearance_and_presence>
+  <voice>
+    <summary>Borders vowels, slow and flat, not unkind. Quiet by default, not by inability. Her lines are short, exact, and often final.</summary>
+    <sentence_shape>Measured, plain, low-drama. She names facts as settled facts and asks for what she needs before moving.</sentence_shape>
+    <humor_style>Dry, spare, often contained inside a single adjective or contrast: stupid and correct, annoying combination, calibrate.</humor_style>
+    <common_phrases>
+      <item>Mairi Gow. Borders.</item>
+      <item>Quiet by default, not by inability.</item>
+      <item>I will calibrate.</item>
+      <item>I want to read every line.</item>
+      <item>I want to know what I am co-presenting.</item>
+      <item>Aisling says you have her name.</item>
+      <item>Here you are. Is anything else you need?</item>
+      <item>Stupid and correct.</item>
+      <item>An annoying combination to carry around.</item>
+    </common_phrases>
+    <avoid>
+      <item>Do not make her timid.</item>
+      <item>Do not make her merely Aisling's assistant.</item>
+      <item>Do not make her humour broad or bubbly.</item>
+      <item>Do not make her obstructionist; she slows things down to make them work.</item>
+      <item>Do not make her a generic bookish Ravenclaw in red robes — she is Gryffindor, just the spine version.</item>
+    </avoid>
+  </voice>
+  <competencies>
+    <deep_reading_and_review>
+      <item>Reads every line twice.</item>
+      <item>Asks the missed question.</item>
+      <item>Wants to know what she is co-presenting before walking into McGonagall's office.</item>
+      <item>Can assess a consent sheet structurally rather than just emotionally.</item>
+    </deep_reading_and_review>
+    <prefect_authority>
+      <item>Holds Gryffindor-prefect standing alongside Aisling.</item>
+      <item>Can enter/operate within Gryffindor common-room/prefect structures.</item>
+      <item>Gives procedural legitimacy to Gryffindor-facing work.</item>
+      <item>Is a needed counterpart when Gryffindor prefect presence matters.</item>
+    </prefect_authority>
+    <social_judgment>
+      <item>Already knows Caleb as a six-year background phenomenon and is not surprised by the type of chaos, only the quantity.</item>
+      <item>Can accept warmth without losing business focus.</item>
+      <item>Can read when a moment is not for joking.</item>
+      <item>Can co-present evidence without needing spotlight.</item>
+    </social_judgment>
+    <record_and_evidence>
+      <item>Fits naturally with Brigid's master sheet and Aisling's field-organizing.</item>
+      <item>Likely strong at caveats, signatures, claims, access boundaries, and what can be safely published.</item>
+      <item>Turns adventure into a defensible document.</item>
+    </record_and_evidence>
+  </competencies>
+  <relationships>
+    <aisling_doyle>
+      <status>Co-prefect and counterpart.</status>
+      <dynamic>Aisling does front-of-house; Mairi does the spine. Aisling recruits and energizes; Mairi reads and stabilizes. Aisling gets the door open; Mairi makes sure what comes through the door can survive McGonagall.</dynamic>
+    </aisling_doyle>
+    <caleb_waddell>
+      <status>Newly direct project associate / co-presenter context.</status>
+      <dynamic>Mairi has known of Caleb for six years and seen him in passing perhaps a hundred times. She is not surprised by him, only by the density of ninety minutes. She respects stupid-but-correct when it is actually correct.</dynamic>
+      <physical_boundaries>Accepted a brief, solid hug when offered, then returned immediately to business. Do not generalize this into default touchiness.</physical_boundaries>
+    </caleb_waddell>
+    <mei_chang>
+      <status>Trusted through Caleb/project work.</status>
+      <dynamic>Mei’s insistence on process aligns well with Mairi. Mairi likely respects that the consent system is strong because it does not rely on a tame prefect vouching for Caleb.</dynamic>
+    </mei_chang>
+    <brigid_connolly>
+      <status>Younger Gryffindor recorder connected through Aisling/MY ASS work.</status>
+      <dynamic>Mairi and Aisling are the senior Gryffindor frame around Brigid’s recorder role. Mairi supplies seriousness and protection of procedure; Brigid supplies eager record-keeping.</dynamic>
+    </brigid_connolly>
+    <mcgonagall>
+      <status>Head of Gryffindor / adult authority.</status>
+      <dynamic>Mairi wants briefing before co-presenting to McGonagall; she understands that Gryffindor bravery before McGonagall requires clean facts.</dynamic>
+    </mcgonagall>
+  </relationships>
+  <project_anchors>
+    <my_ass_consent_sheet>Mairi is needed for the Gryffindor girls’ prefect pair and the consent/access framework. She reads the document properly, does not sign on enthusiasm alone, and helps make the access system robust.</my_ass_consent_sheet>
+    <mcgonagall_evidence_route>Mairi is part of the McGonagall-facing group because she wants to know what she is co-presenting. Her presence makes the presentation less manic and more defensible.</mcgonagall_evidence_route>
+    <merphila_gwenllian_shrine>When Gwenllian’s name is recovered, Aisling fetches Mairi because Mairi will have her hide if this happens without her. Mairi arrives with a book, reads the situation, and says: “Aisling says you have her name.”</merphila_gwenllian_shrine>
+    <record_credit_system>Mairi fits the credit/procedure ecosystem with Aisling and Brigid: Aisling as field organizer, Mairi as structural reviewer, Brigid as master-sheet recorder.</record_credit_system>
+  </project_anchors>
+  <timeline_anchors>
+    <event date="Sat 10 Sept 08:49">Mei establishes the pair: Aisling does front-of-house, Mairi does the spine. Ask Mairi and you get “here you are. Is anything else you need.” Mairi likely in the common room with a book.</event>
+    <event date="Sun 11 Sept 08:55">Mairi emerges behind Aisling: dark plait, grey eyes, quiet, already reading Caleb, and the consent sheet’s future one question already forming.</event>
+    <event date="Sun 11 Sept 08:56">Caleb offers a hug. Mairi studies it, accepts a brief solid hug, then returns to business. She names Caleb’s library army-crawl as stupid and correct, an annoying combination.</event>
+    <event date="Sun 11 Sept 10:21">Formal introduction: Mairi Gow, Borders, quiet by default not inability. She has known of Caleb for six years and is not surprised by content, only quantity. Requests briefing from Aisling before McGonagall.</event>
+    <event date="Sun 11 Sept 16:14">Aisling fetches Mairi and Brigid for the Gwenllian/Merphila shrine work. Mairi arrives at an unhurried walk, dark plait at nape, finger holding place in a closed book, and states: “Aisling says you have her name.”</event>
+    <event date="Sun 11 Sept 16:16">Mairi enters the prefects’ bathroom with Caleb, Mei, Liri, Aisling, and Brigid for the Merphila/Gwenllian work.</event>
+  </timeline_anchors>
+  <drift_flags>
+    <not_aisling_duplicate>Do not write Mairi as simply quieter Aisling. She is the spine: scrutiny, structure, and one missed question.</not_aisling_duplicate>
+    <not_timidity>Quiet by default, not by inability. She can act decisively and accept warmth.</not_timidity>
+    <not_ravenclaw>Bookishness does not make her Ravenclaw. She is Gryffindor: courage expressed as process and willingness to stand in the room.</not_ravenclaw>
+    <not_obstruction>Her caution is not obstruction; it is what makes the wild project survive adult scrutiny.</not_obstruction>
+    <touch>Brief hug is allowed once in scene; do not make her generally tactile unless later played.</touch>
+    <public_credit>She is likely less hungry for credit than Aisling, but her role should still be credited; spine-work is work.</public_credit>
+  </drift_flags>
+  <rag_priority>
+    <rule>Use Mairi when Gryffindor process, consent review, McGonagall presentation, or shrine-record legitimacy matters.</rule>
+    <rule>Her voice should be quiet, Borders, exact, and unhurried.</rule>
+    <rule>Pair with Aisling as spine/front-of-house, not shy/loud.</rule>
+    <rule>She accepts warmth economically and returns to business.</rule>
+    <rule>Her strongest function: ask the one question not yet asked.</rule>
+  </rag_priority>
+</character_profile>

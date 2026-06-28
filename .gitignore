@@ -1,0 +1,37 @@
+# Build artifacts & dependencies (tracker apps are source-only here)
+node_modules/
+dist/
+build/
+**/src-tauri/target/
+target/
+
+# Compiled tracker binaries (rebuildable from source)
+*.exe
+*.msi
+*.app
+*.dmg
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# MCP / narrator state (runtime data, not content)
+*.session.json
+~/.narrator-state/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

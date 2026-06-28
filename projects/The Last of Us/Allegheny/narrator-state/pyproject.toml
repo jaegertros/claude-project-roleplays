@@ -1,0 +1,52 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "narrator-state"
+version = "0.1.0"
+description = "MCP server for narrative roleplay state — round-trip persistence for Claude-driven RP campaigns"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "Caleb" }
+]
+license = { text = "MIT" }
+keywords = ["mcp", "roleplay", "narrative", "claude", "anthropic"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: End Users/Desktop",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+dependencies = [
+    "mcp>=1.0.0",
+]
+
+[project.optional-dependencies]
+# Supabase-backed extension tables (commitment_log, negotiated_agreements,
+# narrator_corrections, recurring_bits, residency_map, pending_beats).
+# Without this install, the local-JSON tools work normally; the extension
+# tools error gracefully with a setup hint.
+supabase = [
+    "supabase>=2.0.0",
+]
+
+[project.scripts]
+narrator-state = "narrator_state.server:main"
+
+[project.urls]
+Documentation = "https://github.com/yourusername/narrator-state"
+Source = "https://github.com/yourusername/narrator-state"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/narrator_state"]
+
+[tool.hatch.build.targets.sdist]
+include = [
+    "src/",
+    "README.md",
+    "LICENSE",
+]

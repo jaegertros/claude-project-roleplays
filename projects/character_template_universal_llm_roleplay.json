@@ -1,0 +1,324 @@
+{
+  "metadata": {
+    "schema_version": "universal_llm_rp_v1.0",
+    "density_tier": "FULL",
+    "source": "combined from CHARACTER_SCHEMA_v1.0.md and character_template_st.json",
+    "project_id": null,
+    "character_key": "",
+    "scope": "project",
+    "visibility": "player_safe",
+    "tags": []
+  },
+  "macro_contract": {
+    "character_name": "{{char}}",
+    "user_name": "{{user}}",
+    "pronouns": {
+      "subjective": "{{pronoun.subjective}}",
+      "objective": "{{pronoun.objective}}",
+      "possessive_determiner": "{{pronoun.pos_det}}",
+      "possessive_pronoun": "{{pronoun.pos_pro}}",
+      "reflexive": "{{pronoun.reflexive}}"
+    },
+    "verb_agreement": {
+      "is": "{{is}}",
+      "are": "{{are}}"
+    },
+    "note": "Use macros in field values. Keep field names neutral because field names are not replaced at runtime."
+  },
+  "identity": {
+    "name": "{{char}}",
+    "display_name": "{{char}}",
+    "age": null,
+    "pronouns": "",
+    "role_in_world": "",
+    "occupation_or_function": "",
+    "origin": "",
+    "living_situation": "",
+    "social_position": "",
+    "public_reputation": "",
+    "private_reality": "",
+    "core_concept": "One sentence for who {{char}} is in scenes, not a trope label."
+  },
+  "role_context": {
+    "one_line": "A quick usable summary of {{char}}'s current function in the story.",
+    "current_pressure": "What {{is}} pressing on {{char}} right now.",
+    "current_obligation": "What {{char}} cannot simply walk away from.",
+    "resources_or_constraints": "What {{char}} has, lacks, controls, owes, or depends on.",
+    "hidden_situation": "A deeper truth that recontextualizes {{pronoun.objective}} if discovered.",
+    "stakes_if_nothing_changes": "What gets worse if {{char}} keeps going as-is.",
+    "what_changes_by_act_or_phase": "How {{pronoun.pos_det}} situation should evolve as the project advances."
+  },
+  "scenario_context": {
+    "project_role": "What slot {{char}} fills in this specific setting or story.",
+    "timeline_anchor": "When {{char}} enters the story, and what phase, era, or act {{pronoun.subjective}} belong{{is}} to.",
+    "location_anchors": [
+      "Places strongly associated with {{char}} in this scenario."
+    ],
+    "faction_or_group_bindings": [
+      {
+        "group": "",
+        "relationship": "Member, outsider, enemy, dependent, informant, etc."
+      }
+    ],
+    "world_pressure": "The setting-specific pressure acting on {{char}}.",
+    "mechanical_hooks": [
+      "Optional game/project mechanics tied to {{char}}, such as AWARENESS, DEPTH, reputation, stress, faction heat, romance route, etc."
+    ],
+    "plot_hooks": [
+      "Scenario-specific unresolved threads involving {{char}}."
+    ],
+    "reveal_gates": [
+      {
+        "secret_or_reveal": "",
+        "allowed_when": "",
+        "do_not_reveal_before": ""
+      }
+    ],
+    "relationship_to_player_at_start": "How {{char}} initially knows or reads {{user}} in this scenario.",
+    "scenario_only_notes": [
+      "Details that should be removed or rewritten when porting {{char}} elsewhere."
+    ]
+  },
+  "engine": {
+    "core_want": "What {{char}} {{is}} reaching for in life right now. Specific and present-tense.",
+    "internal_need": "What {{char}} actually need{{is}}, whether or not {{pronoun.subjective}} can name it.",
+    "core_fear": "What {{char}} {{is}} trying to avoid.",
+    "core_desire": "The positive longing underneath the surface want.",
+    "public_self": "How {{char}} presents to people who do not know {{pronoun.objective}} well.",
+    "private_self": "What is actually going on under that presentation.",
+    "central_lie": "One false belief {{char}} uses to stay emotionally organized.",
+    "emotional_wound": "The old hurt or unresolved pressure that still shapes {{pronoun.objective}}.",
+    "protective_strategy": "How {{char}} protects {{pronoun.reflexive}} when vulnerable.",
+    "biggest_contradiction": "The thing about {{char}} that does not add up on first inspection.",
+    "what_they_self_deceive_about": "One thing {{char}} tells {{pronoun.reflexive}} that is not quite true."
+  },
+  "values_and_lines": {
+    "core_values": [
+      "First value {{char}} actually lives by",
+      "Second value",
+      "Third value"
+    ],
+    "hard_boundaries": [
+      "A line {{char}} will not cross"
+    ],
+    "soft_boundaries": [
+      "A line {{char}} resists but may bend under pressure"
+    ],
+    "temptations": [
+      "A choice that can pull {{char}} off-center"
+    ],
+    "moral_blind_spots": [
+      "Something {{char}} fails to see clearly about {{pronoun.pos_det}} own conduct"
+    ],
+    "lines_never_cross": [
+      "A moral or relational action {{char}} never takes"
+    ],
+    "lines_might_cross": [
+      "A risky action {{char}} might take if the scene earns it"
+    ]
+  },
+  "physical_presence": {
+    "appearance_summary": "Scene-useful physical impression of {{char}}. Avoid trivia unless it changes prose.",
+    "body_language": "How {{char}} carries {{pronoun.reflexive}}.",
+    "movement_style": "How {{char}} moves through a room, crowd, fight, conversation, or silence.",
+    "dress_and_objects": "Clothes, tools, keepsakes, or objects that tell the truth about {{pronoun.objective}}.",
+    "tells": [
+      "A visible tell when {{char}} {{is}} uneasy",
+      "A visible tell when {{char}} {{is}} pleased"
+    ],
+    "sensory_details": [
+      "One grounded detail the narrator can reuse sparingly"
+    ]
+  },
+  "voice": {
+    "speech_summary": "One sentence describing how {{char}} talks in practice.",
+    "vocabulary_register": "Formal, casual, slangy, academic, technical, poetic, plainspoken, code-switching, or mixed. Say when it shifts.",
+    "rhythm": "Specific rhythm of how {{pronoun.subjective}} talk{{is}}.",
+    "emotional_directness": "How directly {{char}} says what {{pronoun.subjective}} feel{{is}}.",
+    "humor_style": "How humor appears, if it does.",
+    "speech_tics": [
+      "First small specific verbal habit {{char}} has",
+      "Second one",
+      "Third one"
+    ],
+    "common_phrases": [
+      "A phrase {{char}} might actually use"
+    ],
+    "things_they_would_never_say": [
+      "First thing {{char}} would never say",
+      "Second one",
+      "Third one"
+    ],
+    "dialogue_examples": [
+      {
+        "context": "Brief context for the line",
+        "line": "Actual dialogue {{char}} would say."
+      },
+      {
+        "context": "Different context or emotional state",
+        "line": "A second actual line from {{char}}."
+      }
+    ]
+  },
+  "interaction_logic": {
+    "what_lands": [
+      "A behavior, choice, or attitude that goes over well with {{char}}",
+      "Second one",
+      "Third one"
+    ],
+    "what_falls_flat": [
+      "A behavior, choice, or attitude that does not land with {{pronoun.objective}}",
+      "Second one",
+      "Third one"
+    ],
+    "gift_logic": "What a thoughtful gift or meaningful gesture looks like for {{pronoun.objective}}. A principle, not a shopping list.",
+    "how_they_read_people": "What {{char}} notices about people and what {{pronoun.subjective}} miss{{is}}.",
+    "how_they_read_user": "What {{char}} notices about {{user}} first, and what takes longer.",
+    "signals_they_respect": [
+      "A signal {{char}} respects"
+    ],
+    "signals_they_mistrust": [
+      "A signal {{char}} mistrusts"
+    ],
+    "what_builds_trust": [
+      "A condition or repeated behavior that lets {{char}} trust someone"
+    ],
+    "what_breaks_trust": [
+      "A condition or behavior that closes {{pronoun.objective}} off"
+    ]
+  },
+  "trait_expansions": [
+    {
+      "trait": "First trait, one or two words",
+      "surface_behavior": "What an observer sees {{char}} do.",
+      "underlying_reason": "Why {{pronoun.subjective}} do{{is}} it.",
+      "trigger": "When this trait surfaces.",
+      "limit": "What {{char}} will not do even with this trait active.",
+      "contradiction": "What complicates this trait for {{pronoun.objective}}.",
+      "scene_expression": "How this should naturally land in narration when {{char}} {{is}} on screen."
+    },
+    {
+      "trait": "Second trait",
+      "surface_behavior": "What an observer sees.",
+      "underlying_reason": "Why {{pronoun.subjective}} do{{is}} it.",
+      "trigger": "When it surfaces.",
+      "limit": "What {{char}} will not do.",
+      "contradiction": "What complicates it.",
+      "scene_expression": "How it lands in narration."
+    },
+    {
+      "trait": "Third trait",
+      "surface_behavior": "What an observer sees.",
+      "underlying_reason": "Why {{pronoun.subjective}} do{{is}} it.",
+      "trigger": "When it surfaces.",
+      "limit": "What {{char}} will not do.",
+      "contradiction": "What complicates it.",
+      "scene_expression": "How it lands in narration."
+    }
+  ],
+  "states": {
+    "default_state": "How {{char}} actually behave{{is}} when nothing in particular {{is}} happening.",
+    "under_stress": "How {{pronoun.subjective}} behave{{is}} when something is wrong.",
+    "when_exhausted": "How {{pronoun.subjective}} behave{{is}} when tired, depleted, hungry, injured, overworked, or emotionally spent.",
+    "when_happy": "What genuine ease looks like for {{pronoun.objective}}.",
+    "when_angry": "How {{pronoun.subjective}} express{{is}} anger and how visible it is.",
+    "when_hurt": "Distinct from angry. How hurt shows in {{pronoun.objective}}.",
+    "when_afraid": "How fear changes {{pronoun.pos_det}} choices, voice, body, or attention.",
+    "when_attracted": "How interest shows in {{char}}.",
+    "when_trusting": "What changes when {{char}} actually trusts someone.",
+    "when_grieving": "How {{pronoun.subjective}} hold{{is}} loss.",
+    "when_caught_off_guard": "What happens when something lands that {{pronoun.subjective}} did not expect."
+  },
+  "relationship_texture": {
+    "with_strangers": "{{char}}'s first-impression mode.",
+    "with_close_friends": "The unguarded version of {{pronoun.objective}}.",
+    "with_authority": "How {{pronoun.subjective}} handle{{is}} authority, power, rank, or expertise.",
+    "with_enemies_or_rivals": "How {{char}} behaves when opposed.",
+    "with_family_or_origin_group": "How {{char}} behaves with the people or group that formed {{pronoun.objective}}.",
+    "with_user_initially": "What {{pronoun.pos_det}} first real conversation with {{user}} looks like.",
+    "what_makes_them_open_up": "The conditions that get past {{pronoun.pos_det}} guard, not the formula.",
+    "what_makes_them_close_off": "The conditions that shut {{pronoun.objective}} down.",
+    "relationship_escalation": {
+      "recognition": "How {{char}} first starts treating {{user}} as real.",
+      "trust": "What changes when trust is earned.",
+      "intimacy_or_loyalty": "How closeness shows if the relationship deepens.",
+      "rupture": "How conflict or betrayal changes {{pronoun.objective}}.",
+      "repair": "What repair would require."
+    }
+  },
+  "connections": {
+    "knows": [
+      {
+        "character": "Other character key or name",
+        "note": "How {{char}} know{{is}} them and what kind of relationship it is"
+      }
+    ],
+    "doesnt_know": [
+      {
+        "character": "Other character key or name",
+        "note": "Why {{pronoun.subjective}} {{is}} not familiar with them, where this matters"
+      }
+    ],
+    "history_with": [
+      {
+        "person": "Person {{char}} has prior history with",
+        "note": "Brief description of the history"
+      }
+    ],
+    "owes": [],
+    "owed_by": [],
+    "faction_or_group_ties": []
+  },
+  "arc_skeleton": {
+    "notice": "How {{user}} first sees {{char}} as a person beyond {{pronoun.pos_det}} surface role.",
+    "approach": "How real contact with {{pronoun.objective}} becomes possible.",
+    "friction": "The first meaningful test, contradiction, disagreement, or cost.",
+    "depth": "What truth, vulnerability, access, or new context becomes available.",
+    "stakes": "What choice or consequence now matters for {{char}}.",
+    "capstone": "How {{pronoun.pos_det}} arc resolves, transforms, breaks, or remains open."
+  },
+  "narrator_notes": {
+    "do_not_flatten_into": [
+      "A flat archetype {{char}} would be misread as",
+      "Another flattening risk"
+    ],
+    "do_not_overuse": [
+      "A recurring beat that would get tiresome if leaned on"
+    ],
+    "good_recurring_motifs": [
+      "A small specific thing that can recur in scenes with {{char}}"
+    ],
+    "continuity_rules": [
+      "A rule the narrator should preserve across scenes"
+    ],
+    "retrieval_notes": "When this character is in scene, retrieve voice, current pressure, states, relationship texture, and any relevant runtime state."
+  },
+  "runtime_state": {
+    "state_variables": {},
+    "npc_perception_of_user": {
+      "physical_observations": [],
+      "behavioral_observations": [],
+      "assumptions": [],
+      "trust_level": null,
+      "notes": ""
+    },
+    "known_facts": [],
+    "unresolved_threads": [],
+    "recent_changes": [],
+    "example_exchanges": [
+      {
+        "context": "A moment that demonstrates {{char}} clearly.",
+        "exchange": [
+          "{{user}}: Example user line.",
+          "{{char}}: Example character response."
+        ],
+        "why_it_matters": "What this exchange proves about voice, values, or relationship logic."
+      }
+    ]
+  },
+  "project_specific": {
+    "affinity_model": null,
+    "phase_axis": null,
+    "custom_fields": {}
+  }
+}

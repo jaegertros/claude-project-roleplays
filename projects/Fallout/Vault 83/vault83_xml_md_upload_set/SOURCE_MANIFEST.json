@@ -1,0 +1,26 @@
+{
+  "created_at": "2026-05-20T05:08:08",
+  "source_file": "/mnt/data/00_PROJECT_INSTRUCTIONS.md",
+  "source_sha256": "bb579a8331cdf12ff229fdd2e4ecc6ad0b15442fb63441cdf96eb41b304df575",
+  "package": "vault83_xml_md_upload_set",
+  "files": [
+    "00_PROJECT_RUNTIME.md",
+    "00_PROJECT_REFERENCE.md",
+    "01_INDEX_MASTER.md",
+    "02_INDEX_NPCMAPS.md",
+    "02_INDEX_CAST.md",
+    "02_INDEX_EVENTS.md",
+    "02_INDEX_HIDDEN.md",
+    "02_INDEX_LOCATIONS.md",
+    "02_INDEX_UTILITY.md",
+    "02_INDEX_ANACHRONISMS.md",
+    "README_UPLOAD_ORDER.md",
+    "SOURCE_MANIFEST.json"
+  ],
+  "notes": [
+    "Created from 00_PROJECT_INSTRUCTIONS.md.",
+    "Runtime is an operational derivative.",
+    "Reference preserves original text inside semantic XML-MD wrappers.",
+    "Indexes are routing files/templates for future split lore cards."
+  ]
+}

@@ -1,0 +1,142 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Marauders — Live Workbench</title><style>
+:root{--bg:#14171c;--card:#1d222b;--ink:#e7e3d8;--mut:#9aa3b2;--am:#d8a657;--em:#a9c98f;--in:#7daea9;--ro:#d39ab0;--line:#2c333f}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 "Iowan Old Style",Georgia,serif}
+.wrap{max-width:1000px;margin:0 auto;padding:22px}
+h1{font-size:24px;margin:0} .meta{color:var(--mut);font-size:12px;margin:2px 0 14px}
+.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px;margin-bottom:14px}
+input,select{background:#11141a;border:1px solid var(--line);color:var(--ink);border-radius:7px;padding:7px 9px;font:inherit;font-size:13px}
+input#url{flex:1;min-width:200px} input#tok{width:140px}
+button{background:var(--card);border:1px solid var(--line);color:var(--ink);padding:7px 14px;border-radius:8px;cursor:pointer;font:inherit;font-size:14px}
+button.primary{border-color:var(--am);color:var(--am)} button:hover{border-color:var(--am)}
+.status{font-size:12px;color:var(--mut);margin-left:auto}
+.tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px} .tab{color:var(--mut)} .tab.active{color:var(--ink);border-color:var(--am);box-shadow:inset 0 -2px 0 var(--am)}
+.pane{display:none} .pane.active{display:block}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:14px}
+.card h3{margin:0 0 10px;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--am)}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px} @media(max-width:680px){.grid{grid-template-columns:1fr}}
+.hero .big{font-size:20px;color:var(--am)} .hero .loc{margin:4px 0} .hero .phase{color:var(--mut);font-size:13px}
+.kv{display:flex;gap:10px;padding:3px 0;border-bottom:1px dotted var(--line)} .kv:last-child{border:0}
+.k{flex:0 0 150px;color:var(--mut);font-size:12px;text-transform:capitalize} .v{flex:1}
+.money{font-size:22px;color:var(--am)} .money span{font-size:13px;color:var(--mut)}
+.note{color:var(--mut);font-size:12.5px;margin-top:6px}
+.flags{display:flex;flex-wrap:wrap;gap:6px} .flag{font-size:11.5px;padding:3px 8px;border-radius:6px;border:1px solid var(--line)}
+.flag.on{color:var(--em);border-color:#3a4a39} .flag.off{color:var(--mut);opacity:.6}
+.row{padding:7px 0;border-bottom:1px dotted var(--line)} .row:last-child{border:0} .sub{color:var(--mut);font-size:13px;margin-top:3px}
+.tag{font-size:10.5px;color:var(--in);border:1px solid var(--line);border-radius:5px;padding:1px 6px;margin-left:6px}
+.person{padding:10px 0;border-bottom:1px solid var(--line)} .person:last-child{border:0} .pname{font-size:16px;color:var(--ro);margin-bottom:5px}
+.callout{background:#20262f;border-left:3px solid var(--am);padding:10px 12px;border-radius:8px;margin-bottom:14px;font-size:13.5px}
+.callout.warn{border-left-color:var(--ro)} .callout ul{margin:6px 0 0 18px;padding:0}
+ol.threads{padding-left:20px} .threads li{margin:5px 0}
+.form label{display:block;font-size:12px;color:var(--mut);margin:8px 0 2px} .form input,.form select{width:100%}
+.out{white-space:pre-wrap;font:12px/1.45 ui-monospace,Menlo,monospace;background:#11141a;border:1px solid var(--line);border-radius:8px;padding:10px;margin-top:10px;max-height:320px;overflow:auto}
+</style></head><body><div class="wrap">
+<h1>Caleb's Workbench — Live</h1>
+<div class="meta">State + memory + vectorization, all from the one <code>marauders-state</code> server.</div>
+<div class="bar">
+  <input id="url" placeholder="server URL e.g. http://127.0.0.1:8800">
+  <input id="tok" placeholder="token (if set)" type="password">
+  <button class="primary" onclick="save();load()">Reload state</button>
+  <span class="status" id="status">not loaded</span>
+</div>
+<div class="tabs" id="tabs"></div>
+<div id="content"></div>
+</div><script>
+const E=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const $=id=>document.getElementById(id);
+function save(){try{localStorage.setItem("ms_url",$("url").value.trim());localStorage.setItem("ms_tok",$("tok").value);}catch(e){}}
+(function(){try{$("url").value=localStorage.getItem("ms_url")||"";$("tok").value=localStorage.getItem("ms_tok")||"";}catch(e){}})();
+
+async function api(tool,body){
+  let url=$("url").value.trim().replace(/\/+$/,""); const tok=$("tok").value;
+  if(!url) throw new Error("enter the server URL first");
+  const r=await fetch(url+"/rest/"+tool,{method:"POST",headers:Object.assign({"Content-Type":"application/json"},tok?{"Authorization":"Bearer "+tok}:{}),body:JSON.stringify(body||{})});
+  const j=await r.json(); if(!j.ok) throw new Error(j.error||("HTTP "+r.status));
+  try{return JSON.parse(j.result);}catch(e){return j.result;}
+}
+function kv(o,keys){return keys.filter(k=>o&&o[k]!=null&&o[k]!=="").map(k=>
+  `<div class="kv"><span class="k">${E(k.replace(/_/g," "))}</span><span class="v">${E(o[k])}</span></div>`).join("");}
+
+let TABS=[];
+function setTabs(){
+  $("tabs").innerHTML=TABS.map(([lbl],i)=>`<button class="tab${i===0?" active":""}" data-i="${i}">${lbl}</button>`).join("");
+  $("content").innerHTML=TABS.map(([_,con],i)=>`<div class="pane${i===0?" active":""}" data-p="${i}">${con}</div>`).join("");
+  $("tabs").querySelectorAll(".tab").forEach(b=>b.onclick=()=>{
+    $("tabs").querySelectorAll(".tab").forEach(x=>x.classList.remove("active"));
+    $("content").querySelectorAll(".pane").forEach(x=>x.classList.remove("active"));
+    b.classList.add("active");$("content").querySelector(`[data-p="${b.dataset.i}"]`).classList.add("active");});
+  wireVec();
+}
+function vecPane(){
+  return `<div class="card"><h3>Embed a file</h3><div class="form">
+    <label>file path (on the machine running the server)</label><input id="ve_path" placeholder="C:\\...\\RP_..._cleaned_v4\\RP_12_....md">
+    <div class="grid"><div><label>project (base name)</label><input id="ve_proj" value="marauders"></div>
+    <div><label>store</label><select id="ve_store"><option>both</option><option>local</option><option>db</option></select></div></div>
+    <label>model id (blank = current default)</label><input id="ve_model" placeholder="nvidia/llama-nemotron-embed-vl-1b-v2:free">
+    <div style="margin-top:10px"><button class="primary" onclick="vecEmbed()">Embed</button>
+    <span class="note">corpus is auto-tagged by model; same model needed to query it.</span></div>
+    <div class="out" id="ve_out" style="display:none"></div></div>
+   <div class="card"><h3>Test recall (local file)</h3><div class="form">
+    <label>local corpus file (from the manifest's local_file)</label><input id="vr_file" placeholder="vectors/....vec.json">
+    <label>query</label><input id="vr_q" placeholder="who is Maud?">
+    <div style="margin-top:10px"><button onclick="vecRecall()">Recall</button></div>
+    <div class="out" id="vr_out" style="display:none"></div></div></div>
+   <div class="card"><h3>Corpora &amp; models</h3>
+    <div><button onclick="vecRefresh()">Refresh</button> <span class="note">what's embedded, with which model/dim/files</span></div>
+    <div class="out" id="vc_out" style="display:none"></div></div>`;
+}
+function wireVec(){/* handlers are global; nothing to bind per-render */}
+async function vecEmbed(){const o=$("ve_out");o.style.display="block";o.textContent="embedding…";
+  try{o.textContent=JSON.stringify(await api("vec_embed_file",{path:$("ve_path").value.trim(),project:$("ve_proj").value.trim()||"marauders",store:$("ve_store").value,model:$("ve_model").value.trim()}),null,2);}
+  catch(e){o.textContent="error: "+e.message;}}
+async function vecRecall(){const o=$("vr_out");o.style.display="block";o.textContent="recalling…";
+  try{o.textContent=JSON.stringify(await api("vec_local_recall",{corpus_file:$("vr_file").value.trim(),query:$("vr_q").value.trim(),k:3}),null,2);}
+  catch(e){o.textContent="error: "+e.message;}}
+async function vecRefresh(){const o=$("vc_out");o.style.display="block";o.textContent="loading…";
+  try{const c=await api("vec_list_corpora"),m=await api("vec_list_models");
+    o.textContent="MODELS\n"+JSON.stringify(m,null,2)+"\n\nCORPORA\n"+JSON.stringify(c,null,2);}
+  catch(e){o.textContent="error: "+e.message;}}
+
+function render(full){
+  const s=full.state||{}, rel=full.relationships||{};
+  const c=s.clock||{},p=s.player||{},m=s.money||{};
+  TABS=[];
+  let ov=`<div class="card hero"><div class="big">${E(c.story_date)} — ${E(c.story_time)}</div>
+    <div class="loc">${E(c.location)}</div><div class="phase">${E(c.phase)}</div></div>
+    <div class="grid"><div class="card"><h3>Player</h3>${kv(p,["name","age","house","year","role","working_wand","condition"])}</div>
+    <div class="card"><h3>Money</h3><div class="money">${m.galleons||0}<span>G</span> ${m.sickles||0}<span>S</span> ${m.knuts||0}<span>K</span> &nbsp;·&nbsp; £${m.muggle_gbp||0}</div>
+    <div class="note">${E(m.notes)}</div></div></div>
+    <div class="card"><h3>Flags</h3><div class="flags">`+Object.entries(s.flags||{}).map(([k,v])=>`<span class="flag ${v?"on":"off"}">${E(k)}</span>`).join("")+`</div></div>`;
+  TABS.push(["Overview",ov]);
+  const inv=s.inventory_summary||{},wp=s.wand_projects||{},dl=s.the_dead_and_loot_discipline||{},wb=s.wiggenweld_bench||{};
+  let it=`<div class="card"><h3>Inventory</h3>`+Object.entries(inv).filter(([k])=>k!=="_note").map(([k,v])=>`<div class="kv"><span class="k">${E(k.replace(/_/g," "))}</span><span class="v">${E(v)}</span></div>`).join("")+`</div>`;
+  it+=`<div class="card"><h3>Wand projects</h3>`+Object.entries(wp).map(([k,v])=>`<div class="row"><b>${E(k.replace(/_/g," "))}</b> <span class="tag">${E(v.status)}</span><div class="sub">${E(v.detail)}</div></div>`).join("")+`</div>`;
+  it+=`<div class="card"><h3>The dead &amp; loot</h3>`+kv(dl,Object.keys(dl))+`</div>`;
+  it+=`<div class="card"><h3>Wiggenweld</h3><div class="note">${E(wb.unit)} — ${E(wb.owed)}</div><div class="flags">`+Object.entries(wb.batches||{}).map(([k,v])=>`<span class="flag on">${E(k)}: ${E(v)}</span>`).join("")+`</div></div>`;
+  TABS.push(["Inventory",it]);
+  const GROUPS=[["inner_circle","Inner circle"],["family","Family"],["mentors_and_teachers","Mentors & teachers"],["war_and_field","War & field"],["cohort_and_other","Cohort & others"]];
+  const F=["tier","who","bond","earned","register","last_status","open","anti_reset","note","do_not_confuse"];
+  let rt="";
+  if(rel.found_family_milestone) rt+=`<div class="callout">★ ${E(rel.found_family_milestone)}</div>`;
+  if(rel.do_not_confuse) rt+=`<div class="callout warn"><b>Do not confuse:</b><ul>`+rel.do_not_confuse.map(x=>`<li>${E(x)}</li>`).join("")+`</ul></div>`;
+  for(const [gk,gl] of GROUPS){const g=rel[gk]; if(!g)continue;
+    rt+=`<div class="card"><h3>${E(gl)}</h3>`+Object.entries(g).map(([name,info])=>{
+      if(typeof info!=="object")return"";
+      const body=F.filter(f=>info[f]).map(f=>`<div class="kv"><span class="k">${E(f)}</span><span class="v">${E(info[f])}</span></div>`).join("");
+      return `<div class="person"><div class="pname">${E(name)} ${info.tier?`<span class="tag">${E(info.tier)}</span>`:""}</div>${body}</div>`;}).join("")+`</div>`;}
+  TABS.push(["Relationships",rt]);
+  TABS.push(["Threads",`<div class="card"><h3>Open threads</h3><ol class="threads">`+(s.open_threads||[]).map(t=>`<li>${E(t)}</li>`).join("")+`</ol></div>`]);
+  let lt="";for(const [k,v] of Object.entries(s.lore_threads||{})){
+    const inner=(typeof v==="object")?Object.entries(v).map(([ik,iv])=>`<div class="kv"><span class="k">${E(ik.replace(/_/g," "))}</span><span class="v">${E(typeof iv==="object"?JSON.stringify(iv):iv)}</span></div>`).join(""):E(v);
+    lt+=`<div class="card"><h3>${E(k.replace(/_/g," "))}</h3>${inner}</div>`;}
+  TABS.push(["Lore",lt]);
+  TABS.push(["Vectorization",vecPane()]);
+  setTabs();
+  $("status").textContent="loaded "+new Date().toLocaleTimeString()+" · as of "+(s.as_of_session||"");
+}
+async function load(){save();
+  try{render(await api("get_full"));}
+  catch(e){$("status").textContent="error: "+e.message+" (check URL/HTTPS/CORS)";}
+}
+if($("url").value) load();
+</script></body></html>

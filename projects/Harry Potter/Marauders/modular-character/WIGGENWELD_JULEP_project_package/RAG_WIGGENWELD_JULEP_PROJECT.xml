@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<rag_project_experiment schema="rag_project_experiment_v1" project_key="wiggenweld_julep_calebs_folly">
+  <title>Wiggenweld Julep / Caleb's Folly</title>
+  <object_category>research_project_experiment</object_category>
+  <status>active</status>
+  <one_line>Alcohol-solvent Wiggenweld variant, born as a bourbon-mint joke with Cassia Burbage and narrowed by Slughorn into an ethanol/Wiggenweld solvent-bind experiment.</one_line>
+  <do_not_confuse>
+    <item>Cassia Burbage = adult Slug &amp; Jiggers apothecary contact; original formulation partner.</item>
+    <item>Cassiopeia/Cass Vance = student chemistry reviewer; later cold-brew/cosolvent logic.</item>
+    <item>Three-Sleeps / Salve of Memory = separate projects with overlapping ingredients.</item>
+  </do_not_confuse>
+  <timeline>
+    <event date="31 Aug 1977">Cassia Burbage brewed standard Wiggenweld at Slug &amp; Jiggers as reference, gave Caleb a do-not-drink phial, and required any Folly recipe to be properly written with weights and times.</event>
+    <event date="31 Aug 1977">Leaky Cauldron crude test: one drop finished Wiggenweld into bourbon mint julep. No useful reaction; alcohol bound moondew on contact and neutralized healing. Conclusion: do not add finished Wiggenweld to alcohol; build the halves so the bind occurs correctly.</event>
+    <event date="2 Sept 1977">Slughorn narrowed the project to one spirit, one potion, one year. Caleb chose pure ethanol: no congeners, no flavour, no second-order cocktail chemistry. Requirements: controls, cost ledger, witness before tasting.</event>
+    <event date="8 Sept 1977">Caleb took the proposal to Cass Vance. Liri's read: ethanol is a cleaner solvent for moondew. Cass's read: water is also coolant and bind-bridge, so the real test is solvent gain versus bridge loss, not 'canonical Wiggenweld is wrong' yet.</event>
+    <event date="9 Sept 1977">Cassia/Cass drift corrected: Cassia Burbage is the Diagon Alley apothecary and original formulation partner; Cass Vance is a separate student reviewer.</event>
+    <event date="11 Sept 1977">Sprout ingredient context: moondew tasted cold/faintly sweet/numbing; mint clarified as wanted for the Julep. Mei judged Brigham's office suitable for harmless mint-Wiggenweld brewing with burner, vented west window, and carried water.</event>
+    <event date="13 Sept 1977">Supply chain cleaned: Sprout supplied moondew and mint; Slughorn supplied ethanol, salamander blood, and wiggentree bark. Office setup with Caleb, Mei, Liri begins.</event>
+    <event date="13 Sept 1977 ~14:10">Control brewed and potato/saline assay yardstick established. Cold steeps sit in charmed/frosted crock; hot work remains after Herbology; Liri stays to mind crock.</event>
+  </timeline>
+  <participants>
+    <leads>
+      <item>Caleb Waddell</item>
+      <item>Mei Chang</item>
+    </leads>
+    <current_office_helpers>
+      <item>Lirien 'Liri' Penrose</item>
+    </current_office_helpers>
+    <originator_partner>
+      <item>Cassia Burbage</item>
+    </originator_partner>
+    <chemistry_reviewer>
+      <item>Cassiopeia 'Cass' Vance</item>
+    </chemistry_reviewer>
+    <supervisors_suppliers>
+      <item>Professor Slughorn</item>
+      <item>Professor Sprout</item>
+      <item>Professor Verity Sage as possible extraction/alchemy authority</item>
+    </supervisors_suppliers>
+  </participants>
+  <materials>
+    <ingredients>
+      <item>pure ethanol</item>
+      <item>moondew</item>
+      <item>mint</item>
+      <item>wiggentree/rowan bark</item>
+      <item>salamander blood</item>
+      <item>water</item>
+    </ingredients>
+    <equipment>
+      <item>mortar and pestle</item>
+      <item>burner and stand</item>
+      <item>clean phials</item>
+      <item>stirring rod</item>
+      <item>scales</item>
+      <item>jug of water</item>
+      <item>charmed/frosted crock</item>
+      <item>potatoes</item>
+      <item>salt for 0.9% saline</item>
+    </equipment>
+    <supply_chain>
+      <Sprout>moondew and mint</Sprout>
+      <Slughorn>ethanol, salamander blood, wiggentree bark</Slughorn>
+      <Kitchens>potatoes and salt</Kitchens>
+    </supply_chain>
+  </materials>
+  <scientific_logic>
+    <failed_test>Finished Wiggenweld dropped into alcohol fails because alcohol catches/binds moondew too abruptly and neutralizes healing.</failed_test>
+    <liri_read>Ethanol is a better solvent for moondew than water.</liri_read>
+    <cass_read>Water in canonical Wiggenweld is also coolant/bind-bridge between warm bark-salamander side and cold moondew side. Ethanol improves solvent work but worsens bridge behaviour.</cass_read>
+    <safe_framing>Test whether ethanol's solvent gain offsets water's bridge loss. Do not claim canonical Wiggenweld is wrong before data.</safe_framing>
+  </scientific_logic>
+  <experimental_groups>
+    <arm id="Control">
+      <condition>standard water-only Wiggenweld</condition>
+      <purpose>positive baseline</purpose>
+      <status>DONE; bright green; potato cut visibly closed inside 1 min, near-shut at 2 min</status>
+    </arm>
+    <arm id="A">
+      <condition>hot/standard bark+salamander side in water; moondew+mint side in pure ethanol; join at canonical moment</condition>
+      <purpose>primary ethanol-side test</purpose>
+      <status>ethanol half resting/chilled; hot bark side pending</status>
+    </arm>
+    <arm id="B">
+      <condition>same as A, but ethanol half brought to brewing temp and held 90 seconds before join</condition>
+      <purpose>tests whether heated/settled ethanol improves bind timing</purpose>
+      <status>heated half pending</status>
+    </arm>
+    <arm id="C">
+      <condition>Cass's addition: moondew+mint in pure ethanol, cold-brewed/no heat, joined to standard hot bark+salamander side</condition>
+      <purpose>tests whether moondew side has been heated unnecessarily</purpose>
+      <status>cold ethanol half in crock; hot side pending</status>
+    </arm>
+    <arm id="D">
+      <condition>total cold brew; all components cold-steeped together</condition>
+      <purpose>wildest all-cold assembly test</purpose>
+      <status>single jar in crock, days from ready</status>
+    </arm>
+    <arm id="E">
+      <condition>two separate cold halves: bark+salamander cold in one, ethanol+moondew+mint cold in another; join later</condition>
+      <purpose>comparator for D; tests whether separation matters</purpose>
+      <status>E pair in crock, days from ready</status>
+    </arm>
+  </experimental_groups>
+  <assay_plan>
+    <substrate>peeled potato cut with standardized shallow nick</substrate>
+    <saline>0.9% physiological saline, Cass-validated</saline>
+    <negative_control>bare cut in saline only</negative_control>
+    <positive_yardstick>Control Wiggenweld drop: visible closure inside 1 minute, near-shut at 2</positive_yardstick>
+    <schedule>
+      <item>day 1</item>
+      <item>day 3</item>
+      <item>day 7</item>
+      <item>day 14</item>
+    </schedule>
+    <constants>
+      <item>same cut geometry</item>
+      <item>same drop size</item>
+      <item>same clock</item>
+      <item>same saline</item>
+    </constants>
+  </assay_plan>
+  <current_state>
+    <time>Tue 13 Sept 1977 ~14:11, before Herbology 15:00</time>
+    <location>Brigham's office</location>
+    <done>
+      <item>kit gathered</item>
+      <item>water jug acquired</item>
+      <item>bark ground uniformly</item>
+      <item>cold steeps started</item>
+      <item>Control brewed</item>
+      <item>day-1 Control assay started</item>
+    </done>
+    <in_progress>
+      <item>D jar cold-steeping</item>
+      <item>C cold half</item>
+      <item>A ethanol half</item>
+      <item>E two cold halves</item>
+      <item>Control day-1 assay</item>
+    </in_progress>
+    <pending>
+      <item>B heated half</item>
+      <item>hot bark sides for A/B/C</item>
+      <item>assay other ready batches</item>
+      <item>track exact steep times</item>
+      <item>protect moondew</item>
+      <item>days 3/7/14 readings</item>
+      <item>update Slughorn/cost ledger</item>
+      <item>tasting only with witness/approval</item>
+    </pending>
+    <liri_status>trusted to stay in office, work on Arithmancy, and mind the crock</liri_status>
+  </current_state>
+  <drift_rules>
+    <rule>Current active formula uses moondew+mint and wiggentree bark+salamander blood.</rule>
+    <rule>Earlier lavender/dittany/10-20% ethanol version is older proposal drift unless explicitly revived.</rule>
+    <rule>Cassia Burbage and Cass Vance must stay separate.</rule>
+    <rule>Current labels are Control/A/B/C/D/E.</rule>
+    <rule>Office brewing is fine for harmless Wiggenweld Julep work, not Three-Sleeps.</rule>
+    <rule>Do not overclaim canonical Wiggenweld is wrong before data.</rule>
+  </drift_rules>
+  <open_questions>
+    <question>Exact duration of C/D/E cold steeps.</question>
+    <question>Whether A's chilled/resting half becomes a meaningful cold-steep variable.</question>
+    <question>Whether Cass's 5% water cosolvent suggestion is represented by E or remains a separate possible arm.</question>
+    <question>Whether to update/send Cassia Burbage a recipe after initial results.</question>
+  </open_questions>
+</rag_project_experiment>

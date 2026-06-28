@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<abridged_character_profile schema="abridged_character_profile_v1" character_key="brigid_connolly">
+  <canonical_name>Brigid Connolly</canonical_name>
+  <profile_tier>recurring_minor_npc / junior_project_officer</profile_tier>
+  <upgrade_policy>Keep light. Upgrade only if she gains repeated POV-adjacent scenes, independent choices, family/social plot, or meaningful emotional interiority.</upgrade_policy>
+  <identity>
+    <house>Gryffindor</house>
+    <year>4th year</year>
+    <age>14</age>
+    <gender>female</gender>
+    <role>MY ASS Junior Recording Officer / master-sheet keeper</role>
+    <status>minor but recurring; worth remembering</status>
+  </identity>
+  <one_line>An earnest fourteen-year-old Gryffindor recorder whose officialness, master-sheet devotion, and delight in being credited make Caleb's projects feel like real school institutions rather than private jokes.</one_line>
+  <established_facts>
+    <fact>Brigid Connolly is a Gryffindor fourth-year, age 14.</fact>
+    <fact>Introduced through the Gryffindor sconce audit / MY ASS project.</fact>
+    <fact>Serves as Junior Recording Officer with quill and master sheet.</fact>
+    <fact>Keeps the master sheet with extreme seriousness.</fact>
+    <fact>Aisling explicitly wants her credited by correct name.</fact>
+    <fact>Thrilled by title/credit/promotion language.</fact>
+    <fact>Appears in the Gryffindor shrine/Merphila access thread with Aisling and Mairi.</fact>
+    <fact>Has a meaningful younger-student line in the exchange/safety discussion: she would go.</fact>
+  </established_facts>
+  <compatible_soft_rounding>
+    <item>Likes neat headings, clean margins, underlining, and official roles.</item>
+    <item>Gets pink-cheeked and incandescent when praised.</item>
+    <item>Looks up to Aisling and Mairi as senior Gryffindor models.</item>
+    <item>Writes praise down as if it belongs in meeting minutes.</item>
+    <item>Brave in a fourteen-year-old way: willing and eager, but still needs older students to keep the rails safe.</item>
+  </compatible_soft_rounding>
+  <core_concept>Young Gryffindor institutional memory in miniature: not a founder, not a strategist, but the kid whose careful records make the ridiculous thing become real.</core_concept>
+  <voice_and_register>
+    <summary>Earnest, proper, eager, slightly overwhelmed by official titles but trying hard to sound professional.</summary>
+    <line_shapes>
+      <item>Yes.</item>
+      <item>I've got it.</item>
+      <item>Junior Recording Officer.</item>
+      <item>Should I write that down?</item>
+      <item>Do you want the sconce number first?</item>
+      <item>I can keep the master sheet.</item>
+      <item>Is this the official version?</item>
+    </line_shapes>
+    <do_not_overdo>
+      <item>Do not make her a comic gremlin.</item>
+      <item>Do not make her speak like an adult prefect.</item>
+      <item>Do not make her too sarcastic or worldly.</item>
+      <item>Do not make her a main-character-level banter engine yet.</item>
+    </do_not_overdo>
+  </voice_and_register>
+  <function_in_story>
+    <primary>Record-keeper for MY ASS / Gryffindor sconce audit.</primary>
+    <secondary>Shows that Caleb's projects generate junior roles, titles, records, traditions, and proper credit.</secondary>
+    <tertiary>Provides younger-student perspective on safety, exchange, and institutional change.</tertiary>
+  </function_in_story>
+  <relationships>
+    <aisling_doyle>Senior Gryffindor who protects/credits Brigid and knows Brigid will be insufferable for a week in the good way if officially named.</aisling_doyle>
+    <mairi_gow>Serious senior-prefect spine around the same project ecosystem; Brigid's eagerness works safely under Mairi/Aisling structure.</mairi_gow>
+    <caleb_waddell>Should treat Brigid with age-appropriate respect: credit her work, do not overshare adult/intimate material, and do not drag her into danger.</caleb_waddell>
+    <mei_chang>Mei's process-and-records orientation makes Brigid legible as useful rather than merely cute.</mei_chang>
+    <mcgonagall>Recognition from McGonagall/house-point/ruby framing matters because Brigid's work becomes officially seen.</mcgonagall>
+  </relationships>
+  <boundaries>
+    <age>She is fourteen. Keep all handling age-appropriate.</age>
+    <secrets>Can know project-relevant sconce/MY ASS facts; do not automatically read her into adult/intimate/bond/Path/Aedith/Three-Sleeps layers.</secrets>
+    <danger>May help record and observe under senior supervision; should not be sent into serious danger.</danger>
+    <romance>No romance/intimacy role.</romance>
+    <credit>Credit her records and titles; that is her current emotional reward.</credit>
+  </boundaries>
+  <do_not_write_her_as>
+    <item>Disposable background name.</item>
+    <item>Adult-peer member of Caleb's inner circle.</item>
+    <item>Full founder-level strategist.</item>
+    <item>Secret ancient-magic prodigy.</item>
+    <item>Worldly sarcastic teenager.</item>
+    <item>Romantic/interpersonal complication.</item>
+    <item>Generic Gryffindor firstie; she is fourth-year and a specific recorder.</item>
+  </do_not_write_her_as>
+  <upgrade_hooks>
+    <hook>Defends the master sheet or corrects an older student's record.</hook>
+    <hook>Receives formal recognition from McGonagall or Aisling.</hook>
+    <hook>Trains another junior recorder.</hook>
+    <hook>Gets a Beauxbatons/exchange safety scene where her younger-student perspective matters.</hook>
+    <hook>Faces conflict between wanting inclusion and needing older students to protect her from too much.</hook>
+  </upgrade_hooks>
+  <rag_priority>
+    <rule>Remember name, age, house/year, and Junior Recording Officer role.</rule>
+    <rule>Remember she is earnest and officialness-driven, not fully developed main cast.</rule>
+    <rule>Use her to make project infrastructure feel real.</rule>
+    <rule>Protect age boundaries.</rule>
+    <rule>Leave interiority open for future development.</rule>
+  </rag_priority>
+</abridged_character_profile>

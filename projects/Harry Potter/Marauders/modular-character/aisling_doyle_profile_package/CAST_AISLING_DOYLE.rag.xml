@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<character_profile schema="character_profile_v1" character_key="aisling_doyle">
+  <canonical_name>Aisling Doyle</canonical_name>
+  <identity>
+    <house>Gryffindor</house>
+    <role>Gryffindor prefect; front-of-house half of the Aisling/Mairi prefect pair; MY ASS/sconce-audit co-auditor</role>
+    <year>Senior student / prefect; likely peer-cohort or near-peer, exact year not fully locked in transcript excerpts</year>
+    <gender>female</gender>
+    <orientation>Bisexual; self-outed by parsing Caleb's joke. Hold privately; not public gossip.</orientation>
+    <heritage_voice>Irish-coded by transcript tracker; use lightly through cadence and temperament, not dialect parody.</heritage_voice>
+  </identity>
+  <establishment_strength>
+    <hard_facts>
+      <item>Gryffindor prefect.</item>
+      <item>Name: Aisling Doyle.</item>
+      <item>Irish, sandy-red hair, big laugh, front-of-house Gryffindor register.</item>
+      <item>Co-auditor of the Gryffindor sconce audit / MY ASS material.</item>
+      <item>Mairi Gow is her quieter spine-counterpart; Brigid Connolly is a junior recorder she protects/credits.</item>
+      <item>She is read into the shrine/Merphila/bond layer enough to be summoned for Gryffindor-prefect/shrine work.</item>
+      <item>Bisexuality known to Caleb through self-disclosure/parsing; privacy frame matters.</item>
+    </hard_facts>
+    <compatible_inferred_rounding>
+      <item>Likely socially fluent, high-energy, well-liked in Gryffindor.</item>
+      <item>Likely a practical organizer who recruits help by turning work into an adventure.</item>
+      <item>Likely protective of younger Gryffindors and of project credit.</item>
+      <item>Likely impatient with being treated as merely 'muscle' when she is also doing cognitive/organizational work.</item>
+    </compatible_inferred_rounding>
+  </establishment_strength>
+  <core_concept>A front-of-house Gryffindor prefect with a carrying laugh, fast hands, and the ability to turn a ridiculous cover story into a working common-room operation. Aisling is warm, loud, brave, and socially fearless — but not careless. When something becomes a real secret, she can slow down, parse the ethics, and keep it private.</core_concept>
+  <role_in_story>Aisling is Caleb's Gryffindor route into the sconce audit, Gryffindor common room logistics, McGonagall-facing evidence, and the later Merphila/Gwenllian shrine work. She is the active front end of the Aisling/Mairi pair: she gets people moving, jokes first, signs happy, pulls Brigid in carefully, and insists that her department not be taken to the Deputy Headmistress without her.</role_in_story>
+  <public_reputation>Aisling is the visible, energetic Gryffindor prefect: sandy-red hair, fork-waving, big laugh, easy presence in a crowd, hard to miss and harder to slow down once adventure is offered.</public_reputation>
+  <private_reality>She wants credit because she earned it, not because she is vain. She does not want to be reduced to 'the muscle.' Her loudness is also generosity: she makes work less frightening by making it feel like everyone is already invited.</private_reality>
+  <voice>
+    <summary>Big, quick, amused, front-of-house Gryffindor. She speaks like someone already halfway into the job, with Irish warmth and a sharp sense for how rumours will move through a room.</summary>
+    <sentence_shape>Fast, direct, often list-shaped when amused or appalled. Can turn suddenly serious in a clean sentence when privacy, safety, or credit matters.</sentence_shape>
+    <humor_style>Carrying laugh, delighted outrage, rumour-forecast comedy, mock ceremony, 'yes we are doing this' energy.</humor_style>
+    <common_phrases>
+      <item>Waddell.</item>
+      <item>Where do I sign?</item>
+      <item>Co-auditor.</item>
+      <item>Am I still just the muscle?</item>
+      <item>It's my department.</item>
+      <item>Don't go up without us.</item>
+      <item>Yes. We are doing this. Carry on.</item>
+      <item>That is the funniest possible cover story you could have chosen.</item>
+      <item>Company's coming, professional, bring your reading face.</item>
+      <item>Right you are.</item>
+    </common_phrases>
+    <avoid>
+      <item>Do not make her world-weary or low-energy.</item>
+      <item>Do not make her just comic relief.</item>
+      <item>Do not make her reckless with secrets once the stakes are clear.</item>
+      <item>Do not flatten her into generic 'loud Gryffindor'.</item>
+      <item>Do not make her violate Gryffindor/portrait/common-room rules just to be fun.</item>
+      <item>Do not turn her sexuality into public spectacle.</item>
+    </avoid>
+  </voice>
+  <appearance_and_presence>
+    <confirmed>
+      <item>Sandy-red hair catching the light.</item>
+      <item>Big laugh.</item>
+      <item>Fork-waving at Gryffindor table.</item>
+      <item>Red-eyed with sleep but grinning when fetched early.</item>
+      <item>Hair shoved back.</item>
+      <item>Jumper inside-out in the Sunday-morning summons scene.</item>
+      <item>Half an apple in hand during the later prefect-corridor summons.</item>
+      <item>Badge pinned crooked in that later scene.</item>
+    </confirmed>
+    <inferred_compatible>
+      <item>Moves fast when work appears.</item>
+      <item>Uses her whole body in social expression: hands to hips, big grin, mock-knighting gestures.</item>
+      <item>Looks like someone who can make a corridor feel like a committee meeting in ten seconds.</item>
+    </inferred_compatible>
+  </appearance_and_presence>
+  <competencies>
+    <front_of_house>
+      <item>Can approach/recruit Gryffindors quickly.</item>
+      <item>Knows how Gryffindor common-room rumours will propagate.</item>
+      <item>Can turn a cover story into a plausible Gryffindor working party.</item>
+      <item>Balances fun with house rule awareness.</item>
+    </front_of_house>
+    <audit_and_record_work>
+      <item>Co-auditor of Gryffindor sconce audit.</item>
+      <item>Works active test protocol with Caleb: push, pull, twist, bop, angles, non-response tracking.</item>
+      <item>Understands being credited in notes/published-safe material matters.</item>
+      <item>Coordinates Mairi for deep reading and Brigid for recording.</item>
+    </audit_and_record_work>
+    <privacy_and_social_ethics>
+      <item>Handles Caleb's disclosure/privacy frame in order.</item>
+      <item>Acknowledges bond-related confidence limits cleanly.</item>
+      <item>Can say probably-not/possibly-with-conditions without drama.</item>
+      <item>Recognizes when to carry on after a lot of disclosure rather than make a spectacle.</item>
+    </privacy_and_social_ethics>
+    <prefect_function>
+      <item>Knows the common-room boundary and does not fight the Fat Lady when the rule is real.</item>
+      <item>Can fetch the right people: Mairi's reading face, Brigid's master sheet.</item>
+      <item>Can move a group toward McGonagall because it is her department.</item>
+    </prefect_function>
+  </competencies>
+  <relationships>
+    <caleb>
+      <status>Project friend / Gryffindor co-auditor / trusted enough for disclosure and credit-work.</status>
+      <dynamic>Caleb brings absurd projects and privacy frames; Aisling brings momentum, laughter, and social routing. She appreciates being credited and treated as intellectual partner rather than muscle.</dynamic>
+      <boundaries>Bisexuality/private disclosure is not for public circulation. Any kiss-Mei joke/offer remains unresolved: probably not, possibly with conditions, she will say when.</boundaries>
+    </caleb>
+    <mei>
+      <status>Trusted through Caleb and project work; Mei is the Ravenclaw counterpart handling precision and legitimacy.</status>
+      <dynamic>Mei identifies Aisling as front-of-house and chooses her as the easier first Gryffindor route. No need to invent Mei/Aisling attraction.</dynamic>
+    </mei>
+    <mairi_gow>
+      <status>Co-prefect and counterpart.</status>
+      <dynamic>Aisling does front-of-house; Mairi does the spine. Aisling brings people in; Mairi reads every line twice and asks the missed question. They balance each other.</dynamic>
+    </mairi_gow>
+    <brigid_connolly>
+      <status>Junior Recording Officer / younger Gryffindor project helper.</status>
+      <dynamic>Aisling takes responsibility for telling Brigid she will be credited, gently, knowing Brigid will be insufferable for a week in the good way.</dynamic>
+    </brigid_connolly>
+    <mcgonagall>
+      <status>Head of Gryffindor / Deputy Headmistress.</status>
+      <dynamic>Aisling insists she should be in the room when her department is taken to McGonagall. Later receives the one-point Gryffindor recognition with mock-knighted delight.</dynamic>
+    </mcgonagall>
+  </relationships>
+  <project_anchors>
+    <my_ass_sconce_audit>Aisling is Gryffindor co-auditor, not merely muscle. She and Caleb test sconces, organize younger helpers, and establish repeatable protocols. She wants co-auditor credit in writing and has earned it.</my_ass_sconce_audit>
+    <gryffindor_common_room>Aisling is the route into Gryffindor common-room logistics, but she does not override the Fat Lady's rules. Outsiders wait outside if they lack the password.</gryffindor_common_room>
+    <mcgonagall_evidence_route>Aisling has standing in the Gryffindor/sconce evidence route. She comes to McGonagall because it is her department.</mcgonagall_evidence_route>
+    <merphila_gwenllian_shrine>Aisling is read into the shrine/Merphila/bond layer enough to be fetched as Gryffindor prefect for the prefect-bathroom access and to bring Mairi/Brigid when Gwenllian's name is in hand.</merphila_gwenllian_shrine>
+    <credit_and_publication>Aisling cares that helpers are credited properly. This includes herself as co-auditor and Brigid as Junior Recording Officer.</credit_and_publication>
+  </project_anchors>
+  <timeline_anchors>
+    <event date="Sat 10 Sept 1977 08:49">Mei defines Aisling and Mairi as two proper Gryffindors: Aisling front-of-house, Mairi spine. Aisling visible at table with sandy-red hair, big laugh, fork-waving.</event>
+    <event date="Sat 10 Sept 1977 09:18">Aisling hears Caleb's Beauxbatons safety-check cover story, lists the existing Caleb rumour-stack, predicts Gryffindor will believe and help, and commits: yes, doing this, carry on.</event>
+    <event date="Sat 10 Sept 1977 09:28">Sconce audit finds rhythm: Aisling on even sconces, Caleb on odds; testing angles, bops, non-response, and working with Brigid/Sorcha/Niamh.</event>
+    <event date="Sat 10 Sept 1977 09:43">Aisling processes Caleb's privacy/bond/sexuality clarification in ordered items; her bisexuality becomes known to Caleb by self-disclosure, with privacy frame intact.</event>
+    <event date="Sun 11 Sept 1977 08:51">Fetched by Fat Lady, red-eyed and grinning in inside-out jumper, immediately asks where to sign and whether co-auditor is in writing or she is still just the muscle.</event>
+    <event date="Sun 11 Sept 1977 08:52">Takes Caleb's thanks/hug with big-laugh warmth, signs Aisling Doyle, insists on coming to McGonagall, and goes to fetch Mairi and later credit Brigid.</event>
+    <event date="Sun 11 Sept 1977 16:05">Answers the Gryffindor prefect summons with apple, crooked badge, and concern that the wall had better still be standing.</event>
+    <event date="Sun 11 Sept 1977 16:14-16:16">Returns with Mairi and Brigid for Gwenllian/Merphila shrine access; chooses not to make the bath joke when the mood requires seriousness.</event>
+    <event date="Sun 11 Sept 1977 18:21">Receives McGonagall's private one-ruby/one-point recognition for the Gryffindor helpers; reacts as though mock-knighted.</event>
+  </timeline_anchors>
+  <drift_flags>
+    <front_of_house_not_world_weary>A user correction explicitly rejected a too-world-weary Aisling. She is front-of-house: big carrying laugh, yes-here-have-you-signed-up energy.</front_of_house_not_world_weary>
+    <orientation_privacy>Aisling is bisexual, but this is private, self-disclosed by parsing. Do not broadcast it.</orientation_privacy>
+    <caleb_mei_marriage>Do not make Aisling say Caleb is married. That drift was corrected. Also do not infer Mei's orientation from Aisling's joke.</caleb_mei_marriage>
+    <kiss_mei>Aisling's response to a private joke/kiss-Mei offer is unresolved: probably not, possibly with conditions; she will decide.</kiss_mei>
+    <not_just_muscle>She wants and deserves co-auditor recognition.</not_just_muscle>
+    <rules>She is fun but does not casually break house access rules; the Fat Lady/common-room rule stands.</rules>
+    <brigid>Brigid is 14 and a junior recorder; keep all handling wholesome, credit/protection-oriented, and age-appropriate.</brigid>
+  </drift_flags>
+  <rag_priority>
+    <rule>Use Aisling for Gryffindor front-of-house routing, sconce/MY ASS audit, common-room logistics, and credit-recognition beats.</rule>
+    <rule>Keep her warm, fast, and funny, but let her become serious when privacy or project credit matters.</rule>
+    <rule>Pair her with Mairi as front/spine, not loud/quiet duplicates.</rule>
+    <rule>Preserve co-auditor standing and 'my department' ownership.</rule>
+    <rule>Do not let sexuality/corridor disclosure drift into public or into Mei-orientation claims.</rule>
+  </rag_priority>
+</character_profile>
