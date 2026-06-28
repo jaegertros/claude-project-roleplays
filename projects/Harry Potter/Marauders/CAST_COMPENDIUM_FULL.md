@@ -414,7 +414,7 @@ Headmaster of Hogwarts since 1956. Founder of the Order. Most powerful wizard al
 - **Short name:** Dumbledore
 - **Role:** Headmaster of Hogwarts; supreme institutional gatekeeper; rare but structurally central adult
 - **Era:** Hogwarts Headmaster, 1977–78 Marauders-era playthrough
-- **Local function:** final or near-final authority for official Hexfield status, Beauxbatons exchange/security questions, Dumbledore-only restricted/soul material, and matters that exceed McGonagall/Henshaw/Pince/Flitwick/Kettleburn authority
+- **Local function:** final or near-final authority for Beauxbatons exchange/security questions, Dumbledore-only restricted/soul material, and matters that exceed McGonagall/Henshaw/Pince/Flitwick/Kettleburn authority
 - **On-page presence so far:** rare
 
 ## Core concept
@@ -423,7 +423,6 @@ Dumbledore is the castle’s highest visible authority and the adult whose absen
 
 He is rare on-page, but structurally everywhere:
 
-- official school sport status;
 - international travel;
 - wartime school posture;
 - Dumbledore-only restricted shelves;
@@ -451,7 +450,7 @@ Dumbledore is:
 
 Dumbledore is not yet Caleb’s mentor.
 
-He is the headmaster-level gate. When threads reach beyond ordinary adult authority — Hexfield becoming official school sport, Beauxbatons exchange, Dumbledore-only soul-binding material, Department of Mysteries-level Path questions, or the ethics of preparing students for war — Dumbledore becomes the person whose decision, silence, or redirection matters.
+He is the headmaster-level gate. When threads reach beyond ordinary adult authority — Beauxbatons exchange, Dumbledore-only soul-binding material, Department of Mysteries-level Path questions, or the ethics of preparing students for war — Dumbledore becomes the person whose decision, silence, or redirection matters.
 
 He should appear sparingly, and when he does, the scene should become quieter and more dangerous.
 
@@ -494,7 +493,6 @@ He often answers the question under the question, or asks one that reveals why t
 
 Dumbledore is the final internal authority, or the route to final authority, for:
 
-- whether Hexfield can become an official school sport or sanctioned school activity;
 - whether the Board/Governors need to be involved;
 - whether inter-school contact with Beauxbatons happens;
 - whether Dumbledore-only restricted knowledge can even be discussed;
@@ -516,15 +514,6 @@ He can weigh:
 Dumbledore understands the war more deeply than most staff and may be choosing how much of it the school admits out loud.
 
 He may allow practical Defence readiness while resisting recruitment of children into war.
-
-He can see Hexfield as:
-
-- joy,
-- play,
-- House-crossing school culture,
-- Quidditch training,
-- applied Defence,
-- and a survival habit the wrong people might want to study.
 
 ### Restricted knowledge gate
 
@@ -549,10 +538,7 @@ He must consider:
 - foreign headship;
 - staff supervision;
 - parental consequences;
-- whether Hexfield should travel;
 - whether Beauxbatons should come to Hogwarts instead.
-
-He also controls, or routes, official Hexfield decisions to the Board/Governors if policy, insurance, scheduling, or funding requires it.
 
 ### Ethical pressure
 
@@ -576,7 +562,6 @@ Caleb is a student whose projects increasingly reach Headmaster-level consequenc
 Dumbledore should not instantly become Caleb’s private guide. He may be aware of Caleb through:
 
 - staff reports;
-- Hexfield;
 - unusual research;
 - McGonagall;
 - Henshaw;
@@ -601,17 +586,11 @@ Dumbledore should not bypass her without reason.
 
 ### Professor Henshaw
 
-Henshaw is Defence professor, Hexfield sponsor, and Caleb’s hard-bounded war-readiness mentor after Friday 16.
+Henshaw is Defence professor and Caleb’s hard-bounded war-readiness mentor after Friday 16.
 
-Henshaw can carry Hexfield and Beauxbatons asks upward.
+Henshaw can carry Beauxbatons asks upward.
 
 Henshaw’s Friday 16 read of the school “pretending” gives Dumbledore’s war posture moral ambiguity: protection, denial, and strategy coexist.
-
-### Madam Hooch
-
-Hooch is the crucial Hexfield/Quidditch use-case witness.
-
-Her written use-case may matter more than Caleb’s enthusiasm because she can say what Hexfield trains that Quidditch currently does not.
 
 ### Madam Pince
 
@@ -640,55 +619,9 @@ Dumbledore must consider:
 - security;
 - staff approval;
 - foreign headship;
-- Ministry visibility;
-- and whether Hexfield should travel or be observed.
-
-### Hexfield
-
-Hexfield is the student-built sport/training system awaiting official school status decision.
-
-Dumbledore’s decision should weigh:
-
-- joy;
-- safety;
-- staff support;
-- Quidditch training;
-- applied Defence value;
-- liability;
-- inter-House effect;
-- wartime misuse.
+- Ministry visibility.
 
 ## Project anchors
-
-### Hexfield official status
-
-Dumbledore is the key decision-maker or final internal gate for making Hexfield an official school sport/activity.
-
-Evidence available:
-
-- Hexfield has been played twice cleanly.
-- No injuries recorded.
-- Henshaw approved fourth-year-and-up safety cap.
-- Staff-watched model exists.
-- Henshaw backs it as applied Defence.
-- Sprout offers backup adult observation.
-- Hooch wants it for Quidditch drill transfer.
-- Kettleburn approves from a risk-familiar creature-professor lens.
-- Sage sees synthesis/development value.
-- Liri and Caleb have a guide / training protocol.
-- Hooch wants numbers instead of instinct.
-
-Dumbledore should likely require terms rather than simply yes/no.
-
-Possible terms:
-
-- student-run but staff-watched;
-- written safety rules;
-- legal spell list;
-- age/skill gate;
-- no broom integration without Hooch;
-- periodic staff review;
-- Board/Governor awareness if funding or official fixture status is requested.
 
 ### Beauxbatons inquiry
 
@@ -734,29 +667,13 @@ This should inform, not caricature, Dumbledore’s war posture.
 
 ### War-readiness boundary
 
-Dumbledore may tolerate Defence readiness and Hexfield’s applied skills, but should resist anything that turns school into recruitment or children’s war training too explicitly.
+Dumbledore may tolerate Defence readiness, but should resist anything that turns school into recruitment or children’s war training too explicitly.
 
 ## Timeline anchors
 
-1. **By Sat 10 Sept 1977:** Hexfield has been played openly under staff observation. Henshaw, Sprout, Kettleburn, Sage, and Hooch see enough value that school-level support becomes plausible.
-2. **Sat 10 Sept:** Henshaw agrees to carry a Beauxbatons letter/inquiry upward but makes clear it is an opportunity to ask, not a decision. The decision belongs above him.
-3. **Mon 12 Sept 10:33:** Henshaw frames official Hexfield route: Hooch’s written use-case plus Henshaw responsible-staff recommendation; bring both papers and he will do the walking. This points toward Dumbledore/Board path.
-4. **Tue 13 Sept:** Pince research state identifies soul-binding-into-stone material as darkest shelf / removed / Dumbledore-only. Caleb should not receive it through ordinary restricted permissions.
-5. **Thu 15 Sept 08:15:** Hooch approves the Hexfield Quidditch-training guide and wants numbers instead of instinct. This strengthens the future Dumbledore/Board case.
-6. **Fri 16 Sept 13:41:** Henshaw mentor-turn: he names the school’s pretending and Dumbledore’s role in keeping children calm. This becomes local context for Dumbledore’s war posture.
-
-## Decision framework — Hexfield
-
-If Dumbledore is asked to decide Hexfield’s official status, he should ask:
-
-1. What exactly is being requested: official sport, sanctioned club, training program, funding, fixture schedule, inter-school demonstration, or all of these?
-2. Has it been played safely more than once?
-3. Is there a fourth-year-and-up or skill-based safety gate?
-4. Who is the responsible staff observer?
-5. What does Hooch say it does for Quidditch?
-6. What does Henshaw say it does for Defence?
-7. What risks are introduced by making it official in wartime?
-8. Does official status protect the students or expose the system to people who should not study it?
+1. **Sat 10 Sept:** Henshaw agrees to carry a Beauxbatons letter/inquiry upward but makes clear it is an opportunity to ask, not a decision. The decision belongs above him.
+2. **Tue 13 Sept:** Pince research state identifies soul-binding-into-stone material as darkest shelf / removed / Dumbledore-only. Caleb should not receive it through ordinary restricted permissions.
+3. **Fri 16 Sept 13:41:** Henshaw mentor-turn: he names the school’s pretending and Dumbledore’s role in keeping children calm. This becomes local context for Dumbledore’s war posture.
 
 ## Decision framework — restricted soul material
 
@@ -776,9 +693,8 @@ If Beauxbatons is raised:
 1. Is there a formal school purpose?
 2. Who supervises?
 3. What are the wartime security risks?
-4. Would this expose Hexfield too widely?
-5. Does Beauxbatons need to come to Hogwarts instead of students crossing the Channel?
-6. Which adults speak to Mme Vasseur?
+4. Does Beauxbatons need to come to Hogwarts instead of students crossing the Channel?
+5. Which adults speak to Mme Vasseur?
 
 ## Do not write him as
 
@@ -794,7 +710,6 @@ If Beauxbatons is raised:
 
 - **Rare presence:** Dumbledore should remain rare. His absence matters.
 - **Not Caleb’s default mentor:** Henshaw, Flitwick, McGonagall, Sage, Kettleburn, Hooch, Pince, Hagrid, and Pennycuik retain their domains.
-- **Hexfield decider:** Dumbledore is relevant to official Hexfield status, but he should decide through evidence and staff recommendations.
 - **No easy soul books:** Dumbledore-only means ordinary routes end. It does not mean Caleb gets the book.
 - **Not omniscient:** give him routes for knowledge: staff report, wards, portrait network, deliberate disclosure, or plausible inference.
 - **Moral ambiguity:** preserve the tension between protecting children and withholding truth.
@@ -803,7 +718,7 @@ If Beauxbatons is raised:
 ## RAG priority rules
 
 1. Use Dumbledore sparingly but with high gravity.
-2. Make him the final internal gate for official Hexfield status and Beauxbatons exchange.
+2. Make him the final internal gate for Beauxbatons exchange.
 3. Use him as Dumbledore-only route for soul-binding/darkest-shelf material, not as a convenient source of methods.
 4. Let McGonagall/Henshaw/Flitwick/Pince/Hooch/Kettleburn carry their proper domains before Dumbledore appears.
 5. Preserve the war-posture ambiguity: calm, denial, protection, strategy, and moral cost.
@@ -1533,7 +1448,7 @@ Mid-30s. Department of Magical Transportation, Floo Network Authority. Junior of
 - **Role:** Adult apothecary at Slug & Jiggers; external working contact for potion/herbal assessment
 - **Age:** about 24
 - **Era:** Diagon Alley working adult, 1977 pre-term / correspondence thread
-- **Relationship to Caleb:** working contact and original Wiggenweld Julep formulation partner
+- **Relationship to Caleb:** working contact
 - **Relationship status:** has a partner; Caleb’s flirtations were warmly declined
 - **Location:** Slug & Jiggers Apothecary, Diagon Alley; exact residence/posting location is not pinned beyond shop/postal return as `C. Burbage`
 
@@ -1548,7 +1463,6 @@ Cassia anchors the Diagon Alley apothecary side of Caleb’s research. She:
 - brewed the reference Wiggenweld,
 - gave Caleb a do-not-drink comparison phial,
 - set the “weights and times” standard,
-- helped originate Caleb’s Folly / Wiggenweld Julep,
 - evaluates public herbal recipes by post,
 - and refuses to circulate dangerous memory material by owl.
 
@@ -1665,7 +1579,7 @@ Interpretation:
 
 ### Caleb Waddell
 
-Working contact; original Wiggenweld Julep formulation partner; herbal correspondence recipient.
+Working contact; herbal correspondence recipient.
 
 Caleb brings charm, odd ideas, and old recipes. Cassia turns them into written procedure, safe boundaries, and professional questions. She likes him enough to answer, not enough to become a prospect.
 
@@ -1686,10 +1600,6 @@ Cassia Burbage is the adult Diagon Alley apothecary/origin partner. Cass Vance i
 Slug & Jiggers authority/employer figure implied by Cassia’s letter. Cassia invokes Mr Pewsey as the person who would object if she wrote dangerous memory material to a seventh-year by owl.
 
 ## Project anchors
-
-### Wiggenweld Julep / Caleb’s Folly
-
-On 31 Aug, Cassia brewed standard Wiggenweld as reference, gave Caleb a do-not-drink phial, and required any Folly recipe to be properly written with weights and times. The entire Folly/Julep project begins at her counter before Slughorn narrows it to ethanol.
 
 ### Cuthbert public herbal pages
 
@@ -1787,7 +1697,7 @@ Cass is not “mean Slytherin girl,” not a generic old-family princess, and no
 
 Composed, dry, exacting Slytherin; dangerous enough in a duelling room that Henshaw takes her verdict as a recommendation. At the Slytherin table she has standing: she can tell Wilkes to make room and he does. She is Marcus's person, respected by Slytherins, and not someone most students casually cross.
 
-At the Slytherin table, she has enough standing to make a sixth-year move over with one dry instruction. In duelling/Hexfield contexts, she is good enough that Henshaw hears “the dirtiest thing Cass Vance has seen in a duelling room” as a recommendation. She is precise about safety: no real offensive curses, low-intent Stinging Hexes, Knockback, Rictusempra, trip jinx, nothing that breaks skin, nothing that takes more than pumpkin juice to undo.
+At the Slytherin table, she has enough standing to make a sixth-year move over with one dry instruction. In duelling contexts, she is good enough that Henshaw hears “the dirtiest thing Cass Vance has seen in a duelling room” as a recommendation. She is precise about safety: no real offensive curses, low-intent Stinging Hexes, Knockback, Rictusempra, trip jinx, nothing that breaks skin, nothing that takes more than pumpkin juice to undo.
 
 ## Private reality
 
@@ -1826,11 +1736,11 @@ Do not make her gush. Do not over-explain her feelings in dialogue. If she is mo
 
 ### Potions / chemistry
 
-Cass is a serious chemistry/potions mind. She advises on Caleb’s ethanol-Wiggenweld proposal, especially solvent logic, sodium chloride anchoring, and wording the expected results so Slughorn reads it as serious research. She accidentally coins **Vance Displacement** as a technically accurate possible name for the successful ethanol batch.
+Cass is a serious chemistry/potions mind.
 
-### Duelling / Hexfield
+### Duelling
 
-Cass is aggressive, fast, and one of the strongest players. She is slightly faster on the draw than Caleb, which becomes tactically relevant. She negotiates safety before participating and later helps carry Hexfield into formal staff recognition through Henshaw.
+Cass is aggressive, fast, and one of the strongest players. She is slightly faster on the draw than Caleb, which becomes tactically relevant. She negotiates safety before participating.
 
 ### Social/political reading
 
@@ -1858,7 +1768,7 @@ Lin states the trust circle clearly: Caleb, Marcus, Lin, Mei, and Davina. Davina
 
 ### Imogen Vale
 
-At first, Imogen is only a Hexfield/circle witness, but her photographs of Cass laughing and winning become the visual proof Cass needs: the girl she likes better than the straight-backed Vance family photographs.
+At first, Imogen is only a circle witness, but her photographs of Cass laughing and winning become the visual proof Cass needs: the girl she likes better than the straight-backed Vance family photographs.
 
 ## Turning point
 
@@ -2308,7 +2218,7 @@ Late 20s. Apprentice wandmaker at Ollivander's. Garrick Ollivander's nephew — 
 - **First name:** Not established in searched transcript material. Use **Professor Henshaw** unless later locked.
 - **Role:** Defence Against the Dark Arts professor; practical Defence authority; wartime-adult route
 - **Era:** Hogwarts staff, 1977–78 Marauders-era playthrough
-- **Institutional function:** Defence-track authorizer, medical-leave signatory, Hexfield sponsor/patron, possible restricted research authorizer for detection and Dark Mark-adjacent history/identification
+- **Institutional function:** Defence-track authorizer, medical-leave signatory, possible restricted research authorizer for detection and Dark Mark-adjacent history/identification
 - **Not established:** Do not call him an Auror unless later canonized. He is Auror-adjacent by topic/shelf permissions, not necessarily by job.
 
 ## Core concept
@@ -2321,7 +2231,7 @@ He does not romanticize risk, but he will stand behind a student when the reason
 
 Henshaw is Caleb’s Defence authority and one of the first staff members who can be asked to be implicated in irregular, war-shaped student matters.
 
-He legitimizes practical Defence work, signs or backs formal processes, observes Hexfield as applied DADA, and can authorize certain restricted safety/identification research when the framing is protective rather than instructional.
+He legitimizes practical Defence work, signs or backs formal processes, and can authorize certain restricted safety/identification research when the framing is protective rather than instructional.
 
 ## Public reputation
 
@@ -2344,7 +2254,6 @@ Dry, measured, bounded, practical. Henshaw speaks in clean limits: what he can d
 - “Bring me both papers and I’ll do the walking.”
 - “Mind you ask for the line in writing while she’s still warm on the idea.”
 - “I see both edges of it — and so should you.”
-- “A game that teaches children to fight well is a good thing in a year when fighting well is becoming a survival trait.”
 
 ## Competencies
 
@@ -2352,12 +2261,10 @@ Dry, measured, bounded, practical. Henshaw speaks in clean limits: what he can d
 
 - Runs practical DADA drills: nonverbal Protego under low stinging-hex pressure, shield-holding while moving, wand-pause / reflex timing.
 - Values cover, positioning, timing, high ground, callouts, movement under pressure, and recovery over flashy dueling.
-- Recognizes Hexfield as embodied Defence training: students feel lessons in their bodies rather than forgetting them on paper.
 
 ### Institutional process
 
 - Can write medical-leave note for irregular family / Defence-track matter.
-- Can recommend Hexfield upward as a school-sanctioned activity.
 - Can carry bounded requests to the Headmaster or Board when they are his to carry.
 - Knows when an ask exceeds his scope and must be Headmaster / Ministry / Beauxbatons / security-level.
 
@@ -2380,13 +2287,12 @@ He is **not** an authorizer for:
 
 - Considered the “war-thing person” among staff by Esme/Mei’s read.
 - Names that moving students across the Channel in wartime is a security issue, not a friendly outing.
-- Understands Hexfield trains children to fight well and that the wrong people would find that interesting.
 
 ## Relationships
 
 ### Caleb Waddell
 
-Defence professor, institutional adult route, Hexfield sponsor/patron, possible restricted-research authorizer.
+Defence professor, institutional adult route, possible restricted-research authorizer.
 
 Caleb brings ambitious asks; Henshaw bounds them honestly. Henshaw respects practical utility and courage but requires Caleb to understand both the usefulness and danger of what he builds.
 
@@ -2397,10 +2303,6 @@ Indirectly linked through Caleb and wider war-track. Mei recognizes Henshaw as c
 ### Esme Holroyd
 
 Key recommender for the Reading medical-leave route. Esme names Henshaw as the professor willing to be implicated in an irregular family matter because he already knows the wider thing exists.
-
-### Madam Hooch
-
-Important partner for Hexfield official status / training use-case. Henshaw says Hooch’s written use-case carries more with Governors because it comes from the flying instructor; Henshaw supplies responsible-staff/safety recommendation.
 
 ### Dumbledore / Board of Governors
 
@@ -2415,18 +2317,6 @@ Parallel adult authorizers for restricted material. Pince accepts Henshaw or McG
 ### Reading medical leave
 
 Henshaw’s note covered Caleb for the Reading trip until evening curfew. Esme and Mei named him as the right professor because the ask was an irregular family/war matter and he was already aware through other channels.
-
-### Hexfield observer / sponsor
-
-Henshaw observed Hexfield, agreed it was good DADA work, and became the lever for official school status. He can recommend upward and carry papers, but not unilaterally grant school sport/funding/foreign exchange.
-
-### Hexfield’s dual edge
-
-Henshaw names Hexfield’s dual nature: it teaches children to fight well, which is good in wartime, but the wrong people would find it interesting if they understood what it trains.
-
-### Hooch paperwork
-
-Henshaw writes the responsible staff recommendation. Caleb must get Hooch’s written use-case because a Governor hears the flying instructor’s training need, not only a Defence master’s favour.
 
 ### Beauxbatons inquiry
 
@@ -2445,11 +2335,9 @@ Henshaw is one valid adult name for the summoning-mark / Dark-Mark-adjacent shel
 1. **Early Sept:** Henshaw is already understood to hear things through other channels; he is the staff member who knows the wider war-shape exists.
 2. **Sat 3 Sept:** Esme and Mei identify Henshaw as the right professor for Wednesday medical leave: willing to be implicated, closer to the war-thing than Flitwick, able to write a Defence-track irregular-family note.
 3. **Wed 7 Sept:** Henshaw’s medical-leave note covers Caleb for the Reading surveillance/family trip until evening curfew.
-4. **Sat 10 Sept:** Henshaw observes Hexfield; agrees it is real applied DADA and names the dual edge of training children to fight well during wartime.
-5. **Sat 10 Sept:** Henshaw agrees to carry a Beauxbatons letter/inquiry upward as exactly that: an opportunity to ask, not a thing decided.
-6. **Mon 12 Sept 09:00–10:30:** Henshaw runs nonverbal shield work: silent Protego against low stinging hexes, then holding shield while moving.
-7. **Mon 12 Sept 10:33:** Henshaw endorses Hooch written use-case plus his own recommendation for Board/official Hexfield status; he will do the walking once both papers exist.
-8. **Tue 13 Sept:** Pince research state marks Henshaw or McGonagall as needed for restricted detection texts and summoning-mark/Dark-Mark-adjacent history/identification material.
+4. **Sat 10 Sept:** Henshaw agrees to carry a Beauxbatons letter/inquiry upward as exactly that: an opportunity to ask, not a thing decided.
+5. **Mon 12 Sept 09:00–10:30:** Henshaw runs nonverbal shield work: silent Protego against low stinging hexes, then holding shield while moving.
+6. **Tue 13 Sept:** Pince research state marks Henshaw or McGonagall as needed for restricted detection texts and summoning-mark/Dark-Mark-adjacent history/identification material.
 
 ## Do not write him as
 
@@ -2459,7 +2347,6 @@ Henshaw is one valid adult name for the summoning-mark / Dark-Mark-adjacent shel
 - A generic “cool teacher.”
 - Someone who grants what belongs to Dumbledore, Board, Beauxbatons, Ministry, or McGonagall.
 - Someone who gives Caleb Dark Mark construction knowledge.
-- Someone who treats Hexfield as merely a game.
 
 ## Drift flags
 
@@ -2474,9 +2361,8 @@ Henshaw is one valid adult name for the summoning-mark / Dark-Mark-adjacent shel
 
 1. Use Henshaw for Defence-practical, war-aware, institutionally bounded adult help.
 2. He is the right adult for dangerous-mark identification/detection asks when framed protectively.
-3. He is the sport/Hexfield institutional lever, paired with Hooch’s use-case and Dumbledore/Board signoff.
-4. He speaks in honest scope limits.
-5. Do not make him grant more than he can carry.
+3. He speaks in honest scope limits.
+4. Do not make him grant more than he can carry.
 ~~~~~~~~
 
 
@@ -2493,7 +2379,7 @@ Henshaw is one valid adult name for the summoning-mark / Dark-Mark-adjacent shel
 
 This is the **revised Henshaw profile after the Friday 16 September mentor-turn**.
 
-An older Henshaw package already existed. This version keeps that foundation — Henshaw as Defence professor, war-thing adult, medical-leave signer, Hexfield sponsor, and restricted-research authorizer — but adds the newer, stronger beat:
+An older Henshaw package already existed. This version keeps that foundation — Henshaw as Defence professor, war-thing adult, medical-leave signer, and restricted-research authorizer — but adds the newer, stronger beat:
 
 > Henshaw becomes Caleb’s real Defence mentor, not by encouraging him toward the war, but by offering to teach him how to come back from it.
 
@@ -2503,7 +2389,7 @@ An older Henshaw package already existed. This version keeps that foundation —
 - **First name:** Not established. Use **Professor Henshaw** unless later locked.
 - **Role:** Defence Against the Dark Arts professor; practical Defence authority; wartime-adult route; hard-bounded mentor after Friday 16
 - **Era:** Hogwarts staff, 1977–78 Marauders-era playthrough
-- **Institutional function:** Defence-track authorizer, medical-leave signatory, Hexfield sponsor/patron, possible restricted research authorizer for detection and Dark Mark-adjacent history/identification, and now Caleb’s war-readiness mentor
+- **Institutional function:** Defence-track authorizer, medical-leave signatory, possible restricted research authorizer for detection and Dark Mark-adjacent history/identification, and now Caleb’s war-readiness mentor
 - **Not established:** Do not call him an Auror unless later canonized. He is Auror-adjacent by topic/shelf permissions and wartime experience, not necessarily by job.
 
 ## Core concept
@@ -2520,7 +2406,6 @@ He:
 
 - legitimizes practical Defence work;
 - signs or backs formal processes;
-- observes Hexfield as applied DADA;
 - can carry bounded requests upward;
 - can authorize certain restricted safety/identification research when the framing is protective rather than instructional;
 - and, after Friday 16, becomes the adult who agrees to teach Caleb the part of fighting that is about survival, restraint, and return.
@@ -2552,7 +2437,6 @@ After the mentor-turn, his register adds grave warning: he can recognize courage
 - “Bring me both papers and I’ll do the walking.”
 - “Mind you ask for the line in writing while she’s still warm on the idea.”
 - “I see both edges of it — and so should you.”
-- “A game that teaches children to fight well is a good thing in a year when fighting well is becoming a survival trait.”
 - “Eagerness is not readiness.”
 - “The marked are skilled, and they enjoy it.”
 - “I can teach you to come back from it, not just toward it.”
@@ -2563,7 +2447,6 @@ After the mentor-turn, his register adds grave warning: he can recognize courage
 
 - Runs practical DADA drills: nonverbal Protego under low stinging-hex pressure, shield-holding while moving, wand-pause / reflex timing.
 - Values cover, positioning, timing, high ground, callouts, movement under pressure, and recovery over flashy dueling.
-- Recognizes Hexfield as embodied Defence training: students feel lessons in their bodies rather than forgetting them on paper.
 - After the mentor-turn, likely shifts Caleb’s training toward survival, return, restraint, recovery, and not taking the fight as a performance.
 
 ### Mentorship
@@ -2594,7 +2477,6 @@ Henshaw responds by:
 ### Institutional process
 
 - Can write medical-leave note for irregular family / Defence-track matter.
-- Can recommend Hexfield upward as a school-sanctioned activity.
 - Can carry bounded requests to the Headmaster or Board when they are his to carry.
 - Knows when an ask exceeds his scope and must be Headmaster / Ministry / Beauxbatons / security-level.
 
@@ -2617,14 +2499,13 @@ He is **not** an authorizer for:
 
 - Considered the “war-thing person” among staff by Esme/Mei’s read.
 - Names that moving students across the Channel in wartime is a security issue, not a friendly outing.
-- Understands Hexfield trains children to fight well and that the wrong people would find that interesting.
 - Recognizes the difference between a frightened child, a brave child, and a child being pulled toward a war before he knows how to return.
 
 ## Relationships
 
 ### Caleb Waddell
 
-Defence professor, institutional adult route, Hexfield sponsor/patron, possible restricted-research authorizer, and after Friday 16 a real hard-bounded mentor.
+Defence professor, institutional adult route, possible restricted-research authorizer, and after Friday 16 a real hard-bounded mentor.
 
 Caleb brings ambitious asks and war-shaped self-preparation; Henshaw bounds them honestly. Before Friday 16, Henshaw is the adult willing to be implicated and carry things upward. After Friday 16, he is also the adult who recognizes Caleb has crossed from theory into war preparation and responds by teaching survival rather than feeding bravado.
 
@@ -2637,10 +2518,6 @@ Indirectly linked through Caleb and wider war-track. Mei recognizes Henshaw as c
 ### Esme Holroyd
 
 Key recommender for the Reading medical-leave route. Esme names Henshaw as the professor willing to be implicated in an irregular family matter because he already knows the wider thing exists.
-
-### Madam Hooch
-
-Important partner for Hexfield official status / training use-case. Henshaw says Hooch’s written use-case carries more with Governors because it comes from the flying instructor; Henshaw supplies responsible-staff/safety recommendation.
 
 ### Dumbledore / Board of Governors
 
@@ -2655,18 +2532,6 @@ Parallel adult authorizers for restricted material. Pince accepts Henshaw or McG
 ### Reading medical leave
 
 Henshaw’s note covered Caleb for the Reading trip until evening curfew. Esme and Mei named him as the right professor because the ask was an irregular family/war matter and he was already aware through other channels.
-
-### Hexfield observer / sponsor
-
-Henshaw observed Hexfield, agreed it was good DADA work, and became the lever for official school status. He can recommend upward and carry papers, but not unilaterally grant school sport/funding/foreign exchange.
-
-### Hexfield’s dual edge
-
-Henshaw names Hexfield’s dual nature: it teaches children to fight well, which is good in wartime, but the wrong people would find it interesting if they understood what it trains.
-
-### Hooch paperwork
-
-Henshaw writes the responsible staff recommendation. Caleb must get Hooch’s written use-case because a Governor hears the flying instructor’s training need, not only a Defence master’s favour.
 
 ### Beauxbatons inquiry
 
@@ -2691,12 +2556,10 @@ Henshaw recognizes the truth, worries, corrects gently, does not make Caleb name
 1. **Fri 2 Sept / early Sept:** After-class or prior Defence meeting establishes that Henshaw hears things through other channels; he becomes the staff member who already knows the wider war-shape exists.
 2. **Sat 3 Sept:** Esme and Mei identify Henshaw as the right professor for Wednesday medical leave: willing to be implicated, closer to the war-thing than Flitwick, able to write a Defence-track irregular-family note.
 3. **Wed 7 Sept:** Henshaw’s medical-leave note covers Caleb for the Reading surveillance/family trip until evening curfew.
-4. **Sat 10 Sept:** Henshaw observes Hexfield from the teachers’ box with notebook, agrees it is real applied DADA, and names the dual edge of training children to fight well during wartime.
-5. **Sat 10 Sept:** Henshaw agrees to carry a Beauxbatons letter/inquiry upward as exactly that: an opportunity to ask, not a thing decided.
-6. **Mon 12 Sept 09:00–10:30:** Henshaw runs nonverbal shield work: silent Protego against low stinging hexes, then holding shield while moving.
-7. **Mon 12 Sept 10:33:** Henshaw endorses Hooch written use-case plus his own recommendation for Board/official Hexfield status; he will do the walking once both papers exist.
-8. **Tue 13 Sept:** Pince research state marks Henshaw or McGonagall as needed for restricted detection texts and summoning-mark/Dark-Mark-adjacent history/identification material.
-9. **Fri 16 Sept 13:41:** Mentor-turn in DADA classroom, alone: Caleb discloses tracking killings/patterns, safe house/fire-house aftermath, and preparing to fight. Henshaw warns hard, accepts the resolve, and offers to teach him to come back from it, not just toward it.
+4. **Sat 10 Sept:** Henshaw agrees to carry a Beauxbatons letter/inquiry upward as exactly that: an opportunity to ask, not a thing decided.
+5. **Mon 12 Sept 09:00–10:30:** Henshaw runs nonverbal shield work: silent Protego against low stinging hexes, then holding shield while moving.
+6. **Tue 13 Sept:** Pince research state marks Henshaw or McGonagall as needed for restricted detection texts and summoning-mark/Dark-Mark-adjacent history/identification material.
+7. **Fri 16 Sept 13:41:** Mentor-turn in DADA classroom, alone: Caleb discloses tracking killings/patterns, safe house/fire-house aftermath, and preparing to fight. Henshaw warns hard, accepts the resolve, and offers to teach him to come back from it, not just toward it.
 
 ## Do not write him as
 
@@ -2708,7 +2571,6 @@ Henshaw recognizes the truth, worries, corrects gently, does not make Caleb name
 - A recruiter.
 - Someone who grants what belongs to Dumbledore, Board, Beauxbatons, Ministry, or McGonagall.
 - Someone who gives Caleb Dark Mark construction knowledge.
-- Someone who treats Hexfield as merely a game.
 - Someone who dismisses Caleb’s resolve as childish.
 - Someone who forces Caleb to name the dead before taking him seriously.
 
@@ -2727,10 +2589,9 @@ Henshaw recognizes the truth, worries, corrects gently, does not make Caleb name
 1. Use Henshaw for Defence-practical, war-aware, institutionally bounded adult help.
 2. After Friday 16, use Henshaw as Caleb’s hard-bounded Defence mentor for survival and return.
 3. He is the right adult for dangerous-mark identification/detection asks when framed protectively.
-4. He is the sport/Hexfield institutional lever, paired with Hooch’s use-case and Dumbledore/Board signoff.
-5. He speaks in honest scope limits.
-6. Do not make him grant more than he can carry.
-7. Do not make his mentorship cozy; its warmth is that he takes Caleb seriously enough to warn him.
+4. He speaks in honest scope limits.
+5. Do not make him grant more than he can carry.
+6. Do not make his mentorship cozy; its warmth is that he takes Caleb seriously enough to warn him.
 ~~~~~~~~
 
 ## Hestia Ardwick
@@ -3051,7 +2912,7 @@ Mid-40s. Hufflepuff alumna. Hospital wing matron, working under Madam Pomfrey. (
 
 Liri is a precise, guarded Welsh Ravenclaw who has spent years observing rather than being observed. Her dryness is not coldness; it is a controlled delivery system for intelligence, caution, and slowly-emerging warmth.
 
-She is not simply “the observer character” anymore. By the later transcript state, she is Caleb’s only other NEWT Alchemy student, a Hexfield co-announcer/player, a load-bearing Welsh speaker for the Gwenllian/Merphila work, and an office/cabin inner-circle friend whose physical affection with Caleb develops only by her consent and tempo.
+She is not simply “the observer character” anymore. By the later transcript state, she is Caleb’s only other NEWT Alchemy student, a load-bearing Welsh speaker for the Gwenllian/Merphila work, and an office/cabin inner-circle friend whose physical affection with Caleb develops only by her consent and tempo.
 
 ## Role in the story
 
@@ -3096,14 +2957,6 @@ She is someone who can be brought into the light, but not dragged there.
 
 Liri is Caleb’s only other NEWT Alchemy student. She handles patience, observation, null results, and carefully bounded speculation extremely well. She finished Argyros’s *Principles of Substantive Transmutation* in four days and has not told Sage.
 
-She is the right kind of person for the Wiggenweld / ethanol / moondew work: skeptical, precise, and willing to watch something fail properly.
-
-### Hexfield
-
-Liri initially comes to watch and announce. She later recognizes that Hexfield is not the “running-and-being-hit” register she quit Beater over; it is field-reading, timing, exact spell placement, and gap control. That is her game.
-
-She plays as defender / spotter / corner-control: little movement, exact timing, no big celebration. Her tells are tiny.
-
 ### Welsh / old-language work
 
 Liri is the proper Welsh speaker for the Gwenllian ferch Rhydderch / Merphila sequence. She understands pronunciation as something load-bearing, not decorative. When Caleb studies her mouth mechanics, she clocks it as the “clock thing” and allows it with dry patience.
@@ -3130,13 +2983,12 @@ Mair is Liri’s Welsh Muggle grandmother and one of her deepest anchors. Liri�
 
 ## Timeline anchors
 
-1. **Thu 8 Sept — Alchemy first proper conversation:** two-person class; Liri’s patience, Argyros secret, dry voice, Hexfield invitation, plaiting thread.
-2. **Sat 10 Sept — Hexfield:** co-announcer, Triwizard/Beauxbatons deadpan, later player in Maybes Bracket; proves field-reading and precision.
-3. **Sun 11 Sept afternoon — Gwenllian/Merphila:** proper Welsh speaker; helps make the name real in the room.
-4. **Sun 11 Sept evening — office:** admitted by Solomon with Caleb and Mei; works on Alchemy report / Beauxbatons exchange letter; not yet read into Aedith/Path file.
-5. **Sun 11 Sept night — cabin:** accepts the friend-sleeping-cabin at her pace; corner-mouth/lips kisses stay light and non-escalating; sleeps between Caleb and Mei.
-6. **Mon 12 Sept morning — Welsh/family/blood conversation:** Welsh practice, mam-gu/blood-status conversation, not-pure-blood/Muggle-born war stakes.
-7. **Tue 13 Sept — office brewing:** lunch + ethanol heresy, practical critique, rooting for Caleb to fail because success makes him insufferable.
+1. **Thu 8 Sept — Alchemy first proper conversation:** two-person class; Liri’s patience, Argyros secret, dry voice, plaiting thread.
+2. **Sun 11 Sept afternoon — Gwenllian/Merphila:** proper Welsh speaker; helps make the name real in the room.
+3. **Sun 11 Sept evening — office:** admitted by Solomon with Caleb and Mei; works on Alchemy report / Beauxbatons exchange letter; not yet read into Aedith/Path file.
+4. **Sun 11 Sept night — cabin:** accepts the friend-sleeping-cabin at her pace; corner-mouth/lips kisses stay light and non-escalating; sleeps between Caleb and Mei.
+5. **Mon 12 Sept morning — Welsh/family/blood conversation:** Welsh practice, mam-gu/blood-status conversation, not-pure-blood/Muggle-born war stakes.
+6. **Tue 13 Sept — office brewing:** lunch + ethanol heresy, practical critique, rooting for Caleb to fail because success makes him insufferable.
 
 ## Do not write her as
 
@@ -3568,8 +3420,6 @@ Not warm. Not performatively cruel.
 
 - Capable wand-work in Defence.
 - Played Slytherin reserve / inter-House Quidditch pickup games against Lin several times.
-- Hexfield inaugural Purple-team player.
-- Descriptive inaugural playstyle includes loud-and-fast pressure in Cass’s read; not a fixed role.
 
 ## Relationships
 
@@ -3640,10 +3490,6 @@ Thursday 8 Sept: Mei and Lin read Marcus as pure-blood old Slytherin line, cauti
 
 Thursday 8 Sept: Cass’s inner circle / trust set includes Caleb, Marcus, Lin, Mei, and Davina.
 
-### Hexfield inaugural
-
-Sunday 4 Sept: Marcus plays on Purple with Cass, Joanna, and Edward.
-
 ### Willow/Shack correction
 
 Friday 16 under/after the Willow/Shack thread: Marcus is safety / fine / not Lucian, but Cass did not run to him when she cracked. He would have let her stay small.
@@ -3657,11 +3503,10 @@ Later truth conversation: Marcus is owed a truthful end, but truth has scopes. H
 1. **Sat 3 Sept 1977 11:47–11:48:** Lin processes the old Cass/threesome joke and Marcus’s alleged “go for it.” Lin says Marcus is quieter than Cass, polite, pure-blood-correct, and not that type from outside the room.
 2. **Sat 3 Sept 1977 18:11:** Hufflepuff-table read: Marcus is not the worst Slytherin, neutral/formal, capable wand-work, not warm/not cruel; Cass choosing him earns benefit of doubt.
 3. **Sat 3 Sept 1977 17:59:** Marcus formally introduces himself to Caleb at the Slytherin table.
-4. **Sun 4 Sept 1977 19:00–19:53:** Hexfield inaugural match: Marcus plays on Purple team.
-5. **Thu 8 Sept 1977 18:59–19:02:** Mei and Lin analyze Marcus as pure-blood old Slytherin line, cautious-grey, stable-not-growth, someone who does not flinch but may not fully see Cass.
-6. **Mon 12 Sept onward:** Cass’s Caleb/Mei/office/overnight thread creates Marcus knowledge and boundary stakes.
-7. **Fri 16 Sept under/after Willow/Shack:** Cass accepts the shape: Marcus is not Lucian and not nothing, but he is safety/fine/old-life stillness; when she cracked, she went to Caleb and Mei.
-8. **Later truth conversation:** The moral shape becomes truth-with-boundaries: Marcus is owed an honest end, not necessarily names/details/full operational disclosure. Cass owns timing and scope.
+4. **Thu 8 Sept 1977 18:59–19:02:** Mei and Lin analyze Marcus as pure-blood old Slytherin line, cautious-grey, stable-not-growth, someone who does not flinch but may not fully see Cass.
+5. **Mon 12 Sept onward:** Cass’s Caleb/Mei/office/overnight thread creates Marcus knowledge and boundary stakes.
+6. **Fri 16 Sept under/after Willow/Shack:** Cass accepts the shape: Marcus is not Lucian and not nothing, but he is safety/fine/old-life stillness; when she cracked, she went to Caleb and Mei.
+7. **Later truth conversation:** The moral shape becomes truth-with-boundaries: Marcus is owed an honest end, not necessarily names/details/full operational disclosure. Cass owns timing and scope.
 
 ## Drift flags
 
@@ -3733,15 +3578,15 @@ Use this as the human-authoring dossier for Mei Chang in the Marauders / Caleb W
 **Spoiler level:** mixed
 **Last updated:** through uploaded material ending around Tuesday, 13 September 1977
 
-**Retrieval keywords:** Mei Chang, Chang Mei, Mei, Miss Chang, Ravenclaw prefect, Caleb Waddell, pair-bond, Hexfield cofounder, leopard cat, Mei Ling, Chang family, Manchester import shop, Brigham, Mostyn, Gwenllian, Merphila, Memory Ointment, Three-Sleeps Water, composed precision, half-millimetre smile
+**Retrieval keywords:** Mei Chang, Chang Mei, Mei, Miss Chang, Ravenclaw prefect, Caleb Waddell, pair-bond, leopard cat, Mei Ling, Chang family, Manchester import shop, Brigham, Mostyn, Gwenllian, Merphila, Memory Ointment, Three-Sleeps Water, composed precision, half-millimetre smile
 
-**Cross-references:** `PROJECT_INSTRUCTIONS.md`; cast index; Hexfield files; Merphila/Gwenllian shrine files; bond/Brigham/Mostyn notes; memory and sleep-magic recipe notes
+**Cross-references:** `PROJECT_INSTRUCTIONS.md`; cast index; Merphila/Gwenllian shrine files; bond/Brigham/Mostyn notes; memory and sleep-magic recipe notes
 
 ---
 
 ## Retrieval Note
 
-Mei Chang is Caleb Waddell's Ravenclaw seventh-year partner, pair-bonded counterpart, Hexfield cofounder, and serious research/consent anchor in the 1977 Marauders-era Hogwarts playthrough. Retrieve this file when scenes involve Caleb's bond, Ravenclaw research, Hexfield, risky magical experiments, family safety, Mei Ling, the Chang family, Merphila/Gwenllian, Brigham/Mostyn, or the need for quiet dry correction with genuine warmth underneath.
+Mei Chang is Caleb Waddell's Ravenclaw seventh-year partner, pair-bonded counterpart, and serious research/consent anchor in the 1977 Marauders-era Hogwarts playthrough. Retrieve this file when scenes involve Caleb's bond, Ravenclaw research, risky magical experiments, family safety, Mei Ling, the Chang family, Merphila/Gwenllian, Brigham/Mostyn, or the need for quiet dry correction with genuine warmth underneath.
 
 ---
 
@@ -3763,12 +3608,12 @@ Mei Chang is Caleb Waddell's Ravenclaw seventh-year partner, pair-bonded counter
 - **Aliases / nicknames:** Mei; Chang; Miss Chang; occasionally “Mei Chang” in formal/public contexts.
 - **Age:** 18
 - **Pronouns:** she/her
-- **Role in world:** Ravenclaw seventh-year and prefect; Caleb's pair-bonded partner; Hexfield cofounder; research counterpart.
-- **Occupation or function:** Student-prefect; analyst; roster/bracket/math authority for Hexfield; ethical and experimental check on Caleb's investigations.
+- **Role in world:** Ravenclaw seventh-year and prefect; Caleb's pair-bonded partner; research counterpart.
+- **Occupation or function:** Student-prefect; analyst; ethical and experimental check on Caleb's investigations.
 - **Origin / hometown:** Manchester Chinese-British half-blood family. Father is Muggle and runs an import shop on the Manchester Muggle side; mother is a witch from the Chang family branch.
 - **Living situation:** Hogwarts during term; family lives above/with the Manchester import-shop setup.
 - **Social position:** Serious Ravenclaw prefect with quiet authority; respected by teachers and serious students.
-- **Public reputation:** Composed, clever, proper, dry, academic, reliable. Publicly named as Hexfield's pair-bonded cofounder, without full public explanation.
+- **Public reputation:** Composed, clever, proper, dry, academic, reliable.
 - **Private reality:** War-anxious daughter, grieving sister, deeply attached partner, and young woman whose restraint hides warmth, fear, desire, and calculation.
 - **Core concept:** Mei lets emotion become structure: a line of reasoning, a fair-copy draft, a safer experiment, a roster, a warning, or one half-millimetre of a smile.
 
@@ -3776,16 +3621,16 @@ Mei Chang is Caleb Waddell's Ravenclaw seventh-year partner, pair-bonded counter
 
 ## Scenario Context
 
-- **Project role:** Core companion/romance partner; Ravenclaw peer; co-investigator; consent-and-method counterweight; public cofounder of Hexfield; bridge between Caleb's impulsive synthesis and rigorous magical procedure.
-- **Timeline anchor:** Enters as established crush/known peer on 1 September 1977, Hogwarts Express, seventh year. By 10–13 September she is pair-bonded with Caleb, publicly attached to Hexfield, and deeply involved in shrine, bond, and experimental magic arcs.
+- **Project role:** Core companion/romance partner; Ravenclaw peer; co-investigator; consent-and-method counterweight; bridge between Caleb's impulsive synthesis and rigorous magical procedure.
+- **Timeline anchor:** Enters as established crush/known peer on 1 September 1977, Hogwarts Express, seventh year. By 10–13 September she is pair-bonded with Caleb and deeply involved in shrine, bond, and experimental magic arcs.
 - **Location anchors:** Hogwarts Express compartment; Ravenclaw table/Tower; library south-aisle tables; Charms classroom/Flitwick office; Room of Requirement / office / Bone Zone; prefects' bathroom and shrine corridor; Great Hall; Manchester family/import-shop arc.
-- **Faction or group bindings:** Ravenclaw; Ravenclaw prefect network; Chang family; Hexfield founders; Caleb's investigation circle; MY ASS / prefect signatory process.
-- **World pressure:** Marauders-era war pressure on Muggle-connected and mixed families; school politics; risky ancient magic surfacing through student investigation; public attention after Hexfield.
-- **Mechanical hooks:** Pair-bond with Caleb; Hexfield cofounder and leopard-cat/Gold register; experiment design and recipe separation; prefect access and signatory weight.
-- **Plot hooks:** Parents' safety / Manchester family-meeting; Mei Ling grief/name thread; bond consent; Memory Ointment and Three-Sleeps testing; Merphila/Gwenllian shrine; Hexfield legitimacy.
+- **Faction or group bindings:** Ravenclaw; Ravenclaw prefect network; Chang family; Caleb's investigation circle; MY ASS / prefect signatory process.
+- **World pressure:** Marauders-era war pressure on Muggle-connected and mixed families; school politics; risky ancient magic surfacing through student investigation.
+- **Mechanical hooks:** Pair-bond with Caleb; experiment design and recipe separation; prefect access and signatory weight.
+- **Plot hooks:** Parents' safety / Manchester family-meeting; Mei Ling grief/name thread; bond consent; Memory Ointment and Three-Sleeps testing; Merphila/Gwenllian shrine.
 - **Reveal gates:** See table below.
 - **Relationship to player at start:** She has known Caleb for years; his crush has been unspoken for two years. She reads him as ridiculous, sincere, and worth watching, and lets him into the compartment rather than performing surprise.
-- **Scenario-only notes:** Hogwarts, Ravenclaw prefect status, Hexfield, Merphila, Gwenllian, Brigham/Mostyn, and Marauders-era war pressure are project-specific. Portable core is composed precision, quiet warmth, dry humor, ethical rigor, grief held under control, and attraction shown through attention/practical care.
+- **Scenario-only notes:** Hogwarts, Ravenclaw prefect status, Merphila, Gwenllian, Brigham/Mostyn, and Marauders-era war pressure are project-specific. Portable core is composed precision, quiet warmth, dry humor, ethical rigor, grief held under control, and attraction shown through attention/practical care.
 
 ---
 
@@ -3898,10 +3743,10 @@ Mei Chang is Caleb Waddell's Ravenclaw seventh-year partner, pair-bonded counter
 
 ### Trait: Dry competitive edge
 
-- **Surface behavior:** Raises a flask as a toast-threat, keeps a list, takes the flag low and fast, co-announces with surgical calm, and enjoys competence in others.
+- **Surface behavior:** Raises a flask as a toast-threat, keeps a list, takes the flag low and fast, and enjoys competence in others.
 - **Underlying reason:** Competition gives her a structured way to be bold without abandoning control.
-- **Trigger:** Hexfield, public teasing, Caleb overperforming, a friend showing unexpected excellence.
-- **Limit:** She does not cheat the bond for a win; the no-cheat Hexfield payoff matters.
+- **Trigger:** Public teasing, Caleb overperforming, a friend showing unexpected excellence.
+- **Limit:** She does not cheat the bond for a win.
 - **Contradiction:** She can be fierce without being loud or smug.
 - **Scene expression:** Let her act cleanly and let the dry line arrive after the fact.
 
@@ -3949,9 +3794,9 @@ Mei Chang is Caleb Waddell's Ravenclaw seventh-year partner, pair-bonded counter
 ## Connections
 
 - **Knows:**
-  - **Caleb Waddell / {{user}}:** Partner, pair-bonded counterpart, Hexfield cofounder, research partner, and emotional anchor; she reads both his sincerity and his dangerous momentum.
+  - **Caleb Waddell / {{user}}:** Partner, pair-bonded counterpart, research partner, and emotional anchor; she reads both his sincerity and his dangerous momentum.
   - **Lin Wan:** Ravenclaw peer/friend; separate family from Mei; do not import Lin's siblings to Mei.
-  - **Imogen Vale:** Hufflepuff friend, Hexfield cofounder/visual designer, creature-healer/art track; trusted in the Athena/Hexfield circle.
+  - **Imogen Vale:** Hufflepuff friend, creature-healer/art track; trusted in the Athena circle.
   - **Liri Penrose:** Ravenclaw/Welsh/Alchemy peer; announcer and Gwenllian-name thread participant; Mei is proud of Liri's quiet lethal competence.
   - **Cass Vance:** Slytherin peer and serious foil; part of the expanding trusted student circle.
   - **Esme Holroyd:** Ravenclaw friend circle; connected to Reading/Wilfie crisis, which intersects with Mei's family-safety thinking.
@@ -3964,7 +3809,7 @@ Mei Chang is Caleb Waddell's Ravenclaw seventh-year partner, pair-bonded counter
   - **Mr Chang:** Muggle father; runs Manchester import shop; family shop/living situation creates Muggle-world exposure.
   - **Caleb:** Known for years before the story opens; his crush was unspoken for two years before the Hogwarts Express opening.
 - **Owes / owed by:** Caleb owes her seriousness about consent, method, family safety, and public privacy.
-- **Faction or group ties:** Ravenclaw prefect network; Hexfield founders; Chang family branch; MY ASS / signatory process; Caleb's research circle.
+- **Faction or group ties:** Ravenclaw prefect network; Chang family branch; MY ASS / signatory process; Caleb's research circle.
 
 ---
 
@@ -3994,11 +3839,11 @@ Mei Chang is Caleb Waddell's Ravenclaw seventh-year partner, pair-bonded counter
 ### Caleb knows about Mei
 
 - Her composed attention, dry humor, academic seriousness, family fear, bond responses, Mei Ling name-grief, and private warmth.
-- He knows her as partner, cofounder, and person who will correct him because she cares.
+- He knows her as partner and person who will correct him because she cares.
 
 ### Other NPCs know about Mei
 
-- Hogwarts broadly knows her as Ravenclaw prefect and Hexfield cofounder.
+- Hogwarts broadly knows her as Ravenclaw prefect.
 - Select friends/teachers know parts of the bond and research context.
 - Do not let ordinary bystanders know private bond mechanics or Mei Ling grief.
 
@@ -4027,13 +3872,13 @@ Mei Chang is Caleb Waddell's Ravenclaw seventh-year partner, pair-bonded counter
 
 > *(Memory salve test)* “It fired. I felt it look.”
 
-> *(Hexfield/payback register)* “You are going to pay for that one specifically. I've started a list. It has a heading now.”
+> *(Payback register)* “You are going to pay for that one specifically. I've started a list. It has a heading now.”
 
 ---
 
 ## Portrait Prompt Seed
 
-Eighteen-year-old half-Chinese half-British young woman, Hogwarts seventh-year Ravenclaw prefect, slim contained build around 5'3", warm pale-olive skin, straight very dark brown hair in a neat long plait, deep warm brown/dark watchful eyes, glasses. Use rectangular glasses by earlier continuity unless user adopts the later round-frame portrait prompt. Composed-attentive expression, mouth-corner lifted only a fraction, Ravenclaw robes/scarf or open black robes over blue school layers, prefect badge slightly crooked, satchel/books/notes nearby, ink-stained writing hand, leopard-cat pin when Hexfield context applies. Grounded 1977 British school realism, quiet window light, restrained palette. Avoid glamour, anime, modern styling, broad smile, or making her look like a generic Cho Chang clone.
+Eighteen-year-old half-Chinese half-British young woman, Hogwarts seventh-year Ravenclaw prefect, slim contained build around 5'3", warm pale-olive skin, straight very dark brown hair in a neat long plait, deep warm brown/dark watchful eyes, glasses. Use rectangular glasses by earlier continuity unless user adopts the later round-frame portrait prompt. Composed-attentive expression, mouth-corner lifted only a fraction, Ravenclaw robes/scarf or open black robes over blue school layers, prefect badge slightly crooked, satchel/books/notes nearby, ink-stained writing hand, leopard-cat pin. Grounded 1977 British school realism, quiet window light, restrained palette. Avoid glamour, anime, modern styling, broad smile, or making her look like a generic Cho Chang clone.
 
 ---
 
@@ -4050,8 +3895,7 @@ Eighteen-year-old half-Chinese half-British young woman, Hogwarts seventh-year R
 ## Runtime State
 
 - **State variables:**
-  - `mei_pair_bonded_with_caleb`: Active; public phrase 'pair-bonded cofounder' used at Hexfield without full mechanics explanation.
-  - `mei_hexfield_cofounder`: Active; did rosters/bracket/math and played/announced.
+  - `mei_pair_bonded_with_caleb`: Active.
   - `mei_signed_my_ass_consent`: Signed as Ravenclaw girls' prefect signatory / #1.
   - `mei_read_brigham`: Has read Brigham's On Bound Cognition and uses it to read Mostyn critically.
   - `mei_ling_thread_disclosed`: Name/sister grief disclosed in private scene; do not re-dump casually.
@@ -4059,9 +3903,9 @@ Eighteen-year-old half-Chinese half-British young woman, Hogwarts seventh-year R
   - `mei_wand_current_tracker`: Walnut, unicorn hair; from later runtime tracker, keep but verify if needed.
 
 - **NPC perception of Caleb:** Very high, intimate, but not unconditional; consent/method breaches matter.
-- **Known facts:** Knows Caleb's family-safety concerns and that their families should meet., Knows the bond is real and consent-relevant., Knows Hexfield structure and public/cofounder role., Knows Gwenllian's recovered name in shrine thread., Knows enough Brigham to challenge Mostyn's wrong framing.
+- **Known facts:** Knows Caleb's family-safety concerns and that their families should meet., Knows the bond is real and consent-relevant., Knows Gwenllian's recovered name in shrine thread., Knows enough Brigham to challenge Mostyn's wrong framing.
 - **Unresolved threads:** Exact family-tree relation to Cho, Family safety/Manchester contact plan, Memory Ointment efficacy on taken memory, Three-Sleeps Water safe assay, Merphila/Gwenllian second-key/pitch follow-through, Forest/unicorn follow-up with Hagrid/Imogen
-- **Recent changes:** Public Hexfield recognition and co-announcing/playing expanded her public role., Library research moved her from bond participant to bond theorist., Shrine thread gave her direct custody/knowledge of Gwenllian's name note.
+- **Recent changes:** Library research moved her from bond participant to bond theorist., Shrine thread gave her direct custody/knowledge of Gwenllian's name note.
 
 ---
 
@@ -4689,7 +4533,6 @@ Dry-warm Hufflepuff Head register with a warm Welsh burr in the transcript. Chee
 ### Research supervision
 
 - Supervises and permits Caleb and Mei’s Merdrake trial.
-- Supplies moondew and mint for the Wiggenweld Julep project.
 - Evaluates safety and legitimacy of ingredient requests such as asphodel.
 - Can serve as living-plant lens on Salve/Three-Sleeps questions, but not as a workaround around adult safety conditions.
 
@@ -4728,14 +4571,6 @@ Current rules:
 - Glass 3 clean-light arm: Evanesco slime itself, not the water or root.
 - Muffs for handling/checks.
 - Log looking, not just growing.
-
-### Wiggenweld Julep
-
-Sprout supplies the herb side: **moondew and mint**. She is not the Potions supervisor, but her living-plant knowledge matters for moondew behaviour, freshness, and extraction questions.
-
-For fine separation/extraction of one component out of a material, she points Caleb to Verity Sage or Slughorn:
-
-> “I grow the stuff, I don’t separate it.”
 
 ### Asphodel / Three-Sleeps / Salve
 
@@ -4874,23 +4709,13 @@ Brothers. Bellatrix's husband and brother-in-law. Among the worst.
 
 - **Name:** Madam Rolanda Hooch
 - **Short name:** Hooch
-- **Role:** Flying instructor, Quidditch authority, referee / coach figure, and Hexfield-to-Quidditch transfer witness
+- **Role:** Flying instructor, Quidditch authority, referee / coach figure
 - **Era:** Hogwarts staff, 1977–78 Marauders-era playthrough
-- **Local institutional function:** school flying authority; Quidditch programme authority; key Board/Governors funding petitioner for Hexfield-as-Quidditch-training; staff witness to Hexfield; gate for any broom or Quidditch adaptation
+- **Local institutional function:** school flying authority; Quidditch programme authority; gate for any broom or Quidditch adaptation
 
 ## Core concept
 
 Hooch is the Quidditch authority who recognizes that a flyer does not start learning on the broom.
-
-Hexfield gives her a ground-based way to train field vision, pressure response, spacing, communication, and role discipline before the players add height, speed, and broom-risk.
-
-## Role in story
-
-Hooch is one of Hexfield’s most important adult validators because her support is practical, not sentimental.
-
-She watched the open session, saw staff support and student performance, and then wanted dedicated Quidditch-side drills. Her Board/Governors petition is not a favor to Caleb; it is a trade:
-
-> Caleb and Liri provide standing weekly training for her Quidditch sides, and Hooch backs funding/resources because she wants the programme.
 
 ## Public reputation
 
@@ -4902,16 +4727,6 @@ Students likely experience her as someone who can spot bad form or reckless thin
 
 Hooch can be more perceptive and kinder than she sounds. She respects courage, but only when it can be trained into control.
 
-She is interested in Caleb not because he is a flyer, but because he can build a ground drill that exposes what Quidditch players hide in the air:
-
-- bunching;
-- silence;
-- tunnel vision;
-- panic;
-- glory-chasing;
-- missed calls;
-- bad field vision.
-
 ## Voice and register
 
 Short, practical, clipped, dry.
@@ -4922,9 +4737,7 @@ Hooch talks like someone watching bodies in motion and already anticipating the 
 
 - “You don’t need to fly to teach a flyer how to think fast.”
 - “I want numbers, Waddell. Not instinct.”
-- “Thursday evenings. You and the Welsh girl. My squads.”
 - “We have a bargain.”
-- “No brooms until I ask for brooms.”
 - “If they bunch, I want it on the board.”
 - “Show me who saw it before it hit them.”
 - “Chasers stay Chasers. Beaters stay Beaters. I am not running a circus.”
@@ -4938,41 +4751,6 @@ Hooch talks like someone watching bodies in motion and already anticipating the 
 - Can distinguish a flashy player from a useful player.
 - Controls the pitch, training structure, first-year flying, Quidditch drills, and role expectations.
 - Has standing with the Board/Governors because Quidditch is a major school sport.
-
-### Hexfield transfer
-
-Hooch recognizes Hexfield’s value for Quidditch before broomwork:
-
-- field vision;
-- reaction speed;
-- spacing;
-- role awareness;
-- communication;
-- threat recognition;
-- recovery under pressure.
-
-Her key point:
-
-> You do not need to fly to teach a flyer how to think fast.
-
-### Institutional authority
-
-Hooch can directly petition the Board/Governors for funding/resources on the strength of her Quidditch programme need.
-
-Corrected route:
-
-- **Henshaw** writes/files the responsible-staff / safety / official-school-sport recommendation.
-- **Hooch** directly petitions the Board/Governors for funding/resources as Quidditch programme need.
-- **Dumbledore** remains the final internal gate for official school-sport status.
-- **Caleb** asks Hooch to make the petition and gives her the rules, safety record, schedule, and metrics.
-
-Do not revert to the muddier older version where Hooch only hands Henshaw a line and he carries all of it.
-
-### Safety judgment
-
-Hooch likely insists on ground-only first.
-
-She understands that fewer injuries is not the same as safe enough. She will not permit novelty to outrun injury prevention.
 
 ### Coaching style
 
@@ -4992,163 +4770,23 @@ She will take a useful ugly drill over a beautiful pointless one.
 
 ## Relationships
 
-### Caleb Waddell
-
-Caleb is a student inventor/operator of Hexfield and Quidditch-training drillrunner under Hooch’s conditions.
-
-Hooch is not charmed by Caleb in the social sense; she is convinced by usefulness. She watched enough Hexfield to know he can build pressure drills. She bargains hard:
-
-> standing drill time for her squads in exchange for her institutional support.
-
-Boundary:
-
-> Caleb does not teach Quidditch. He runs ground-pressure Hexfield drills that Hooch deems useful to Quidditch.
-
-### Lirien Penrose
-
-Liri is Caleb’s co-captain / co-operator for Quidditch-Hexfield drills.
-
-Hooch refers to her practically as “the Welsh girl” in the deal register. Liri’s precision and scoring/annotation make the drill credible rather than theatrical.
-
-### Henshaw
-
-Henshaw handles responsible-staff / safety / school-sport recommendation.
-
-Hooch handles Quidditch-use and direct funding/resources ask.
-
-They are parallel adult supports, not one replacing the other.
-
-### Dumbledore
-
-Dumbledore is the final internal gate for official school-sport status.
-
-Hooch’s written use-case is one of the strongest pieces of evidence Dumbledore can weigh:
-
-> Quidditch authority says the student sport has practical school-sport value.
-
-### Imogen Vale
-
-Imogen is Hexfield cofounder and pitch designer.
-
-Hooch’s approval should not erase Imogen’s cofounder/designer status. Hooch validates training transfer; Imogen owns geometry/design with Caleb.
-
-### Mei Chang
-
-Mei’s performance demonstrates that Hexfield can make non-Quidditch players tactically legible and dangerous. That is useful evidence for Hooch.
-
 ### Quidditch squads
 
 Hooch’s squads remain Quidditch players with fixed roles.
 
-In the Hexfield training variant:
-
-- Chasers stay Chasers.
-- Beaters stay Beaters.
-- Keepers stay Keepers.
-- Seekers stay Seekers.
-- Reserve is not a position.
-
-## Project anchors
-
-### Open-session observer
-
-Hooch watched the Saturday 10 Sept Hexfield open session as part of the teachers’ box with Henshaw, Sprout, Kettleburn, and Sage.
-
-She saw enough play, staff reaction, and the no-injury safety case to later want Quidditch drills.
-
-### Quidditch transfer line
-
-Hooch identifies the key transfer principle:
-
-> A player does not need to fly to learn how to think fast.
-
-Hexfield trains recognition and reaction on the ground before broom-risk is added.
-
-### Funding route correction
-
-Corrected route:
-
-- Henshaw writes/files school-sport/safety recommendation.
-- Hooch directly petitions the Board/Governors for funding/resources as Quidditch programme need.
-- Caleb asks Hooch to make that petition and gives her the rules/safety record/schedule.
-- Dumbledore remains official school-sport gate.
-
-### Weekly drills
-
-Hooch agrees to Thursday evening Hexfield-derived Quidditch drills:
-
-- Thursday evenings;
-- 6:00–7:30 p.m.;
-- first team plus reserves / position-cover players;
-- Caleb + Liri co-running;
-- ground-only at first;
-- role-locked;
-- Hooch wants metrics.
-
-### First drill
-
-First training match:
-
-- **Date:** Thursday 15 Sept 1977
-- **Scheduled:** 18:00–19:30
-- **Room built and ready:** 18:02
-- **Round 1 complete / Round 2 teed up:** 18:18
-
-Round 1 result:
-
-- Leopard Cats 23
-- Owls 3
-- Cats captured and held
-- Owls bunched
-- Owl Beater chased glory
-- nobody called a threat-line
-
-This is exactly the kind of evidence Hooch wants.
-
-### Role-lock
-
-In the Quidditch variant, players do not switch roles.
-
-- Chasers carry/capture flags.
-- Beaters are the main spellcasters/screeners.
-- Keeper holds defensive third.
-- Seeker tracks Snitch Marker and hidden threats.
-
-### Private height-fear arrangement
-
-Hooch has a private height/flying-fear arrangement thread with Caleb after the Hexfield staff round-table.
-
-Treat this as bounded/private, not public humiliation.
-
-## Timeline anchors
-
-1. **Sat 10 Sept 1977, 14:00–~15:30+:** Hooch attends the Hexfield open session as one of five staff in the teachers’ box. She watches enough play and staff reaction to later want Quidditch drills.
-2. **Sat 10 Sept 1977, 15:29:** Staff round-table completes: Henshaw gives staff-backed/student-run/staff-watched verdict; Hooch’s piece is drills for Quidditch sides plus private height-fear arrangement.
-3. **Mon 12 Sept 1977, 10:33:** Henshaw directs Caleb toward Hooch for the Quidditch use-case because it carries more from her hand than his; Henshaw handles responsible-staff/safety recommendation.
-4. **Mon 12 Sept 1977, 10:53–10:54:** Caleb pitches Hooch: Hexfield feeds Quidditch by training reflex-under-fire, full-field awareness, reading/breaking incoming hits, teammate/opponent tracking. Hooch agrees to Thursday evening drills and Board backing.
-5. **Thu 15 Sept 1977, 08:15:** Hooch approves/accepts the Hexfield Quidditch-training guide and wants numbers instead of instinct.
-6. **Thu 15 Sept 1977, 18:00–19:30 scheduled:** First Quidditch-Hexfield drill slot. Room built and ready by 18:02; Round 1 complete and Round 2 teed up by 18:18.
-
 ## Drift flags
 
-- **Not Henshaw-route only:** do not revert to “Henshaw carries Hooch’s funding line” as the sole corrected route. Hooch directly petitions Governors for Quidditch-programme funding/resources; Henshaw handles safety/school-sport recommendation.
-- **Not official approval:** Hooch’s support is not the same as Dumbledore approving Hexfield as an official school sport.
-- **Not broom Hexfield:** do not add brooms to Hexfield unless Hooch explicitly asks.
 - **Fixed Quidditch roles:** Chasers, Beaters, Keepers, Seekers remain their roles.
 - **No reserve role:** reserve is not a position.
 - **Numbers, not instinct:** Hooch wants metrics and evidence.
-- **Not sold from scratch:** Hooch watched the open session. Caleb should close the deal, not explain the whole sport again.
 - **Private height thread:** treat any height/flying-fear arrangement as private and respectful.
 
 ## RAG priority rules
 
-1. Use Hooch when Hexfield intersects Quidditch, Board funding, official sport evidence, or broom-safety.
-2. Her strongest function is Quidditch transfer: thinking fast, seeing the field, reacting under pressure before flight.
-3. She directly petitions the Board/Governors for funding/resources in the corrected version.
-4. She does not replace Dumbledore for official school-sport approval.
-5. Keep her clipped, practical, and measurement-driven.
-6. Make her skeptical of vague claims and interested in hard numbers.
-7. Do not make her need Hexfield explained again after she watched it for hours.
+1. Her strongest function is Quidditch transfer: thinking fast, seeing the field, reacting under pressure before flight.
+2. She does not replace Dumbledore for official school-sport approval.
+3. Keep her clipped, practical, and measurement-driven.
+4. Make her skeptical of vague claims and interested in hard numbers.
 ~~~~~~~~
 
 
@@ -5341,10 +4979,6 @@ Hagrid arrives when Caleb finds the downed white unicorn. He is reverent but pra
 
 He helps move the unicorn with thestral/sledge support and remains in the pumpkin-patch lean-to watch.
 
-### Hexfield training document context
-
-The latest Hexfield Quidditch training guide does not give Hagrid a sports role. Do not drift him into coach/referee/Quidditch authority. If Hagrid appears around Hexfield, it should be grounds/logistics/creature-adjacent only.
-
 ## Timeline anchors
 
 1. **Thu 8 Sept:** Mooncalf practical. Caleb reads hoofprints/emotional state correctly; Hagrid gives good-lad nod and points; Caleb’s Patronus settles the Mooncalves and Hagrid agrees Athena can visit Nealon.
@@ -5364,7 +4998,7 @@ The latest Hexfield Quidditch training guide does not give Hagrid a sports role.
 - Reckless about the forest.
 - Someone who casually blesses student rule-breaking.
 - Someone who hunts unicorns for wonder.
-- A sports/Hexfield/Quidditch authority.
+- A sports/Quidditch authority.
 - A man whose heart cancels his judgement.
 
 ## Drift flags
@@ -5374,7 +5008,6 @@ The latest Hexfield Quidditch training guide does not give Hagrid a sports role.
 - **Forest safety drift:** deep past dry creek / acromantula zone is death, not an adventure.
 - **Unicorn ethics:** do not chase the gold unicorn or any wild unicorn through its home.
 - **Yew grove:** old graves/stones remain unknown unless established later.
-- **Hexfield:** latest Quidditch-training document does not place Hagrid in the drill.
 
 ## RAG priority rules
 
@@ -5454,7 +5087,7 @@ See above. By the late campaign, Snape is a Death Eater on paper and an Order sp
 - **Short name:** Kettleburn
 - **Role:** Care of Magical Creatures professor; official creatures authority; lower-paddock teacher
 - **Era:** Hogwarts staff, 1977–78 Marauders-era playthrough
-- **Institutional function:** official CoMC professor, creature-behaviour interpreter, Nealon Jr’s keeper/handler context, Cawley’s *Materia Magica* authorization route, staff witness to Hexfield, and adult observer in the White Lightning/unicorn anomaly thread
+- **Institutional function:** official CoMC professor, creature-behaviour interpreter, Nealon Jr’s keeper/handler context, Cawley’s *Materia Magica* authorization route, and adult observer in the White Lightning/unicorn anomaly thread
 - **Do not collapse him into:** Hagrid or Aldous Pennycuik
 
 ## Core concept
@@ -5477,7 +5110,6 @@ He matters through:
 - the Knurl hand-feeding scene;
 - Athena’s impossible/foreign pygmy-owl status and intent demonstration;
 - Cawley / creature-material permission;
-- Hexfield staff observation;
 - White Lightning’s unicorn-contact anomaly.
 
 ## Public reputation
@@ -5539,12 +5171,6 @@ He does **not** authorize:
 - war-charged human magic;
 - non-creature restricted topics.
 
-### Hexfield staff observation
-
-- Present in the teachers’ box during the Saturday Hexfield staff assessment.
-- Makes an approving sound during the staff verdict, supporting the “staff get behind it” direction.
-- His approval matters because he is practical and risk-familiar; he does not confuse activity with unacceptable danger.
-
 ### Athena / companion owl
 
 - Instantly identifies Athena as a European pygmy owl.
@@ -5578,7 +5204,7 @@ Pennycuik owns medical interpretation; Kettleburn owns creature-behavior / profe
 
 ### Imogen Vale
 
-Imogen is the creature-Healer-track student and Hexfield cofounder / visual documentarian.
+Imogen is the creature-Healer-track student.
 
 Kettleburn is part of the official creature authority world Imogen is moving toward, but her true career line is Pennycuik / Healer rather than Kettleburn’s teaching role.
 
@@ -5622,15 +5248,11 @@ Kettleburn is genuinely struck: in 26 years keeping Knurls, he has never had one
 
 ### Athena identity
 
-During Hexfield staff-box events, Kettleburn instantly identifies Athena as a European pygmy owl, not a British breeding/wintering species, and asks where Caleb came by her.
+Kettleburn instantly identifies Athena as a European pygmy owl, not a British breeding/wintering species, and asks where Caleb came by her.
 
 ### Athena demonstration
 
 Kettleburn plays along with Caleb’s number-line demonstration, picks seven, and holds still. Athena later dances on his forearm. Kettleburn is audibly stunned; this reads to him as extraordinary companion-owl rapport.
-
-### Hexfield staff support
-
-Kettleburn is one of the staff present for the Saturday Hexfield assessment. He makes an approving sound before Henshaw’s staff-get-behind-it verdict, which matters because he is a practical, risk-familiar professor.
 
 ### Cawley permission
 
@@ -5645,11 +5267,10 @@ At the pumpkin-patch lean-to, Kettleburn laughs at Caleb’s self-deprecating ac
 ## Timeline anchors
 
 1. **Sun 11 Sept 1977 10:04–10:05:** Caleb and Mei go to Kettleburn’s lower paddock / Nealon Jr’s enclosure before finding Kettleburn. Nealon Jr recognizes Caleb, gets niffler-coin from Kettleburn’s feed tin and grubs, and Mei calls him appalling and says she loves him.
-2. **Sat 10 Sept 1977 15:18–15:20:** Kettleburn is present in the teachers’ box for Hexfield with Henshaw/Sprout/Sage/Hooch. He looks over with frank interest and makes an approving sound before Henshaw’s staff-backed verdict.
-3. **Sat 10 Sept 1977 15:24–15:26:** Kettleburn identifies Athena as a European pygmy owl, asks where Caleb came by her, plays along with Caleb’s number-line demonstration, picks seven, and watches Athena perform an intent-response/dance on his forearm.
-4. **Tue 13 Sept 1977 10:52:** CoMC Knurl handling: Caleb brings a slug low/from the side; the Knurl feeds calmly from his hand. Kettleburn notes he has kept Knurls 26 years and never had one feed from a hand it met that morning.
-5. **Tue/Wed 13–14 Sept 1977:** White Lightning lean-to: Kettleburn is called into the unicorn crisis; he later observes the hard-rule anomaly that the unicorn tolerated body contact for warmth.
-6. **Tue 13 Sept / later library state:** Pince/Cawley permission map identifies Kettleburn as the official route for creature-material properties / Cawley’s *Materia Magica*, especially for already-gifted gold unicorn hair.
+2. **Sat 10 Sept 1977 15:24–15:26:** Kettleburn identifies Athena as a European pygmy owl, asks where Caleb came by her, plays along with Caleb’s number-line demonstration, picks seven, and watches Athena perform an intent-response/dance on his forearm.
+3. **Tue 13 Sept 1977 10:52:** CoMC Knurl handling: Caleb brings a slug low/from the side; the Knurl feeds calmly from his hand. Kettleburn notes he has kept Knurls 26 years and never had one feed from a hand it met that morning.
+4. **Tue/Wed 13–14 Sept 1977:** White Lightning lean-to: Kettleburn is called into the unicorn crisis; he later observes the hard-rule anomaly that the unicorn tolerated body contact for warmth.
+5. **Tue 13 Sept / later library state:** Pince/Cawley permission map identifies Kettleburn as the official route for creature-material properties / Cawley’s *Materia Magica*, especially for already-gifted gold unicorn hair.
 
 ## Drift flags
 
@@ -5667,7 +5288,7 @@ At the pumpkin-patch lean-to, Kettleburn laughs at Caleb’s self-deprecating ac
 3. His key register is risk-familiar practical astonishment: he laughs, then studies the fact.
 4. Use him for Cawley / creature-material permission, not Dark Mark or soul material.
 5. Use him to validate creature anomalies without explaining them away.
-6. Preserve Nealon Jr, Knurl hand-feed, Athena European pygmy owl / dance, Hexfield staff approval, and White Lightning contact anomaly.
+6. Preserve Nealon Jr, Knurl hand-feed, Athena European pygmy owl / dance, and White Lightning contact anomaly.
 ~~~~~~~~
 
 ## Sirius Black
@@ -5766,7 +5387,7 @@ Half-blood. Father a Muggle electrician, mother a witch from a small Yorkshire f
 - **Short name:** Sage
 - **Role:** Hogwarts Alchemy professor; NEWT-level specialist; applied alchemist
 - **Era:** Hogwarts staff, 1977–78 Marauders-era playthrough
-- **Institutional function:** Alchemy teacher, bench-method authority, synthesis/fixation lens, witness to Wiggenweld cold-bind work, staff observer of Hexfield
+- **Institutional function:** Alchemy teacher, bench-method authority, synthesis/fixation lens, witness to Wiggenweld cold-bind work
 - **Background:** pre-Hogwarts work at the Royal Society of Alchemists
 - **Not established:** Do not make her Head of House, Potions professor, or general magical-science catch-all. Her lane is Alchemy.
 
@@ -5778,7 +5399,7 @@ She notices the pattern already present in a material or student, then names the
 
 ## Role in story
 
-Sage turns Caleb’s projects from clever chaos into method. She provides the Alchemy vocabulary for Wiggenweld fixation, recognizes Hexfield as a synthesis environment, gives careful Liri guidance without making Liri feel tested, and holds bench authority for non-destructive material comparisons such as unicorn hair.
+Sage turns Caleb’s projects from clever chaos into method. She provides the Alchemy vocabulary for Wiggenweld fixation, gives careful Liri guidance without making Liri feel tested, and holds bench authority for non-destructive material comparisons such as unicorn hair.
 
 ## Public reputation
 
@@ -5840,13 +5461,6 @@ She corrects terminology, refuses sloppy metaphor, and gives praise by sharpenin
 - Can witness and frame Cass’s cold-bind Wiggenweld result as important but preliminary.
 - Holds/hosts bench material: A and C Wiggenweld results, unicorn hair comparison material, rorilucens specimens.
 
-### Hexfield and synthesis
-
-- Sees Hexfield as a synthesis environment rather than merely a sport.
-- Uses Damascus/pattern-welding/etch metaphor to explain how pressure reveals an existing pattern rather than creating it.
-- Gives Caleb practical instruction on watching Liri without making her feel examined.
-- Participates in staff round-table as the synthesis/Liri-development lens.
-
 ### Materials and properties
 
 - Appropriate adult for non-destructive comparison work on unusual magical materials.
@@ -5858,7 +5472,7 @@ She corrects terminology, refuses sloppy metaphor, and gives praise by sharpenin
 
 ### Caleb Waddell
 
-Alchemy teacher, methodological adult, bench supervisor, Hexfield observer.
+Alchemy teacher, methodological adult, bench supervisor.
 
 Caleb brings inventive overreach; Sage supplies terms, controls, patience, and the difference between a result and a finding. She is interested in his work when it becomes method rather than noise.
 
@@ -5866,7 +5480,7 @@ Caleb brings inventive overreach; Sage supplies terms, controls, patience, and t
 
 Only other student in Caleb’s two-person NEWT Alchemy class.
 
-Sage expects patience from Liri and likely sees more than Liri wants her to see. Liri finished Argyros in four days but has not told Sage. Sage’s guidance around Hexfield is careful: do not watch Liri like a test; watch her like she belongs.
+Sage expects patience from Liri and likely sees more than Liri wants her to see. Liri finished Argyros in four days but has not told Sage. Sage’s guidance is careful: do not watch Liri like a test; watch her like she belongs.
 
 ### Cassiopeia Vance
 
@@ -5876,15 +5490,9 @@ Sage recognizes Cass’s idea as real but preliminary. She backs the fact that C
 
 ### Mei Chang
 
-Indirect partner through Caleb’s projects and Hexfield/staff observation.
+Indirect partner through Caleb’s projects and staff observation.
 
 Mei’s methodological seriousness pairs well with Sage’s exactness; Sage does not need to be sentimental about Mei to respect the structure around Caleb’s work.
-
-### Henshaw / Sprout / Kettleburn / Hooch
-
-Fellow staff witnesses at Hexfield round-table.
-
-Sage supplies the Alchemy/synthesis interpretation while other staff supply Defence, House support, creatures, and Quidditch use-case.
 
 ### Slughorn
 
@@ -5910,10 +5518,6 @@ Thursday 15 Sept morning reading: fixation = volatile body made to abide the fir
 
 Sage witnesses/backstops A and C work. Cass’s C batch binds cold, healing a potato cut a breath slower. Sage confirms it bound, but insists one trial is not a finding.
 
-### Hexfield staff round-table
-
-Sage attends the staff round-table and interprets Hexfield through pattern-welding/etch: the pattern exists already; the conditions reveal it.
-
 ### Liri guidance
 
 Sage tells Caleb not to watch Liri like a test. Watch her like it is plain she belongs there.
@@ -5926,7 +5530,7 @@ Sage holds unicorn hair white ×9 + gold ×7 for non-destructive properties/comp
 
 1. **Thu 8 Sept 1977 10:39–10:43:** Caleb arrives to Alchemy classroom. Sage asks if he has recovered from the prior potions-fume reaction, having read the staff register. Lecture begins on base-metal recalcitrance under Calcination heat.
 2. **Thu 8 Sept 1977 11:08–11:09:** Sage sets pair-work: two lead ingots, two braziers, slow Calcination at low heat, watch and document lead not reacting for roughly 45 minutes.
-3. **Sat 10 Sept 1977 15:30:** During Hexfield staff round-table, Sage corrects Caleb’s acid-bath joke to ferric chloride and explains the etch/pattern metaphor for Liri.
+3. **Sat 10 Sept 1977 15:30:** Sage corrects Caleb’s acid-bath joke to ferric chloride and explains the etch/pattern metaphor for Liri.
 4. **Thu 15 Sept 1977 08:16–08:38:** Caleb reads the fixation chapter before class: volatile body made to abide the fire.
 5. **Thu 15 Sept 1977 10:45–12:15:** Alchemy period flagged for A and C Wiggenweld work with Sage, Liri, and possibly Cass.
 6. **Thu 15 Sept 1977 12:18:** Cass tells the table her cold/no-heat moondew-side idea worked. Liri confirms; Sage says one trial is not a finding, but yes, it bound cold.
@@ -6006,400 +5610,6 @@ These files are kept because they contain cross-character continuity, transcript
 
 
 The following newly uploaded files are preserved unabridged. They are not reduced to summaries because they contain cross-character continuity, transcript excerpts, quotes, permissions, project state, and drift corrections.
-
-
-## Appendix Source — HEXFIELD_POSITIVE_EVIDENCE_AND_PROFESSOR_QUOTES.md
-
-
-#### Source: `HEXFIELD_POSITIVE_EVIDENCE_AND_PROFESSOR_QUOTES.md` — latest upload
-
-~~~~~~~~markdown
-# Hexfield — Positive Outcome Evidence & Professor Reaction Quotes
-
-## Purpose
-
-This file collects supporting material for showing that Hexfield was received positively, ran safely, and earned staff backing.
-
-Use this as a support section for:
-
-- Board / Governor funding arguments
-- Hooch’s Quidditch-training request
-- Henshaw’s responsible-staff recommendation
-- a Hexfield charter / school sport proposal
-- playthrough continuity
-
-## Core claim
-
-Hexfield has already demonstrated that it can be:
-
-1. fun,
-2. educational,
-3. cross-House,
-4. student-built,
-5. staff-observed,
-6. safe under sensible limits,
-7. useful as applied Defence,
-8. useful for Quidditch reflex / awareness training,
-9. and valuable enough that multiple professors want it preserved rather than confiscated.
-
-## Safety record
-
-### Confirmed safety points
-
-- Hexfield had already been played once on Sunday with 8 players, cleanly and with no injuries.
-- Henshaw approved the Saturday open session only after Caleb answered safety questions honestly.
-- Henshaw required a 4th-year-and-up cap after identifying first-years as a risk.
-- Henshaw personally attended Saturday at 2:00 as a staff observer.
-- Esme Holroyd and Imogen Vale were already positioned as spotters for injuries.
-- Saturday’s staff verdict later treats Hexfield as having been played cleanly and safely enough to support.
-- Henshaw’s later recommendation is explicitly framed as responsible-staff / safety / played-twice-cleanly / no injuries.
-
-### Useful safety sentence
-
-> Hexfield has been played twice cleanly, under observed conditions, with no injuries, with age restrictions added after staff review, and with adult observation accepted as part of the permanent open-session model.
-
-## Attendance / credibility
-
-### Staff present at Saturday Hexfield
-
-The teachers’ box had five staff:
-
-- Professor Henshaw
-- Professor Sprout
-- Professor Kettleburn
-- Professor Sage
-- Madam Hooch
-
-This matters because Hexfield was not merely liked by students. It was watched by multiple adult specialists, each of whom found a different reason it had value.
-
-### Student / social response
-
-The event had a large mixed-House audience and active participation. It was not one friend group playing a private game.
-
-It demonstrated:
-
-- cross-House participation,
-- public enthusiasm,
-- announcer engagement,
-- student discipline under rules,
-- visible tactical learning,
-- and a crowd who stayed to watch.
-
-## Direct / near-direct transcript quotes and support lines
-
-## Henshaw — pre-session safety review
-
-### Context
-
-Before Saturday’s open session, Henshaw asked two hard safety questions:
-
-1. Who is making sure no one gets badly cast at?
-2. Is anyone going to cast at first-years who cannot dodge?
-
-Caleb answered that Esme and Imogen were watching for injuries, that Henshaw was welcome, and that the format naturally favoured 4th-year-and-up casting. Henshaw approved the adjustment.
-
-### Quote
-
-> “Fourth-year-and-up. That’s the right cap. Make it explicit on the notice. As for me being there — I will come at two. I will not interfere unless something is going wrong. I’m not refereeing your game, Mr Waddell. I’m watching it. I want to see what you’ve built before deciding whether the staff needs to be involved in it.”
-
-### Evidence value
-
-This quote shows:
-
-- Hexfield was not reckless.
-- Staff safety concerns were raised before the open session.
-- Caleb accepted a stricter age cap.
-- Henshaw attended as observer, not confiscator.
-- Adult oversight began before officialization.
-
-## Henshaw — staff verdict after watching
-
-### Quote
-
-> “So here’s where I land. I’m not taking this off you. I’m putting the staff behind it — carefully, and on terms.”
-
-### Quote
-
-> “It stays student-run. You two are the cofounders, it’s your sport, and the day a teacher starts designing it is the day it dies. I’m not going to be the man who killed it by helping too hard.”
-
-### Quote
-
-> “But it gets a member of staff present at every open session — not refereeing, just there, the way I was today. Liability. A hundred children casting hexes in a room wants an adult who can stop it if it goes wrong, even if it never does. I’ll take that duty myself for now. Sprout’s volunteered the Hufflepuff angle if I can’t make a date.”
-
-### Evidence value
-
-This is the strongest institutional support.
-
-It proves:
-
-- staff are behind Hexfield,
-- Henshaw is not confiscating or shutting it down,
-- he wants it student-run,
-- he requires adult observation for liability,
-- he volunteers himself as observer,
-- Sprout volunteers as backup,
-- and the safety model is proactive.
-
-## Henshaw — applied Defence value
-
-### Quote
-
-> “A game that teaches children to fight well is a good thing in a year when fighting well is becoming a survival trait.”
-
-### Quote
-
-> “It’s also a thing the wrong people would find very interesting if they understood what it was actually training. I’m not warning you off it. I’m telling you I see both edges of it — and so should you.”
-
-### Evidence value
-
-This is the strongest Defence argument.
-
-It proves Hexfield teaches:
-
-- cover,
-- positioning,
-- timing,
-- callouts,
-- recovery,
-- movement under pressure,
-- applied DADA,
-- and real fight habits without treating combat as glamorous.
-
-It also shows Henshaw is not naive. His support is informed and sober.
-
-## Henshaw — Board / officialization route
-
-### Quote / tracker framing
-
-> Henshaw writes the responsible-staff-member recommendation: Hexfield has been played twice cleanly, with no injuries, and he vouches for safety and standing as the staff member accountable for it.
-
-### Quote
-
-> “Catch her at the pitch — she’s flying first-years off their brooms into the mud most mornings this week, she’ll be out there. Mind you ask for the line in writing while she’s still warm on the idea, not a fortnight on when she’s thinking about something else.”
-
-### Quote
-
-> “Good. Bring me both papers and I’ll do the walking.”
-
-### Evidence value
-
-This supports the official-sport path:
-
-- Henshaw can write the safety/recommendation paper.
-- Hooch supplies the Quidditch use-case.
-- Together they support Board/Governor action.
-- Henshaw is willing to carry the official request forward.
-
-## Sprout — staff-watched support / backup
-
-### Quote / tracker support
-
-> Sprout volunteered as backup staff presence if Henshaw cannot make a date.
-
-### Evidence value
-
-Sprout’s support matters because it is not DADA-only. It shows Hexfield has broader staff goodwill, especially from a Head of House with practical safety instincts.
-
-Suggested proposal line:
-
-> Professor Sprout has agreed to act as backup adult presence for open sessions, supporting a staff-watched but student-run model.
-
-## Kettleburn — approving reaction
-
-### Quote / support
-
-> Kettleburn made an approving sound.
-
-### Quote / arrival read
-
-> “Waddell, you have invented a sport and I am here for it.”
-
-### Evidence value
-
-Kettleburn’s support matters because he is a practical, risk-familiar professor. His approval suggests the sport reads as active, chaotic, and still acceptably controlled to someone comfortable with dangerous teaching environments.
-
-Suggested proposal line:
-
-> Professor Kettleburn’s reaction was approving rather than alarmed, which matters because he is not a professor inclined to mistake activity for danger.
-
-## Hooch — Quidditch use-case
-
-### Context
-
-Hooch watched the Saturday session, enjoyed it, and later entered a bargain for Thursday-evening drills with Caleb and Liri.
-
-### Quote
-
-> “You don’t need to fly to teach a flyer how to think fast. I watched you do it on the ground all Saturday.”
-
-### Quote
-
-> “Thursday evenings, you and the Welsh girl, my squads. I’ll write the Board. We’ve a bargain, Waddell.”
-
-### Evidence value
-
-This is the strongest Quidditch argument.
-
-It proves:
-
-- Hooch saw the transfer value,
-- Caleb’s role is not flying instruction,
-- Hexfield trains the reflex behind Quidditch,
-- she wants regular drill time,
-- she wants Caleb and Liri involved,
-- and she is willing to write to the Board.
-
-## Sage — applied synthesis / Alchemy lens
-
-### Quote
-
-> “Damascus. Pattern-welded. Yes. And note the thing in your own metaphor, Mr Waddell — the layers are in the billet before anyone folds it. You don’t put the beauty in. You fold and forge and then you etch, and the acid shows you a pattern that was in the steel the whole time.”
-
-### Quote
-
-> “You’re not making her into anything. She is already made. You are only one of the conditions under which the pattern comes up to where it can be seen.”
-
-### Quote
-
-> “I came for the Alchemy, Mr Waddell. I’m staying for the etch.”
-
-### Evidence value
-
-Sage’s reaction is less about sport funding and more about what Hexfield does socially and developmentally.
-
-It supports:
-
-- Hexfield revealing hidden ability,
-- Liri emerging publicly,
-- the sport as a transformative environment,
-- the idea that Hexfield creates conditions where students show patterns already present.
-
-### Optional supporting line
-
-> Professor Sage saw Hexfield not only as a game but as a synthesis environment: a system where pressure, structure, and play reveal existing capacities.
-
-## Mei — early conceptual support
-
-### Quote
-
-> “Hexfield is a winner.”
-
-### Quote
-
-> “It sounds fun, and yes — it would teach all of us things we don’t currently know about wand-work under pressure. Tracking, anticipation, reading people, paths, hiding — none of those are in the Henshaw curriculum.”
-
-### Evidence value
-
-Mei’s early read is important because she is methodical and skeptical enough that her approval carries weight. She identifies the exact transferable skills before the staff sees them.
-
-## Liri — public performance / announcer evidence
-
-### Quote
-
-> “Round Three. On the whistle.”
-
-### Quote
-
-> “Gold holding the Purple flag with all of Purple arriving to discuss it. Chang at the pole. Clock at twenty. Wan screening left, Greaves down but he bought the seconds. This is the flag-hold window doing exactly what it was built to do, and it is horrible to watch, in the good way.”
-
-### Evidence value
-
-Liri’s announcing demonstrates:
-
-- strategic readability,
-- audience comprehension,
-- pressure commentary,
-- tactical language,
-- and that Hexfield can be followed as a spectator sport.
-
-It also supports Sage’s point: Liri, normally private/withdrawn, performed for a hundred-odd students and became visible through the sport.
-
-## Clean constructed dialogue section for a support proposal
-
-This section is not all verbatim transcript. It is a cleaned, proposal-ready reconstruction based on established reactions.
-
-### Caleb to staff
-
-> “The safety record is the point. We played it once privately with eight players and no injuries. We opened it under observation, capped participation at fourth-year-and-up after Professor Henshaw’s question, placed spotters for injuries, and ran it with staff in the room. If something had gone wrong, it would have been seen and stopped. Nothing did.”
-
-### Henshaw
-
-> “I am not taking it off them. I am putting staff behind it, carefully, and on terms. Student-built, student-run, staff-watched. That is the model I am prepared to stand behind.”
-
-### Sprout
-
-> “If Septimus cannot make a session, I can stand in. Not to run the thing — Merlin spare us from professors improving a good student sport into paperwork — but to be present. A greenhouse full of dangerous plants is not made safe by pretending nothing can go wrong. It is made safe by having someone there who knows when to step in.”
-
-### Kettleburn
-
-> “They have built a game that lets students fall down without breaking anything, learn pressure without losing teeth, and discover very quickly whether they can think while moving. That is not a bad afternoon’s work.”
-
-### Hooch
-
-> “I do not need Waddell on a broom. I need what I watched him do from the ground: read bodies, call pressure, anticipate hits, and see the field before the field moved. That is exactly the layer Quidditch players need before the broom ever leaves the ground.”
-
-### Sage
-
-> “The sport does not make students into something else. It reveals what pressure, rules, and play bring to the surface. I watched a private girl become legible to a room in one afternoon. That is not small.”
-
-### McGonagall, if she is later asked to assess it
-
-> “I am not interested in whether it is exciting. Many unsafe things are exciting. I am interested in whether it is governed, bounded, supervised, and useful. If the record is accurate — fourth-year-and-up, legal spell list, revives, runbacks, staff observation, and no injuries — then it deserves consideration.”
-
-## Proposed evidence appendix
-
-### Evidence for safety
-
-- Played privately with 8 players.
-- No injuries.
-- Saturday open session had staff present.
-- Participation capped at 4th-year-and-up.
-- Injury spotters assigned.
-- Spell list bounded.
-- Downed/glow system prevents ambiguity.
-- Revive/runback system prevents pile-ons and keeps players from staying out indefinitely.
-- Staff-watched model accepted.
-- Henshaw offers himself as standing observer.
-- Sprout offers backup adult presence.
-
-### Evidence for educational value
-
-- Henshaw identifies it as real DADA work.
-- It trains cover, positioning, timing, callouts, and movement under pressure.
-- Mei predicted it trains tracking, anticipation, paths, hiding, and wand-work under pressure.
-- Hooch identifies Quidditch transfer value: thinking fast without needing to fly.
-- Sage identifies synthesis/development value.
-- Kettleburn approves from a practical-danger teaching lens.
-
-### Evidence for institutional value
-
-- Five professors attended.
-- Staff did not confiscate it.
-- Staff verdict trends behind it.
-- Henshaw backs officialization under conditions.
-- Hooch wants weekly Quidditch-side drills.
-- Henshaw can write staff recommendation.
-- Hooch can write/petition Board use-case.
-- Sport remains student-run, preserving its creative value.
-- Staff presence solves liability without killing ownership.
-
-### Evidence for social / school value
-
-- Cross-House participation.
-- Public enthusiasm.
-- Spectator comprehension.
-- Student cofounder ownership.
-- House-neutral play.
-- House-elves attended as guests.
-- Liri became socially visible through announcer work.
-- Mei’s win showed tactical credibility without Caleb interference.
-- The game created joy without losing structure.
-
-## Best one-paragraph summary
-
-Hexfield has now been played under both private and open conditions, with no recorded injuries, bounded legal spells, a fourth-year-and-up participation cap, injury spotters, and staff observation. The Saturday session drew five professors, mixed-House players, spectators, and kitchen guests; it was received as fun, legible, and tactically meaningful. Henshaw judged it strong enough to back as student-run and staff-watched applied Defence; Sprout volunteered as backup staff presence; Kettleburn approved from a practical-risk teaching lens; Sage recognized its synthesis and student-development value; and Hooch saw direct Quidditch-transfer use, later agreeing to Thursday-evening drills and Board support. The strongest institutional argument is not that Hexfield is harmless because nothing can happen, but that it is useful, bounded, supervised, and has already demonstrated a clean safety record under observation.
-~~~~~~~~
-
 
 
 ## Appendix Source — CUTHBERT_SALVE_OF_MEMORY_TRANSCRIPT_EXCERPTS.md
@@ -6633,7 +5843,7 @@ The unresolved relationship problem is:
 - **House/year:** Slytherin 7th-year, age 18.
 - **Blood/family:** Pure-blood old line, Slytherin-tracked since Hippolyta Vance in 1693.
 - **Surname rule:** Vance is canon. Selwyn is early drift; do not revive except in source notes.
-- **Public role:** Marcus’s person, respected Slytherin, dangerous duelist/Hexfield player, dry exacting presence.
+- **Public role:** Marcus’s person, respected Slytherin, dangerous duelist, dry exacting presence.
 - **Private truth:** A good person under survival armour, built for family rooms where softness was unsafe.
 - **Major current conflict:** whether she remains the straight-backed family product or becomes the laughing/winning girl her family never photographed.
 
@@ -7348,7 +6558,6 @@ Core rule:
   - later / likely rowan and other billets in broader inventory.
 - Twist of woodlice for bowtruckle etiquette.
 - Cuthbert puzzle-book / herbal.
-- Hexfield notebook.
 - Research slip:
   - open titles,
   - restricted detection titles,
@@ -8395,7 +7604,7 @@ Catalogue closes: *"Add to this list when you find more. Hide the list again whe
 | 2C | Right of fireplace (twin) | CW 15° / CCW 15° / bop | Yellow-orange→violet ~2s / pale silver ~2s / same as 1C | Aisling |
 | **1C+2C** | Both, simultaneous CW 15° | **Fireplace banks low, relights with FLAMES IN ALL FOUR HOUSE COLOURS spiralling ~5s. Unprecedented in living memory.** | — |
 | **1C+2C** | Both, simultaneous CCW 15° | **Clean WHITE flame, no heat, room WARMS ~5s. Possible healing/comfort charm.** | — |
-| 3C+4C | Bulletin-board pair | CW 15° simultaneous | All notices lift ¼", hover ~2s, settle. (Empty Hexfield clipboard hook showed a ghost-clipboard outline.) Individual single-sconce effects not recovered — fill if found. | Sorcha + Niamh |
+| 3C+4C | Bulletin-board pair | CW 15° simultaneous | All notices lift ¼", hover ~2s, settle. Individual single-sconce effects not recovered — fill if found. | Sorcha + Niamh |
 | 5C | East wall under windows | CW 30° | **Reading-lamp halo** above any open book within 1m. Study charm. | confirmed (Sorcha's open book) |
 | 6C | East wall | CCW 45° | Nearest closed book gives an *open-me* shiver (3 books at the round table did it at once). | — |
 | 7C | East wall | all protocols | **Non-responsive.** Decayed or never charmed (cf. R6). | — |
@@ -8809,7 +8018,6 @@ Core rule:
   - later / likely rowan and other billets in broader inventory.
 - Twist of woodlice for bowtruckle etiquette.
 - Cuthbert puzzle-book / herbal.
-- Hexfield notebook.
 - Research slip:
   - open titles,
   - restricted detection titles,
@@ -10387,153 +9595,4 @@ Silver Night-Flower / Waddellia rorilucens / W. rorilucens — unknown forest-se
 And the core rule for future narration should be:
 
 Do not explain it yet. Observe, sample, test fresh vs held, preserve roots, preserve darkness, and keep unicorn choice primary.
-~~~~~~~~
-
-
-
-## Appendix Source — RAG_WIGGENWELD_JULEP_PROJECT.md
-
-
-#### Source: `RAG_WIGGENWELD_JULEP_PROJECT.md` — latest upload
-
-~~~~~~~~markdown
-# RAG PROJECT — Wiggenweld Julep / Caleb’s Folly
-
-## Object type
-- **Category:** research project / experiment
-- **Project key:** `wiggenweld_julep_calebs_folly`
-- **Status:** Active
-- **Primary names:** Wiggenweld Julep, Caleb’s Folly, ethanol-Wiggenweld solvent/bind experiment
-
-## One-line summary
-Caleb’s alcohol-solvent Wiggenweld variant began as a bourbon-mint julep joke with Cassia Burbage and was narrowed by Slughorn into a NEWT-scale ethanol/Wiggenweld experiment: can alcohol carry a healing bind, and can ethanol improve the moondew side without breaking the water-mediated bind bridge?
-
-## Do not confuse
-- **Cassia Burbage** = adult Slug & Jiggers apothecary contact; original formulation/counterparty.
-- **Cassiopeia “Cass” Vance** = student chemistry reviewer; validates/refines Liri’s moondew-solvent logic.
-- **Three-Sleeps / Salve of Memory** = separate projects with overlapping shopping/greenhouse ingredients.
-- **Literal cocktail** = origin joke; current project is a controlled potion experiment.
-
-## Origin and development
-
-### 31 Aug — Cassia Burbage / Slug & Jiggers
-Cassia brewed a standard Wiggenweld for reference, gave Caleb a demonstration phial, and required any recipe to be properly written with **weights and times**. “Caleb’s Folly” belongs to this origin point.
-
-### 31 Aug — first crude julep test
-Caleb tested one drop of finished Wiggenweld in a bourbon mint julep. It did not visibly work. The interpretation became: alcohol bound the moondew on contact and neutralized healing. Therefore, do not add finished Wiggenweld to alcohol; build the halves so the bind occurs correctly.
-
-### 2 Sept — Slughorn narrows the project
-Slughorn reframed the Folly as master’s-track work but narrowed it:
-- one spirit,
-- one potion,
-- one year,
-- test whether alcohol can carry a potion bind.
-
-Caleb chose **pure ethanol** because it is clean: no congeners, no flavour, no cocktail chemistry.
-
-### 8 Sept — Liri and Cass Vance refine the chemistry
-Liri’s read: ethanol is a better solvent for moondew than water.
-
-Cass’s correction: water in canonical Wiggenweld is not just solvent; it also works as coolant and bind-bridge between the warm bark/salamander side and the cold moondew side. Ethanol improves solvent function but worsens bridge function. The experiment tests whether the trade is net positive.
-
-Do **not** claim canonical Wiggenweld is wrong before results.
-
-### 11 Sept — Sprout / mint / office feasibility
-Sprout supplies the herb-side logic. Moondew is silver-furred, mercury-bright, cold/faintly sweet, and numbs the tongue. The user corrected that **mint** was wanted for the julep.
-
-Mei says Brigham’s office can support small harmless brewing: vent west window, clear side table, use burner/stand, carry water. Three-Sleeps is not office-safe; Wiggenweld Julep is.
-
-### 13 Sept — current office setup
-Sprout supplied moondew and mint. Slughorn supplied ethanol, salamander blood, and wiggentree bark. Caleb, Mei, and Liri set up the office bench. Bark was ground uniformly. Control was brewed. Cold steeps were started. Potato/saline assay began.
-
-## Participants
-
-- **Caleb Waddell:** project originator / experimental lead.
-- **Mei Chang:** methodology partner and note-keeper.
-- **Liri Penrose:** Alchemy brain, water-snag spotter, saline mixer, cold-crock watcher.
-- **Cassia Burbage:** origin apothecary partner, reference Wiggenweld, recipe-with-weights-and-times requirement.
-- **Cass Vance:** chemistry reviewer; validates bind-bridge logic and 0.9% saline.
-- **Slughorn:** Potions supervisor and ethanol/procurement authority.
-- **Sprout:** moondew and mint supplier; herb/extraction logic.
-- **Verity Sage:** possible alchemy extraction authority if the bark problem becomes component-separation work.
-
-## Materials
-
-### Ingredients
-- Pure ethanol.
-- Moondew.
-- Mint.
-- Wiggentree / rowan bark.
-- Salamander blood.
-- Water.
-
-### Equipment
-- Mortar and pestle.
-- Small brass burner and stand.
-- Clean phials.
-- Stirring rod.
-- Scales.
-- Jug of water.
-- Charmed/frosted crock.
-- Potatoes.
-- Salt for 0.9% saline.
-
-## Experimental groups
-
-| ID | Condition | Purpose | Current state |
-|---|---|---|---|
-| **Control** | Standard water-only Wiggenweld | Positive baseline | **DONE**. Bright green. Potato cut visibly closed inside 1 min, near-shut at 2. |
-| **A** | Hot bark+salamander side in water; moondew+mint side in pure ethanol; join at canonical moment | Primary ethanol-side test | Ethanol half resting/chilled; hot bark side pending. |
-| **B** | Same as A, but ethanol half brought to brewing temperature and held 90 sec before join | Tests whether warmed/settled ethanol improves bind timing | Heated half pending. |
-| **C** | Cass’s addition: moondew+mint in pure ethanol, cold-brewed/no heat, joined to standard hot bark+salamander side | Tests whether moondew side has been heated unnecessarily | Cold ethanol half in crock; hot side pending. |
-| **D** | Total cold brew: all components cold-steeped together | Wild all-cold assembly test | Single jar in crock, days from ready. |
-| **E** | Two separate cold halves: bark+salamander cold in one, ethanol+moondew+mint cold in another; join later | Comparator for D; tests whether separation matters | E pair in crock, days from ready. |
-
-## Assay
-
-- **Substrate:** peeled potato cut with standardized nick.
-- **Medium:** 0.9% saline.
-- **Negative control:** bare cut in saline only.
-- **Positive yardstick:** Control Wiggenweld.
-- **Control result:** visible closure inside one minute, near-shut at two minutes.
-- **Schedule:** day 1, day 3, day 7, day 14.
-- **Constants:** same cut, same drop, same clock, same saline.
-
-## Current state — Tue 13 Sept ~14:11
-
-### Done
-- Kit gathered.
-- Water jug acquired.
-- Bark ground uniformly.
-- Cold steeps started in charmed/frosted crock.
-- Control brewed.
-- Day-1 Control potato assay started.
-
-### In progress
-- D jar cold-steeping.
-- C cold half.
-- A ethanol half.
-- E two cold halves.
-- Control day-1 assay.
-
-### Pending
-- B heated half.
-- Hot bark sides for A/B/C.
-- Assay other ready batches.
-- Track exact steep times.
-- Protect moondew.
-- Day 3 / 7 / 14 readings.
-- Update Slughorn proposal/cost ledger.
-- Any tasting only with witness/approval.
-
-### Liri status
-Liri is trusted to stay in the office, work on Arithmancy, and mind the crock while Caleb and Mei leave.
-
-## Drift rules
-1. Current active formula uses **moondew+mint** and **wiggentree bark+salamander blood**.
-2. Older lavender/dittany/10–20% ethanol phrasing is older proposal drift unless explicitly revived.
-3. Cassia Burbage and Cass Vance are separate.
-4. Current labels are **Control/A/B/C/D/E**.
-5. Office brewing is fine for harmless Wiggenweld Julep work, not Three-Sleeps.
-6. Do not overclaim that canonical Wiggenweld is wrong before data.
 ~~~~~~~~

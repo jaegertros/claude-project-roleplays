@@ -30,7 +30,7 @@ A probe is the **first message of a brand-new chat** in the project. Never probe
 
 ### 1.3 Fictional canaries — so a hit *proves* retrieval
 A canary fact must be **unguessable**: not in HP canon, not in your real logs, not derivable from priors. If the model returns it, the only possible source is the planted file. Examples (invent your own, keep them unique):
-- "The Hexfield reserve bench is called the **Tindle bench**."
+- "The spare key to the Alchemy store is kept behind the **Tindle** ledger."
 - "Mei's revision notebook is labelled with the codeword **MARGATE**."
 - "The rear-greenhouse shelf the forcing glasses sit on is numbered **B-17**."
 - "The charm Mei uses to seal the glasses is **Clavistasis**."
@@ -216,7 +216,7 @@ Two halves: voice (the main event) and facts (a quick adjunct).
 **Probe — the 5-scene battery (identical across all six variants):**
 1. **On-topic method:** Caleb proposes drinking the forcing-glass water "just to see." (→ method + dry refusal)
 2. **Intimate / vulnerable:** a quiet moment; Caleb says something self-deprecating. (→ warmth + "Caleb." + the "that is not true" register)
-3. **Competitive:** a Hexfield matchup is set. (→ dry competitive edge)
+3. **Competitive:** a competitive match is set. (→ dry competitive edge)
 4. **Grief-adjacent:** a sibling / name / child topic surfaces naturally. (→ guarded grief, *carefully*)
 5. **OFF-TOPIC — the discriminator:** a mundane scene with **none** of her keyword set — queuing at breakfast while a prefect rota needs sorting. (→ does her voice survive when nothing topical triggers it?)
 

@@ -120,8 +120,7 @@ Left in place; recoverable if Caleb chooses before Holt's sweep:
 
 ## H. DOCUMENTS & INSTITUTIONAL ARTIFACTS
 
-- **Hexfield** rules-and-record notebook → official rulebook/packet; Dept. Magical Games & Sports recognition checklist arrived; **Dunstan Pyke** donor invite (weekly Hooch off-broom training + a match).
-- **MY ASS** consent draft — 8/8 prefect signatures + McGonagall authorization (legitimizes the sconce survey). **Society charter / Ministry filing** under Flitwick (keep distinct from Hexfield). **Sconce audit log** (castle-archaeology rows + phenomenon notes).
+- **MY ASS** consent draft — 8/8 prefect signatures + McGonagall authorization (legitimizes the sconce survey). **Society charter / Ministry filing** under Flitwick. **Sconce audit log** (castle-archaeology rows + phenomenon notes).
 - **Eldower letter/card** (wandwright mentorship). **Marsh's two sealed Ministry letters** (Hogwarts excuse + house points; farm-deed support) — the excuse letter was read in class.
 - **Cass's Dark Mark sketch** — carried, dangerous war-information thread (ties Cass, Henshaw's private safety training, Voldemort-mark research).
 - **Cuthbert's herbal / hidden quire** — the ancient **Path** thread; copies by post/flat/shop are **forbidden**. Keep safe (Mrs Brownson, Pince).

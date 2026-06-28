@@ -624,8 +624,8 @@ prose:
   performed after every linseed coat on the brother wands). So "it needs a bench
   cure + binding / proper contact along the wood" is invented and contradicts the
   build — the handle IS the contact. The brother wands are the design in action: one
-  unicorn, one tree, his-and-hers, anchored-open-rib — and they cast clean in combat
-  (Hexfield). Eldower himself handled the built brother wands and stood awed inside
+  unicorn, one tree, his-and-hers, anchored-open-rib — and they cast clean in combat.
+  Eldower himself handled the built brother wands and stood awed inside
   the brother-lock — "sixty years cutting wands and I've never once stood inside one"
   — having already opened a door he hadn't opened in years off the drawings alone.
   The master has twice vindicated this design. The Narrator has no standing to gate
